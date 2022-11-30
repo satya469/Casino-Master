@@ -1,0 +1,2058 @@
+{ 
+    "_id" : {"$oid":"603d0afd3f8f0dc724aebd3e"}, 
+    "email" : "steve@igamez.ai", 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "123123123123", 
+        "address" : "wwww", 
+        "city" : "www", 
+        "postcode" : "123123123123"
+    }
+}
+{ 
+    "_id" : {"$oid":"6040c95e571a9afc5421bbb2"}, 
+    "email" : "abcd@gmail.com", 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9637319746", 
+        "address" : "AK NGP", 
+        "city" : "NGGPA", 
+        "postcode" : "44007"
+    }
+}
+{ 
+    "_id" : {"$oid":"604a16fe571a9afc5431354c"}, 
+    "email" : "test@gmail.com", 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "123123412312", 
+        "address" : "2342342", 
+        "city" : "123123123", 
+        "postcode" : "123123123"
+    }
+}
+{ 
+    "_id" : {"$oid":"604a1ceb571a9afc54314889"}, 
+    "email" : "pridetest@gmail.com", 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "123123123123", 
+        "address" : "wwww", 
+        "city" : "www", 
+        "postcode" : "12345"
+    }
+}
+{ 
+    "_id" : {"$oid":"604eae5c571a9afc54377f84"}, 
+    "email" : "steve@igamez.ai", 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "accountName" : "asdffffffff", 
+        "accountNumber" : "123123123123", 
+        "IfscCode" : "ICIC0002723"
+    }
+}
+{ 
+    "_id" : {"$oid":"604f89c4571a9afc5438f90c"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"313630313035343233303933"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "accountName" : "asdffffffff", 
+        "accountNumber" : "123123123123", 
+        "IfscCode" : "ICIC0002723"
+    }
+}
+{ 
+    "_id" : {"$oid":"60506887571a9afc5439f5ba"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"313630313035343233303933"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "123123123123123", 
+        "address" : "qweqwe", 
+        "city" : "qweqwe", 
+        "postcode" : "123123"
+    }
+}
+{ 
+    "_id" : {"$oid":"60508a55571a9afc543a25ab"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"604a4fd7c26db65e7b1610ed"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "accountName" : "Demo Account", 
+        "accountNumber" : "01234567890", 
+        "IfscCode" : "UTIB00025", 
+        "depositBankCode" : "YP_AXIS"
+    }
+}
+{ 
+    "_id" : {"$oid":"60508b0b571a9afc543a26fb"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"604a4fd7c26db65e7b1610ed"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "1234567890", 
+        "address" : "pune", 
+        "city" : "pune", 
+        "postcode" : "440015"
+    }
+}
+{ 
+    "_id" : {"$oid":"60544088571a9afc543e95d2"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"6034022c8554d775f01c0187"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "123123123123", 
+        "address" : "wwww", 
+        "city" : "www", 
+        "postcode" : "12345"
+    }
+}
+{ 
+    "_id" : {"$oid":"6055e750571a9afc54405fa7"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"603f62dac9c0812ec7b09937"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9834562668", 
+        "address" : "ashok nagar", 
+        "city" : "nagpur", 
+        "postcode" : "9834562668"
+    }
+}
+{ 
+    "_id" : {"$oid":"605c60bb8119b782bd39269f"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"6054c43e4c079a13b7fea677"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "919834562668", 
+        "address" : "nagpur", 
+        "city" : "nagpur", 
+        "postcode" : "919834562668"
+    }
+}
+{ 
+    "_id" : {"$oid":"605d99e78119b782bd3ab307"}, 
+    "paymentconfigid" : {"$oid":"5f664fa130ff975b2707bff9"}, 
+    "userid" : {"$oid":"605d99cf9954647fb5a255a0"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : "YP_ICICI"
+    }
+}
+{ 
+    "_id" : {"$oid":"6064820ab6eaa47bd8b3f545"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"6034022c8554d775f01c0187"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"6065f419b6eaa47bd8b8e56f"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"6054c43e4c079a13b7fea677"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "accountName" : "vinay", 
+        "IfscCode" : "SBIN0016099", 
+        "depositBankCode" : null, 
+        "paymerodepositBankCode" : 0, 
+        "UpiId" : "9637319746@upi", 
+        "accountNumber" : "3323986"
+    }
+}
+{ 
+    "_id" : {"$oid":"606a886eb6eaa47bd8c11dc3"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"6034022c8554d775f01c0187"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "IfscCode" : "123123", 
+        "UpiId" : "9845492216@paytm", 
+        "paymerodepositBankCode" : 1, 
+        "accountNumber" : "123123", 
+        "accountName" : "qwe"
+    }
+}
+{ 
+    "_id" : {"$oid":"606f2060b6eaa47bd8c9f8dc"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"605d99cf9954647fb5a255a0"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 750
+    }
+}
+{ 
+    "_id" : {"$oid":"606f20a7b6eaa47bd8c9fa5c"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"605d99cf9954647fb5a255a0"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : "3650"
+    }
+}
+{ 
+    "_id" : {"$oid":"606f20cab6eaa47bd8c9fb25"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"605d99cf9954647fb5a255a0"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9291481470@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60703c89b6eaa47bd8cc5dbf"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"603f62dac9c0812ec7b09937"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : "PPWL"
+    }
+}
+{ 
+    "_id" : {"$oid":"60756720a971e5aa482bb92f"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"606d8739ee1384418d34e98f"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9561329686", 
+        "address" : "ngp", 
+        "city" : "ngp", 
+        "postcode" : "440036"
+    }
+}
+{ 
+    "_id" : {"$oid":"6076d1a2a971e5aa482eb225"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"6034022c8554d775f01c0187"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 750
+    }
+}
+{ 
+    "_id" : {"$oid":"6076df3ba971e5aa482ed0b0"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"6034022c8554d775f01c0187"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9291481470@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"607d6787a971e5aa483f27a5"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"606c965eaaba49711b296243"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : "9690"
+    }
+}
+{ 
+    "_id" : {"$oid":"607d6c06a971e5aa483f398d"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"606c965eaaba49711b296243"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8975550575@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"607d8095a971e5aa483f8128"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"6054c43e4c079a13b7fea677"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9637319746@upi"
+    }
+}
+{ 
+    "_id" : {"$oid":"607d80c2a971e5aa483f82e2"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"6054c43e4c079a13b7fea677"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"607d8139a971e5aa483f85ff"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"606c965eaaba49711b296243"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 50
+    }
+}
+{ 
+    "_id" : {"$oid":"607d8414a971e5aa483f94e5"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"607961d4bccdc85e240098f8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8975550575@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"607d845ca971e5aa483f96ff"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"606d8739ee1384418d34e98f"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"607d84bba971e5aa483f992c"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"607961d4bccdc85e240098f8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "accountName" : "Shubham Gupta", 
+        "accountNumber" : "0500000100473615", 
+        "IfscCode" : "PUNB0050000", 
+        "depositBankCode" : null, 
+        "paymerodepositBankCode" : "0"
+    }
+}
+{ 
+    "_id" : {"$oid":"607ef437a971e5aa48435336"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"607eebf415b9fb449b129db7"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9637319746", 
+        "address" : "yjhgjgjjkm", 
+        "city" : "NAGPUR", 
+        "postcode" : "9637319746"
+    }
+}
+{ 
+    "_id" : {"$oid":"607ef4c8a971e5aa48435566"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"607eebf415b9fb449b129db7"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9637319746@upi"
+    }
+}
+{ 
+    "_id" : {"$oid":"607ef5b7a971e5aa48435ae3"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"607eebf415b9fb449b129db7"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "accountName" : "vinay", 
+        "accountNumber" : "33239867058", 
+        "IfscCode" : "SBIN0016099", 
+        "paymerodepositBankCode" : "0"
+    }
+}
+{ 
+    "_id" : {"$oid":"607fb806a971e5aa4845189e"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"607fb7c415b9fb449b129df0"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 740
+    }
+}
+{ 
+    "_id" : {"$oid":"607fb84fa971e5aa484519c5"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"607fb7c415b9fb449b129df0"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : "9690"
+    }
+}
+{ 
+    "_id" : {"$oid":"609118bda971e5aa4884c334"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"606dd2b10ca4ba3c5624007d"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9421544444", 
+        "address" : "nagpur", 
+        "city" : "nagpur", 
+        "postcode" : "440010"
+    }
+}
+{ 
+    "_id" : {"$oid":"6091212ea971e5aa4884f38c"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"606dd2b10ca4ba3c5624007d"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60a3d639a971e5aa48e32776"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"609e836770f5c432c121b8d9"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 300
+    }
+}
+{ 
+    "_id" : {"$oid":"60a3d6c2a971e5aa48e32b71"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"609e836770f5c432c121b8d9"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9632175849", 
+        "address" : "Nagpur", 
+        "city" : "Nagpur", 
+        "postcode" : "440058"
+    }
+}
+{ 
+    "_id" : {"$oid":"60a3d7ffa971e5aa48e33339"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"609e836770f5c432c121b8d9"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "accountName" : "gyivsss", 
+        "accountNumber" : "784512365415", 
+        "IfscCode" : "SBIN00126566", 
+        "paymerodepositBankCode" : 0
+    }
+}
+{ 
+    "_id" : {"$oid":"60a77f9aa971e5aa48f55b53"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"603407620e5bc779b93f93e2"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "234", 
+        "accountName" : "werwer", 
+        "IfscCode" : "123123"
+    }
+}
+{ 
+    "_id" : {"$oid":"60a78f04a971e5aa48f5b64a"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"603407620e5bc779b93f93e2"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 300
+    }
+}
+{ 
+    "_id" : {"$oid":"60b5152aa971e5aa483a9bba"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60b513d6bad78568ad2aa53e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : null
+    }
+}
+{ 
+    "_id" : {"$oid":"60b515fda971e5aa483aa144"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"609e836770f5c432c121b8d9"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60b51627a971e5aa483aa263"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"609e836770f5c432c121b8d9"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "khemmalchanore@pingpay"
+    }
+}
+{ 
+    "_id" : {"$oid":"60b51716a971e5aa483aa80a"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60b513d6bad78568ad2aa53e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60b51765a971e5aa483aaa5b"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60b513d6bad78568ad2aa53e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9198345626", 
+        "address" : "nagpur", 
+        "city" : "nagour", 
+        "postcode" : "440017"
+    }
+}
+{ 
+    "_id" : {"$oid":"60b53c17a971e5aa483b9651"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60b513d6bad78568ad2aa53e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "33239867058", 
+        "accountName" : "vinay", 
+        "IfscCode" : "SBIN0016099"
+    }
+}
+{ 
+    "_id" : {"$oid":"60bbe09ca971e5aa48656ae7"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"606dd2b10ca4ba3c5624007d"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "5391000100014866", 
+        "accountName" : "harshturakiya", 
+        "IfscCode" : "punb0539100"
+    }
+}
+{ 
+    "_id" : {"$oid":"60be3a85a971e5aa48734278"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"6054c43e4c079a13b7fea677"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 300
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20120a971e5aa488bdd81"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c200d746ebd043519c5813"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20328a971e5aa488c23b5"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60867ff464e71b79dfa67eba"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "99999888856", 
+        "address" : "mum", 
+        "city" : "mim", 
+        "postcode" : "333333"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20352a971e5aa488c30ee"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60867ff464e71b79dfa67eba"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9370674555@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20352a971e5aa488c3123"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c202fa46ebd043519c586e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9398516959@upi"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2036aa971e5aa488c3b5b"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c2031d46ebd043519c5888"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "7447771317", 
+        "address" : "h.no 2333 cariamoddi", 
+        "city" : "panaji", 
+        "postcode" : "7447771317"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c203aca971e5aa488c4f9c"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c202fe46ebd043519c5873"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9094295963@paytm"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c203afa971e5aa488c5197"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2031d46ebd043519c5888"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "74477713172828@ibl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20402a971e5aa488c696d"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c202e746ebd043519c5862"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "ashokgehlot4201@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2042aa971e5aa488c7916"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2033546ebd043519c589e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20458a971e5aa488c8776"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2040846ebd043519c592e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8237107282@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2047fa971e5aa488c96c5"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c203d646ebd043519c58fd"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9731416499", 
+        "address" : "Bangalore", 
+        "city" : "Bangalore", 
+        "postcode" : "560094"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c204b3a971e5aa488caf1d"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2037646ebd043519c58c2"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "7047298785@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c204fea971e5aa488cc48c"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c204af46ebd043519c5969"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "6367612505", 
+        "address" : "near nager nigam bhandar ke piche ", 
+        "city" : "bikaner ", 
+        "postcode" : "334001"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20510a971e5aa488cc6df"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2037646ebd043519c58c2"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20525a971e5aa488ccbdc"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c204af46ebd043519c5969"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "gangeshlohyag@paytm"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2053fa971e5aa488cd3ab"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c204fb46ebd043519c598c"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20612a971e5aa488d0514"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2051446ebd043519c59a0"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2063da971e5aa488d1758"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c201ae46ebd043519c5825"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2067ea971e5aa488d244b"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c203d646ebd043519c58fd"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c206aca971e5aa488d300a"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c200d746ebd043519c5813"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "UpiId" : "9528745089@Paytm", 
+        "accountNumber" : "698310110011333", 
+        "accountName" : "Govind", 
+        "IfscCode" : "BKID0006983"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c206d1a971e5aa488d3600"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c204c946ebd043519c5978"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20747a971e5aa488d550a"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"60c204fb46ebd043519c598c"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 190
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2076fa971e5aa488d5b04"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"60c2071446ebd043519c5a23"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 910
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2079ea971e5aa488d616d"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2025c46ebd043519c5839"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "subha7900@dbs"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20854a971e5aa488d84fe"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c207c846ebd043519c5a4c"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8977167646@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20859a971e5aa488d8585"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2070e46ebd043519c5a1d"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9880345960@upi"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2088ea971e5aa488d911d"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2072446ebd043519c5a2a"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c208c1a971e5aa488d9af8"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c207d246ebd043519c5a51"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c208e5a971e5aa488d9ebd"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2075a46ebd043519c5a38"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9503818997@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20928a971e5aa488daef7"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2075a46ebd043519c5a38"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20940a971e5aa488db154"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"60c2075a46ebd043519c5a38"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 300
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2095ea971e5aa488db444"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c2075a46ebd043519c5a38"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "8999325413", 
+        "address" : "Nagpur", 
+        "city" : "nagpur", 
+        "postcode" : "440009"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20a5fa971e5aa488de82f"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c20a2846ebd043519c5b31"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20a66a971e5aa488de974"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c208d346ebd043519c5aad"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9175201113@paytm"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20afaa971e5aa488e0601"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c20a5046ebd043519c5b38"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9081222496@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20b7ca971e5aa488e1d09"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"60c203ec46ebd043519c5906"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 930
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20bf3a971e5aa488e2d7e"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c20b8e46ebd043519c5b9e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "pkl.nyt@okicici"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20c30a971e5aa488e330a"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c20b4646ebd043519c5b89"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20cc0a971e5aa488e4526"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c20c6046ebd043519c5bc8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "744777131728@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20d36a971e5aa488e5746"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"60c20b4646ebd043519c5b89"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 140
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20f1aa971e5aa488e96ea"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c203ec46ebd043519c5906"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20f30a971e5aa488e993f"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c20e9c3460f960016e8a6c"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20f65a971e5aa488e9ef4"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c20c6046ebd043519c5bc8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c20ff6a971e5aa488eb0f1"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c209a346ebd043519c5b01"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : ""
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21194a971e5aa488ed5f2"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c211583460f960016e8aaf"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2122ba971e5aa488ee36b"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c208f946ebd043519c5ac4"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9110119130@paytm"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21326a971e5aa488f03cc"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2054c46ebd043519c59b9"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21655a971e5aa488f6b0f"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c20c6046ebd043519c5bc8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "9245717667", 
+        "accountName" : "Aparan", 
+        "IfscCode" : "KKBK0000811", 
+        "UpiId" : "8637771317@kotak.com"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c216d8a971e5aa488f7899"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2054c46ebd043519c59b9"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9106313636@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21754a971e5aa488f8576"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c203f546ebd043519c5911"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21851a971e5aa488fa704"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2150b3c73be6bb246e17c"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21a9ea971e5aa488fddb0"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2050146ebd043519c5992"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21d98a971e5aa489022a6"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c21d4c3c73be6bb246e236"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8142737629@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21ec7a971e5aa48903cf2"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c21e463c73be6bb246e24d"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9038296767@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21f7fa971e5aa489050aa"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c20cbf46ebd043519c5bd4"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8445891498@paytm."
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21f99a971e5aa48905251"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c21f3e3c73be6bb246e265"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9975861352@apl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c21fd5a971e5aa4890573b"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c21e733c73be6bb246e253"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c227d1a971e5aa48910b99"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"60c21d9b3c73be6bb246e244"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 10
+    }
+}
+{ 
+    "_id" : {"$oid":"60c228d5a971e5aa48911d29"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c228783c73be6bb246e307"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c22930a971e5aa489123a1"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c227ce3c73be6bb246e2fe"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c22a97a971e5aa48913e7e"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c227ce3c73be6bb246e2fe"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8949434524@postbank"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c232d2a971e5aa4891c1dc"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2314a3c73be6bb246e35d"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c234b9a971e5aa4891e396"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c2037646ebd043519c58c2"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "12880110005613", 
+        "accountName" : "satyanarayan", 
+        "IfscCode" : "UCBA0001288"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c23a04a971e5aa48923bb1"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c235d13c73be6bb246e377"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c23ae7a971e5aa48924a7d"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2021746ebd043519c582e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "sidharthchoudhary7191@okhdfcbank"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c23b69a971e5aa489252bb"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c23a7c3c73be6bb246e39e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : ""
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2413aa971e5aa4892b866"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c241143c73be6bb246e3db"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9714254772", 
+        "address" : "surat", 
+        "city" : "surat", 
+        "postcode" : "395009"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c24774a971e5aa48933239"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c21f3e3c73be6bb246e265"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "574602010000067", 
+        "accountName" : "Amit", 
+        "IfscCode" : "UBIN0557463", 
+        "UpiId" : "9975861352@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c24853a971e5aa48934571"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c238733c73be6bb246e382"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9925517274@upi"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c24d18a971e5aa4893a6df"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c24c343c73be6bb246e420"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9901663606@YBL"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c24e17a971e5aa4893b670"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2052746ebd043519c59a9"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "meenamanju539@oksbi"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2529fa971e5aa48940d14"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c203af46ebd043519c58de"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8199810002@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c296b4a971e5aa4896d0c6"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c203fe46ebd043519c591c"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c29e68a971e5aa48970ee4"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c29daa3c73be6bb246e4b3"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2b843a971e5aa4897b77e"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c202fe46ebd043519c5873"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2c018a971e5aa4897f9d2"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2bd143c73be6bb246e4cf"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2c11ea971e5aa48980722"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2052746ebd043519c59a9"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2c263a971e5aa48981402"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2c10e3c73be6bb246e4e5"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : ""
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2c7fba971e5aa48984c72"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2c7a03c73be6bb246e515"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2ca7fa971e5aa489862ac"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c2c5413c73be6bb246e505"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2cf5ea971e5aa48989391"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2c5413c73be6bb246e505"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : ""
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2cfdea971e5aa48989940"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c2c5413c73be6bb246e505"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9980482325", 
+        "address" : "Krishna ", 
+        "city" : "shimoga", 
+        "postcode" : "577427"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2edb6a971e5aa48996f5b"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2ecbc3c73be6bb246e569"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9665408891@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2fb71a971e5aa4899ee9a"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c252443c73be6bb246e452"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "dipankar13941@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c2fc6da971e5aa4899fa3d"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c2bd143c73be6bb246e4cf"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "accountName" : "Ganesh Nishad", 
+        "accountNumber" : "36040100005751", 
+        "IfscCode" : "BARB0MCVAKO ", 
+        "paymerodepositBankCode" : 0, 
+        "UpiId" : "9619831222@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c30de0a971e5aa489aa319"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c20b4646ebd043519c5b89"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "7483123700@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c34523a971e5aa489e3a77"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"608031397e94c73471550929"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "4555555555555555555", 
+        "address" : "Fffffcvvvgfff", 
+        "city" : "Cccffcff", 
+        "postcode" : "445666"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c34739a971e5aa489e5e97"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c213253460f960016e8ae1"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "7972444290", 
+        "address" : "pune", 
+        "city" : "mumbai", 
+        "postcode" : "7972444290"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c3473da971e5aa489e5ec2"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60b51c16bad78568ad2aa599"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9608010101@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c34745a971e5aa489e5f6c"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c213253460f960016e8ae1"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8975550575@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c34779a971e5aa489e625f"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60b51c16bad78568ad2aa599"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9608010101", 
+        "address" : "itwari", 
+        "city" : "nagpur", 
+        "postcode" : "440003"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c348e0a971e5aa489e772c"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2135c3460f960016e8aef"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9665544881@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c35e4ea971e5aa489fbdd9"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c20a5046ebd043519c5b38"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "916010039550476", 
+        "accountName" : "NIKHILKUMAR", 
+        "IfscCode" : "UTIB0002651"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c37c98a971e5aa48a116e4"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c37c01400c04781c762f28"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "7489997009"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c38a62a971e5aa48a1ba40"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c388ec4ecd550572f09bd8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8082631243@paytm"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c3a93ea971e5aa48a32439"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c388ec4ecd550572f09bd8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c3a9e4a971e5aa48a32e52"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c3a6744ecd550572f09c13"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c3bb8ea971e5aa48a4216c"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c20b3246ebd043519c5b82"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c3bd64a971e5aa48a4358f"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c20b3246ebd043519c5b82"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "biswas.ujjjal@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c3fddfa971e5aa48a67db5"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c202fe46ebd043519c5873"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "33434007850", 
+        "accountName" : "bhargav", 
+        "IfscCode" : "SBIN0001805", 
+        "UpiId" : "bhargavchinna09@okaxis"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c4073fa971e5aa48a6c7cb"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c300683c73be6bb246e59b"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c4083ea971e5aa48a6d110"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c300683c73be6bb246e59b"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "dadavali 10@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c40a9ba971e5aa48a6e0da"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c300683c73be6bb246e59b"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9491735952", 
+        "address" : "kaluvapalli", 
+        "city" : "Anantapur", 
+        "postcode" : "515761"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c45deea971e5aa48a9a070"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c45dacbd3c8c19f361e384"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9113059317@apl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c47538a971e5aa48aab963"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c474d9bd3c8c19f361e3d5"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9901992528", 
+        "address" : "near by ssk kalyan mantapa", 
+        "city" : "harihar", 
+        "postcode" : "577601"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c47c18a971e5aa48ab15e1"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c203d346ebd043519c58f3"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9542542976@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c48280a971e5aa48ab6c1f"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c45dacbd3c8c19f361e384"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "917010042642330", 
+        "accountName" : "ALLISAB", 
+        "IfscCode" : "UTIB0000267", 
+        "UpiId" : "9113059317@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c48854a971e5aa48abb52a"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c300683c73be6bb246e59b"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "32143232329", 
+        "accountName" : "dadavali", 
+        "IfscCode" : "sbin0014413"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c48f06a971e5aa48ac0234"}, 
+    "paymentconfigid" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "userid" : {"$oid":"60c203d346ebd043519c58f3"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 140
+    }
+}
+{ 
+    "_id" : {"$oid":"60c4906ea971e5aa48ac130a"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c203d346ebd043519c58f3"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 9690
+    }
+}
+{ 
+    "_id" : {"$oid":"60c49e22a971e5aa48acc061"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c203d346ebd043519c58f3"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "3272500102612101", 
+        "accountName" : "venugopal", 
+        "IfscCode" : "KATB0000327"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c4a6d6a971e5aa48ad35bb"}, 
+    "paymentconfigid" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "userid" : {"$oid":"60c4a1adbd3c8c19f361e466"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "depositBankCode" : 1580
+    }
+}
+{ 
+    "_id" : {"$oid":"60c57f8ea971e5aa48b6f8d7"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c4a1adbd3c8c19f361e466"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9879651967@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c5aaf5a971e5aa48b89344"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c5a45bbd3c8c19f361e5c9"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9685992361@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c6319aa971e5aa48becb6a"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c23d693c73be6bb246e3c1"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "8518035903"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c63f6da971e5aa48bf6ffe"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c201ae46ebd043519c5825"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "918602124184", 
+        "accountName" : "PRAKASH", 
+        "IfscCode" : "PYTM0123456"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c730f7a971e5aa48c7590a"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c203f046ebd043519c590b"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "bgcravikumar1876@okaxis"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c74e12a971e5aa48c85495"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c20c6046ebd043519c5bc8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "8637771317", 
+        "address" : "goa", 
+        "city" : "goa", 
+        "postcode" : "8637771317"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c76ee1a971e5aa48c962f7"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c388ec4ecd550572f09bd8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "8369064242", 
+        "address" : "belapur", 
+        "city" : "बेलापूर", 
+        "postcode" : "410210"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c8b1cba971e5aa48d24fd0"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c8b121231ba6657b328901"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : ""
+    }
+}
+{ 
+    "_id" : {"$oid":"60c8db92a971e5aa48d3672d"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c0eeb66ff3317514617617"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9370643086", 
+        "address" : "ashok kumar", 
+        "city" : "inodia", 
+        "postcode" : "440012"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c8f3aba971e5aa48d43703"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2051446ebd043519c59a0"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "hingesantosh@paytm"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c8f44fa971e5aa48d43d44"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c2051446ebd043519c59a0"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9028505118", 
+        "address" : "karmala", 
+        "city" : "karmala", 
+        "postcode" : "413203"
+    }
+}
+{ 
+    "_id" : {"$oid":"60c9896ba971e5aa48d7bf13"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c2056c46ebd043519c59c7"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "7656859980", 
+        "address" : "jharsuguda", 
+        "city" : "jharsuguda", 
+        "postcode" : "768201"
+    }
+}
+{ 
+    "_id" : {"$oid":"60cb508ba971e5aa48e5a99c"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c2031d46ebd043519c5888"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "517010114893", 
+        "accountName" : "varshamenon", 
+        "IfscCode" : "KKBK0002496", 
+        "UpiId" : "744777131728@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60cb93bfa971e5aa48e998cb"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c474d9bd3c8c19f361e3d5"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "prakas809-1@okicici"
+    }
+}
+{ 
+    "_id" : {"$oid":"60cc63eaa971e5aa48f519a5"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c2072446ebd043519c5a2a"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9921093983@paytm"
+    }
+}
+{ 
+    "_id" : {"$oid":"60cc7e8da971e5aa48f6a761"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60cc78b5d009a1133c01e585"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "abl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60cdb94ca971e5aa480a7209"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60cdb7dad009a1133c01e5f6"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "rvndrthr0-1@okaxis"
+    }
+}
+{ 
+    "_id" : {"$oid":"60ce090ea971e5aa480e8975"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c2072446ebd043519c5a2a"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "7977793112", 
+        "address" : "vele", 
+        "city" : "chopda", 
+        "postcode" : "425107"
+    }
+}
+{ 
+    "_id" : {"$oid":"60ceb52ea971e5aa4815b79f"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60ce35dde887f6019ae92329"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "surendreraikwar2@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60d03f7ba971e5aa4823ddfd"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c4c9d7bd3c8c19f361e4b5"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9958111294", 
+        "address" : "209 Building", 
+        "city" : "Delhi", 
+        "postcode" : "110059"
+    }
+}
+{ 
+    "_id" : {"$oid":"60d04020a971e5aa4823e4f0"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c4c9d7bd3c8c19f361e4b5"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9958111294@ibl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60d1042aa971e5aa482b501d"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c2072446ebd043519c5a2a"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "50100176711665", 
+        "IfscCode" : "HDFC0000816", 
+        "UpiId" : "9921093983@upi", 
+        "accountName" : "NARENDRA"
+    }
+}
+{ 
+    "_id" : {"$oid":"60d59d5da971e5aa484fec3c"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c23c6c3c73be6bb246e3b3"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9154202634@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60d6ba6ea971e5aa4858118a"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c388ec4ecd550572f09bd8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "30040100008742", 
+        "IfscCode" : "BARBOKHARGA", 
+        "UpiId" : "8082631243@paytm", 
+        "accountName" : "SANTOSHGUNJAL"
+    }
+}
+{ 
+    "_id" : {"$oid":"60da8944a971e5aa48735e90"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c200d746ebd043519c5813"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : ""
+    }
+}
+{ 
+    "_id" : {"$oid":"60decfd6a971e5aa488e0059"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60d86f0698a8533c2525151e"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9100973873", 
+        "address" : "gooty", 
+        "city" : "gooty", 
+        "postcode" : "515401"
+    }
+}
+{ 
+    "_id" : {"$oid":"60e400b7a971e5aa48bb4189"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c213513460f960016e8aea"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9890545751@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60e46d3ca971e5aa48bef347"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"606d8739ee1384418d34e98f"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9561329686@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60e6e3f1a971e5aa48d36694"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c20e9c3460f960016e8a6c"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9502464418@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60e88623a971e5aa48e0cd2f"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c213513460f960016e8aea"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9890545751", 
+        "address" : "Auranigbad", 
+        "city" : "Ksnnad", 
+        "postcode" : "431103"
+    }
+}
+{ 
+    "_id" : {"$oid":"60eb9126a971e5aa48feefe3"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60c99d2d231ba6657b328971"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "sateeshkumar7@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60eb915ba971e5aa48fef1cc"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"60c99d2d231ba6657b328971"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9441155131", 
+        "address" : "gooty", 
+        "city" : "gooty", 
+        "postcode" : "515001"
+    }
+}
+{ 
+    "_id" : {"$oid":"60eb948ba971e5aa48ff1044"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c99d2d231ba6657b328971"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "919441155131", 
+        "accountName" : "PSateeshkumar", 
+        "IfscCode" : "PYTM0123456", 
+        "UpiId" : "sateeshkumar7@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60ef33ffa971e5aa48234886"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60ef2f55e176a34b451133e8"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "accountName" : "VINAY", 
+        "accountNumber" : "33239867058", 
+        "IfscCode" : "SBIN0016099", 
+        "paymerodepositBankCode" : "", 
+        "UpiId" : "9637319746@YBL"
+    }
+}
+{ 
+    "_id" : {"$oid":"60efe434a971e5aa48294b71"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60d22112cb00cd6e6eddfeb7"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : ""
+    }
+}
+{ 
+    "_id" : {"$oid":"60f01eaea971e5aa482c886b"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60f00fa48d081c0faf529a44"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9637319746@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60f71d5da971e5aa487380b9"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"60f71b1a1dce161415c009ef"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "taueequebom@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"60fc19dbc6f0604aa5b9c87a"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c213513460f960016e8aea"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "accountName" : "IMRAN SULEMAN SHAIKH", 
+        "accountNumber" : "9890545751", 
+        "IfscCode" : "PYTM0123456", 
+        "paymerodepositBankCode" : "", 
+        "UpiId" : "9890545751@PATYM"
+    }
+}
+{ 
+    "_id" : {"$oid":"60fd5f78c6f0604aa5c8991d"}, 
+    "paymentconfigid" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "userid" : {"$oid":"60c20e9c3460f960016e8a6c"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "paymerodepositBankCode" : "", 
+        "accountNumber" : "32325855407", 
+        "accountName" : "LakshminarayanaJ", 
+        "IfscCode" : "SBIN0002786", 
+        "UpiId" : "9502464418@ybl"
+    }
+}
+{ 
+    "_id" : {"$oid":"610562f6c6f0604aa532fbfe"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"6105621ae860362aa12eb5d7"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "<script>alert(9</script>"
+    }
+}
+{ 
+    "_id" : {"$oid":"6105bcbac6f0604aa53a5a53"}, 
+    "paymentconfigid" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "userid" : {"$oid":"6105b0a8e860362aa12eb6aa"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "customerUpiId" : "9637319746@upi"
+    }
+}
+{ 
+    "_id" : {"$oid":"6105bce1c6f0604aa53a5e8f"}, 
+    "paymentconfigid" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "userid" : {"$oid":"6105b0a8e860362aa12eb6aa"}, 
+    "__v" : 0, 
+    "paymentData" : {
+        "mobile" : "9834562668", 
+        "address" : "bshsjs", 
+        "city" : "nagpur", 
+        "postcode" : "444253"
+    }
+}

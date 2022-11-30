@@ -1,0 +1,202 @@
+{ 
+    "_id" : {"$oid":"5fc930b87dd9d342e2dd42c3"}, 
+    "name" : "single ank", 
+    "bidPrice" : "123", 
+    "status" : true, 
+    "priceWin" : "12", 
+    "gainPrice" : "12", 
+    "gameNumbers" : [
+
+    ], 
+    "created_at" : {"$date":"2020-12-03T18:38:48.506+0000"}, 
+    "updated_at" : {"$date":"2020-12-03T18:38:48.506+0000"}, 
+    "__v" : 0, 
+    "image" : "155ff38e3c448608b139df739d370fcc.png", 
+    "bool" : "1", 
+    "isdelete" : false, 
+    "bazaartype" : {
+        "1" : true, 
+        "3" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"5fc934917dd9d342e2dd42c5"}, 
+    "name" : "Jodi", 
+    "bidPrice" : "12", 
+    "status" : true, 
+    "priceWin" : "12", 
+    "gainPrice" : "112", 
+    "gameNumbers" : [
+
+    ], 
+    "created_at" : {"$date":"2020-12-03T18:55:13.100+0000"}, 
+    "updated_at" : {"$date":"2020-12-03T18:55:13.100+0000"}, 
+    "__v" : 0, 
+    "image" : "1aa372524e790a18848055a564f8c62f.png", 
+    "bool" : "2", 
+    "isdelete" : false, 
+    "bazaartype" : {
+        "1" : true, 
+        "2" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"5fc9e0b980a8e211dea0ddaa"}, 
+    "name" : "single pana", 
+    "status" : true, 
+    "gameNumbers" : [
+
+    ], 
+    "created_at" : {"$date":"2020-12-04T07:09:45.233+0000"}, 
+    "updated_at" : {"$date":"2020-12-04T07:09:45.233+0000"}, 
+    "__v" : 0, 
+    "image" : "a7224226077cd6871bf750ec18e752d7.png", 
+    "bool" : "3", 
+    "isdelete" : false, 
+    "bazaartype" : {
+        "1" : true, 
+        "3" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"5fc9e0c480a8e211dea0ddab"}, 
+    "name" : "double pana", 
+    "status" : true, 
+    "gameNumbers" : [
+
+    ], 
+    "created_at" : {"$date":"2020-12-04T07:09:56.833+0000"}, 
+    "updated_at" : {"$date":"2020-12-04T07:09:56.833+0000"}, 
+    "__v" : 0, 
+    "image" : "559281808c218b8206f1b2420384d826.png", 
+    "bool" : "5", 
+    "isdelete" : false, 
+    "bazaartype" : {
+        "1" : true, 
+        "3" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"5fcdb81c65fd7c228d9d2224"}, 
+    "name" : "tripple pana", 
+    "status" : true, 
+    "updated_at" : {"$date":"2020-12-07T05:05:32.862+0000"}, 
+    "__v" : 0, 
+    "image" : "64e74ee661d0a35c780b546f77f5822f.png", 
+    "bool" : "4", 
+    "isdelete" : false, 
+    "bazaartype" : {
+        "1" : true, 
+        "3" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"5fcf027188835f04b5f2f86b"}, 
+    "name" : "half sangam", 
+    "bool" : "6", 
+    "status" : true, 
+    "updated_at" : {"$date":"2020-12-08T04:34:57.911+0000"}, 
+    "__v" : 0, 
+    "image" : "a88b82b687c0ff62241cf76c033fc6ee.png", 
+    "isdelete" : false, 
+    "bazaartype" : {
+        "1" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"5fcf028888835f04b5f2f86c"}, 
+    "name" : "full sangam", 
+    "bool" : "7", 
+    "status" : true, 
+    "updated_at" : {"$date":"2020-12-08T04:35:20.768+0000"}, 
+    "__v" : 0, 
+    "image" : "399db9bdddd8a9f28534295d81a4bdca.png", 
+    "isdelete" : false, 
+    "bazaartype" : {
+        "1" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"601549609d942a28fa179e95"}, 
+    "name" : "First Digit", 
+    "bool" : "8", 
+    "status" : true, 
+    "updated_at" : {"$date":"2021-01-30T11:56:16.912+0000"}, 
+    "__v" : 0, 
+    "isdelete" : false, 
+    "bazaartype" : {
+        "2" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"6015496b9d942a28fa179e96"}, 
+    "name" : "second Digit", 
+    "bool" : "9", 
+    "status" : true, 
+    "updated_at" : {"$date":"2021-01-30T11:56:27.178+0000"}, 
+    "__v" : 0, 
+    "isdelete" : false, 
+    "bazaartype" : {
+        "2" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"609945b14abd6e25d23b922f"}, 
+    "isdelete" : false, 
+    "name" : "SP Motor", 
+    "bool" : "10", 
+    "status" : true, 
+    "bazaartype" : {
+        "1" : true
+    }, 
+    "updated_at" : {"$date":"2021-05-10T20:09:45.428+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"609945c84abd6e25d23b9230"}, 
+    "isdelete" : false, 
+    "name" : "DP motor", 
+    "bool" : "11", 
+    "status" : true, 
+    "bazaartype" : {
+        "1" : true
+    }, 
+    "updated_at" : {"$date":"2021-05-10T20:10:08.237+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c1be4fb746f26369073e74"}, 
+    "isdelete" : false, 
+    "name" : "SP-DP motor", 
+    "bool" : "12", 
+    "status" : true, 
+    "bazaartype" : {
+        "1" : true
+    }, 
+    "updated_at" : {"$date":"2021-06-10T12:55:03.306+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c1bea7b746f26369073e75"}, 
+    "isdelete" : false, 
+    "name" : "Half Red", 
+    "bool" : "13", 
+    "status" : true, 
+    "bazaartype" : {
+        "1" : true
+    }, 
+    "updated_at" : {"$date":"2021-06-10T12:56:31.832+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c1bec5b746f26369073e77"}, 
+    "isdelete" : false, 
+    "name" : "Full Red", 
+    "bool" : "14", 
+    "status" : true, 
+    "bazaartype" : {
+        "1" : true
+    }, 
+    "updated_at" : {"$date":"2021-06-10T12:57:01.892+0000"}, 
+    "__v" : 0
+}

@@ -1,0 +1,132 @@
+{ 
+    "_id" : {"$oid":"5f5a5cc435738d220f573270"}, 
+    "type" : "YaarPay", 
+    "state" : true, 
+    "configData" : {
+        "merchant_id" : "MCR-20212-P00134", 
+        "merchant_key" : "ITHJCVTJS29DHYRYJ1T8IWGVGPEAIDBAYJTCMVHC4PV2HTBMLBKYXLNYOAAO0LVZKWPB44EEFBJJW24QTDXGQ81KEG4K0N3FEIAN5UMGV48ULJTOXH2FHYGE2AJ8S70D", 
+        "application_id" : "c40014c8adbc46e59cd95a965d182c18", 
+        "request_url" : "https://api.247yp.site/api/v1/payin/pay_info", 
+        "redirect_url" : "https://fairbets.co/PaymentGateway/YaarResponse", 
+        "notify_url" : "https://cms.fairbets.co/admin/paymentGateWay/YaarNotyfy", 
+        "return_url" : "https://cms.fairbets.co/admin/paymentGateWay/YaarReturn", 
+        "notify_url2" : "https://cms.fairbets.co/admin/paymentGateWay/YaarNotyfy", 
+        "return_url2" : "https://fairbets.co/mywallet/deposit", 
+        "payout_notify_url" : "https://cms.fairbets.co/admin/paymentGateWay/YaarNotyfy3", 
+        "payout_request_url" : "https://api.247yp.site/api/agentpay/apply", 
+        "currency" : "inr", 
+        "version" : "1.0"
+    }, 
+    "createDate" : "2020-09-10T17:05:08.105+0000", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f5a5d3835738d220f573272"}, 
+    "type" : "Qpay", 
+    "state" : false, 
+    "configData" : {
+        "aggregator_id" : "paygate", 
+        "merchant_id" : "201710270001", 
+        "merchant_key" : "oqUl4D0LqA4plZw4reAX/K3UKJoQdet0k/N6X6K4Y5k=", 
+        "generate_key" : "0123456789abcdef", 
+        "success_url" : "https://cms.kasino9.com/admin/PaymentGateway/QpayResponse", 
+        "failure_url" : "https://cms.kasino9.com/admin/PaymentGateway/QpayResponse", 
+        "request_url" : "https://test.avantgardepayments.com/agcore/payment", 
+        "redirect_url" : "https://kasino9.com/PaymentGateway/qpayResponse"
+    }, 
+    "createDate" : "2020-09-10T17:07:04.488+0000", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f5b25376baa3174380037dc"}, 
+    "type" : "netcents", 
+    "state" : false, 
+    "configData" : {
+        "apikey" : "t_m0tlBhRhDUkNYm7dyge737u4ERVgAb", 
+        "apisecret" : "iI-U_Ouf_zsgUx0oJDSNxlWzi7XHzxugA5koDv5FpS5MpPLBrKCwQ0ZS", 
+        "pluginid" : "1895", 
+        "domain" : "https://kasino9.com", 
+        "paymentreceivedurl" : "https://kasino9.com/paymentGateWay/netcents_receive", 
+        "webhookurl" : "https://cms.kasino9.com/admin/paymentGateWay/netcents_webhook", 
+        "cancelurl" : "https://kasino9.com/myprofile/deposit", 
+        "request_url1" : "https://api.net-cents.com/merchant/v2/widget_payments", 
+        "request_url2" : "https://merchant.net-cents.com/widget/payment/currencies?data="
+    }, 
+    "createDate" : "2020-09-11T07:20:23.117+0000", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5ffc163716566893b7cd804f"}, 
+    "type" : "Paygate10", 
+    "__v" : 0, 
+    "configData" : {
+        "midcode" : "192", 
+        "midsecret" : "7cd628ea-f5fa-48c4-a882-a02830b17d8c", 
+        "apikey" : "qNvuTk66Xi9OZ9O0WO5yiAqHVYA21uGY", 
+        "apisecret" : "DCAcFgnLChIyEBqnxEiFKwcphnZ4jDEnclLX8wuzkuwA21DUrXExMBNQjV5bHsl8", 
+        "callbackurl" : "https://cms.fairbets.co/admin/paymentGateWay/Paygate10Callback", 
+        "callbackurl2" : "https://cms.fairbets.co/admin/paymentGateWay/Paygate10CallbackW", 
+        "callbackurl_c" : "https://api.paygate10.com/Service.svc/rest/PaymentRequestC", 
+        "callbackurl_c2" : "https://api.paygate10.com/Service.svc/rest/PaymentRequestCW", 
+        "return_url" : "https://fairbets.co/PaymentGateway/Paygate10Response", 
+        "request_url" : "https://api.paygate10.com/Service.svc/rest/PaymentRequest", 
+        "telegramreturnurl" : "https://t.me/Cbet247_bot?start="
+    }, 
+    "state" : true, 
+    "createDate" : "2021-03-14T01:57:54.505+0000"
+}
+{ 
+    "_id" : {"$oid":"5ffc163716566893b7cd805f"}, 
+    "type" : "cash", 
+    "__v" : 0, 
+    "state" : true, 
+    "createDate" : "2021-03-14T01:57:59.551+0000", 
+    "configData" : ""
+}
+{ 
+    "_id" : {"$oid":"605560fb43770bfd4c901729"}, 
+    "type" : "Paymero", 
+    "__v" : 0, 
+    "configData" : {
+        "apikey" : "DAs3gY8cCp1KAd51RkluLaVoSa7NGOrw2AkOcgi6", 
+        "returnUrl" : "https://fairbets.co/paymentGateWay/paymoroReturn", 
+        "notifyUrl" : "https://cms.fairbets.co/admin/paymentGateWay/paymoroNotify", 
+        "telegramreturnurl" : "https://t.me/Cbet247_bot?start=", 
+        "DeviceType" : "WEB", 
+        "UpiUrl" : "https://service-api.paymero.io/v1/deposit/upi", 
+        "NetBankingUrl" : "https://service-api.paymero.io/v1/deposit/net-banking", 
+        "WalletUrl" : "https://service-api.paymero.io/v1/deposit/wallet", 
+        "payoutBanktransfer" : "https://service-api.paymero.io/v1/payout/bank-transfer", 
+        "productName" : "live", 
+        "paymoropayoutNotify" : "https://cms.fairbets.co/admin/paymentGateWay/paymoropayoutNotify"
+    }, 
+    "state" : true
+}
+{ 
+    "_id" : {"$oid":"60b9db75608203969496d1e8"}, 
+    "type" : "RushPay", 
+    "__v" : 0, 
+    "configData" : {
+        "apikey" : "ZWQJk342kzYREHH8475cFHR7465deKyE09e12TRUTd585&+jh&1dFssyh", 
+        "returnUrl" : "https://fairbets.co/paymentGateWay/rushpaymentreturn", 
+        "notifyUrl" : "https://cms.fairbets.co/admin/paymentGateWay/rushpaymentcallback", 
+        "merchatid" : "458953287451", 
+        "paymentrequesturl" : "https://test.paymentrush.com/api/StarPay/PayNow", 
+        "impspayoutrequesturl" : "https://prod.paymentrush.com/api/StarPay/payout2", 
+        "telegramreturnurl" : "https://t.me/starkasino_bot?start=", 
+        "payoutcallbackurl" : "https://cms.fairbets.co/admin/paymentGateWay/payoutrushpaymentcallback"
+    }, 
+    "state" : true
+}
+{ 
+    "_id" : {"$oid":"60becd78608203969408f1b8"}, 
+    "type" : "RushPayUPI", 
+    "__v" : 0, 
+    "configData" : {
+        "apikey" : "ZWQJk342kzYREHH8475cFHR7465deKyE09e12TRUTd585&+jh&1dFssyh", 
+        "merchatid" : "458953287451", 
+        "upidpayoutrequesturl" : "https://prod.paymentrush.com/api/StarPay/payout3", 
+        "payoutcallbackurl" : "https://cms.fairbetsco/admin/paymentGateWay/payoutrushpaymentcallback"
+    }, 
+    "state" : true
+}

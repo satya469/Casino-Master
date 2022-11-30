@@ -1,0 +1,28 @@
+{ 
+    "_id" : {"$oid":"60d19dae608203969425caa3"}, 
+    "betfairSportslistid" : {"$oid":"60ca49d160820396943f1f1a"}, 
+    "__v" : 0, 
+    "maxvalue" : 10000, 
+    "minvalue" : 100
+}
+{ 
+    "_id" : {"$oid":"60d19dae608203969425caa5"}, 
+    "betfairSportslistid" : {"$oid":"60ca49d160820396943f1f1d"}, 
+    "__v" : 0, 
+    "maxvalue" : 10000, 
+    "minvalue" : 100
+}
+{ 
+    "_id" : {"$oid":"60d19dae608203969425caa7"}, 
+    "betfairSportslistid" : {"$oid":"60ca49d160820396943f1f1f"}, 
+    "__v" : 0, 
+    "maxvalue" : 10000, 
+    "minvalue" : 100
+}
+{ 
+    "_id" : {"$oid":"60f0239aa971e5aa482cd990"}, 
+    "betfairSportslistid" : {"$oid":"60ca49d160820396943f1f21"}, 
+    "__v" : 0, 
+    "maxvalue" : 10000, 
+    "minvalue" : 100
+}

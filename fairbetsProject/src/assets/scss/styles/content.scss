@@ -1,0 +1,1167 @@
+$orange: $buttonColor; //$warning
+
+.rdrDateRangePickerWrapper{
+    width: 100%;
+    height: 100%;
+
+}
+
+.igamez-satta-border{
+    border: 1px solid $orange !important;
+    margin-top: 0.5rem;
+}
+
+.vertical-layout.navbar-sticky .profile-content {
+    padding-top: 2rem;
+}
+
+.profile-content{
+    min-height: 100vh;
+}
+
+.vertical-layout.navbar-sticky .sports-content {
+    padding-top: 0rem;
+    // .sports-sidebar-menu{
+    //     position: fixed;
+    // }
+}
+
+.vertical-layout.navbar-static .sports-content {
+    padding-top: 0rem;
+    position: fixed;
+}
+.app-content{
+    // padding-top: 0px !important;
+}
+
+.bazaaritem{
+    font-size : 0.8rem;
+    padding:0.9rem 0rem;
+    margin:.375rem;
+    cursor: pointer;
+    color: white;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.horizontal-layout.navbar-sticky .app-content{
+    // padding-top: 0rem !important;
+}
+
+@media (max-width: 1019px) {
+    .horizontal-layout.navbar-static .app-content{
+        // padding-top: 0 !important;
+    } 
+}
+
+@media (max-width: 575.98px) {
+    .content .content-wrapper{
+        padding: 0px;
+    }
+    .vertical-layout.navbar-sticky .profile-content{
+        padding-top: 0rem !important;
+    }
+    .vertical-layout.navbar-sticky .profile-content{
+        padding-top: 0rem !important;
+    }
+}
+
+
+#admindata_table > div > div > div{
+    position: relative !important;
+    width: 100% !important;
+    display: table !important;
+}
+
+#admindata_table > div:first-child{
+    overflow : hidden !important;
+}
+
+#admindata_table > div > div{
+    overflow-y : hidden;
+    position: relative !important;
+    width: 100% !important;
+    display: block !important;
+    overflow-x: auto !important;
+}
+
+.w-100{
+    width : 100% !important;
+}
+
+
+@media (max-width: 414px) {
+    
+    .vertical-layout.navbar-sticky .sports-content {
+        padding-top: 0rem;
+        .sports-sidebar-menu{
+            position: fixed;
+        }
+    }
+
+    .sports-content {
+        padding-top: 0rem;
+        .sports-sidebar-menu{
+            position: fixed;
+        }
+    }
+
+    .satta{
+        .tblbazaaritem{
+            padding: 0rem !important;
+            margin-top: 0rem !important;
+        }
+        .total{
+            color: #fff;
+            .text{
+                font-size: 0.8rem i !important;
+            }
+            .input{
+                border : 1px solid $orange;
+                text-align: center;
+                padding: 0 2rem ;
+                font-size: 0.8rem !important;
+            }
+        }
+    }    
+}
+
+.satta{
+
+    .gamespages{
+        
+        .headertext{
+            background-color: $orange !important;
+            color: #fff !important;
+            padding: 0.5rem;
+        }
+        .texttotal{
+            font-weight: bold;
+            font-size: 1.5rem;
+            text-align: center !important;
+            color: $orange !important;
+        }
+        button{
+            color: #000 !important;
+            font-weight: bold;
+                        
+        }
+    }
+
+    .bazaaritem-header{
+        font-size: 1rem;
+        svg{
+            font-size: 1.5rem;
+        }
+    }
+    .bazaaritem-body{
+
+        .bazaaritem-title{
+            font-size: 1.3rem;
+            color :$orange;
+        }
+    }
+    .highlight{
+        .child, .borderchild{
+            // background-color:$orange !important;
+            // border-bottom: 1px solid #000 !important;
+            .bazarname{
+                // color: #000 !important;
+            }
+        }
+    }
+    .selectnumberheader{
+        background-color:$orange;
+        text-align: center;
+        color: #000;
+        padding: 0.5rem 0rem;
+        margin-top: 0.5rem;
+    }
+    .tblbazaarheader{
+        display: inline-flex;
+        text-align: center;
+        background-color:$orange;
+        font-size: 1.1rem;
+        height: 100%;
+        justify-content: center;
+        color: #000;
+        padding: 0.4rem;
+    }
+    .tblbazaaritem{
+        display: block;
+        width: 25%;
+        text-align: center;
+        background-color:$bazarback;
+        font-size: 0.9rem;
+        border-bottom:1px solid;
+        // color: #000;
+        // margin-top: 0.5rem;
+        // padding: 1rem 3rem 0rem 3rem;
+        padding: 0.5rem;
+
+        .bazarname {
+            color: $orange !important;
+            font-weight: bold;
+            font-size: 1.2rem ;
+        }
+        .timername{
+            color: white !important;
+        }
+        .mobilechild{
+            color:white;
+            // background-color: $orange!important;
+            // border : 2px solid $orange;
+            cursor: pointer;
+            // background-color: $sliderdefBackgroundColor;
+            height: 100%;
+            align-items : center;
+            // border-radius: 5px;
+            // padding: 0.3rem;
+        }
+        .borderchild{
+            // border : 2px solid $orange;
+            cursor: pointer;
+            height: 100%;
+            align-items : center;
+            padding: 0.3rem;
+        }
+        .child{
+            // border : 2px solid $orange;
+            cursor: pointer;
+            height: 100%;
+            align-items : center;
+            
+            border-radius: 5px;
+            padding: 0.3rem;            
+            display: flex;
+            flex-direction: column;
+            background-color: $sliderdefBackgroundColor;
+            justify-content: center;
+        }
+        .child:hover{
+            border-color: $orange !important;
+            box-shadow: 0 8px 25px -8px rgba($primarycolor,1);
+        }
+        .childactive{
+            background-color:$orange !important;
+            color: white;
+            border : 0px solid $orange;
+
+            .bazarname {
+                color: #fff;
+            }
+        }
+        
+        .bidon{
+            background-color: $orange !important;
+            color: #000;
+            font-size: 1.1rem;
+            font-weight: bold;
+        }
+        .bidonactive{
+            color: #fff;
+        }
+
+        .resultborder{
+            border: 0px solid #000 !important;
+        }
+    }
+
+    .firstbazartblbazaaritem{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0.5rem;
+        border-bottom:1px solid;
+        width: 25%;
+        text-align: center;
+        font-size: 0.9rem;
+        color: gray;
+        background-color:$primarycolor !important;
+
+        .child, .borderchild{
+            color: white;
+        }
+        .bazarname {
+            font-size: 1rem ;
+        }
+        .timername{
+            color: white !important;
+        }
+        .mobilechild{
+            cursor: pointer;
+            height: 100%;
+            align-items : center;
+            padding: 0.3rem;
+        }
+        .borderchild{
+            cursor: pointer;
+            height: 100%;
+            align-items : center;
+            padding: 0.3rem;
+        }
+        .child{
+            // background-clip: content-box;
+            border-radius: 5px;
+            padding: 0.5rem;
+            cursor: pointer;
+            align-items : center;
+            display: flex;
+            flex-direction: column;
+            background-color: $sliderdefBackgroundColor;
+            justify-content: center;
+            width: 100%;
+            height: 100%;
+        }
+        .childactive{
+            color: white;
+            .bazarname {
+                color: #fff;
+            }
+        }
+        
+        .bidon{
+            color: #000;
+            font-size: 1.1rem;
+            font-weight: bold;
+        }
+        .bidonactive{
+            color: #fff;
+        }
+
+        .resultborder{
+            border: 0px solid #000 !important;
+        }
+    }
+    .tblbazarbody{
+        .bidlabel{
+            background-color: #000 !important;
+            padding: 0.5rem 0px;
+            color: #fff !important;
+        }
+        .nav-item{
+            padding : 0.5rem;
+            .nav-link{
+                background-color:  $orange!important;
+                color: #000;
+            }
+            .nav-link:hover{
+                color: #fff;
+            }
+            .nav-link.active {
+                color: #fff;
+            }
+        }
+        .total{
+            color: #fff;
+            .text{
+                font-size: 0.6rem;
+            }
+            .input{
+                border : 1px solid $orange;
+                text-align: center;
+                padding: 0 1rem;
+                font-size: 0.7rem;
+            }
+        }
+        .numberpanel{
+            background-color: $sports-background1;
+            padding-bottom: 2rem;
+            
+        }
+        
+       
+    }
+
+    .satta-events-items{
+        border: 0.5px solid $sliderdefBackgroundColor !important;
+        cursor: pointer;
+        text-align: center;
+        padding: 5px;
+        margin: 3px 0px;
+        border-radius: 2px;
+        background-color: $sliderdefBackgroundColor;
+        .OutcomeName{
+            // color: $fontColor2;
+            color: white;
+        }
+    }
+    .satta-events-items:hover{
+        border-color: #9b928a !important;
+        box-shadow: 0 8px 25px -8px rgba($sliderdefBackgroundColor,1);
+        background: $orange !important;
+    }
+    .satta-events-items-active{
+        background-color: $orange !important;
+        .OutcomeName{
+            color: #000 !important;
+        }
+    }
+
+    .satta-events-items-activemobile{
+        background-color: $orange !important;
+        .OutcomeName{
+            color: #000 !important;
+        }
+    }
+
+    .amountlabel{
+        margin-left: 0.5rem !important;
+    }
+
+    .sattaitems{
+        margin-left: 0.5rem;
+    }
+
+    @media (max-width: 768px) {
+        .sattaitems{
+            margin-left: 0rem !important;
+            margin-top: 1rem !important;
+        }   
+    }
+}
+
+
+
+.react-select-2-input{
+
+    color: white !important;
+}
+
+.select__menu {
+    // z-index: 9999999999999999 !important;
+    // position: fixed;
+    input{
+        color: white !important;
+    }
+    max-height: 150px !important;
+    background-color:$background-color !important;
+    div{
+        background-color:$background-color !important;
+    }
+    .select__menu-list{
+        max-height: 150px !important;
+    }
+  }
+  
+  .select__option {
+    z-index: 999 !important;
+  }
+  .select__option:hover{
+    background-color: $buttonColor  !important;
+  }
+
+  .select__option--is--focused{
+    background-color: $buttonColor !important;
+    .select__option{
+        background-color: $buttonColor !important;
+    }
+}
+
+.select__control--is--focused:focus{
+    background:  $buttonColor !important;
+}
+
+// .css-1pahdxg-control{
+    // border: #111 !important;
+// }
+
+.flating-contact {
+        
+    html:hover .presentation,
+    body:hover .presentation {
+        display: none;
+    }
+
+    .presentation {
+        position: fixed;
+        right: 88px;
+        bottom: 34px;
+        text-shadow: 1px 1px 1px #000;
+    }
+
+    /* menu */
+    nav.float-action-button {
+        position: fixed;
+        bottom: 0;
+        // right: 0;
+        margin: 1em;
+        z-index: 10000;
+    }
+
+    a.buttons {
+        box-shadow: 0 5px 11px -2px rgba(0, 0, 0, 0.18), 0 4px 12px -7px rgba(0, 0, 0, 0.15);
+        border-radius: 50%;
+        width: 55px;
+        height: 55px;
+        color: #fff;
+        font-size: 2.6em;
+        text-align: center;
+        display: block;
+        margin: 20px auto 0;
+        position: relative;
+        -webkit-transition: all .1s ease-out;
+        transition: all .1s ease-out;
+    }
+
+    a.buttons:active,
+    a.buttons:focus,
+    a.buttons:hover {
+        box-shadow: 0 0 4px rgba(0, 0, 0, .14), 0 4px 8px rgba(0, 0, 0, .28);
+        text-decoration: none;
+    }
+
+    a.buttons:not(:last-child) {
+        width: 55px;
+        height: 55px;
+        margin: 20px auto 0;
+        opacity: 0;
+        font-size: 1.6em;
+        padding-top: 4px;
+        -webkit-transform: translateY(50px);
+        -ms-transform: translateY(50px);
+        transform: translateY(50px);
+    }
+
+    a.buttons.main-button > i:first-child {
+        position: relative;
+        margin-top: 10px;
+    }
+
+    nav.float-action-button:hover a.buttons:not(:last-child) {
+        opacity: 1;
+        -webkit-transform: none;
+        -ms-transform: none;
+        transform: none;
+        margin: 20px auto 0;
+    }
+
+    a.buttons:nth-last-child(1) {
+        -webkit-transition-delay: 25ms;
+        transition-delay: 25ms;
+        background-color: #f9bb22!important;
+        /* Button color */
+    }
+
+    a.buttons:nth-last-child(1) i.fa {
+        transform: rotate3d(0, 0, 1, 0);
+        transition: content 0.4s, transform 0.4s, opacity 0.4s;
+    }
+
+    a.buttons:nth-last-child(1):hover i.fa {
+        transform: rotate3d(0, 0, 1, -180deg);
+    }
+
+    a.buttons:nth-last-child(1) i.fa:nth-last-child(1) {
+        position: absolute;
+        margin: 10px 0 0 -32px;
+    }
+
+    a.buttons:nth-last-child(1) i.fa:nth-last-child(2) {
+     opacity: 0;
+    }
+
+    a.buttons:nth-last-child(1):hover i.fa:nth-last-child(1) {
+        opacity: 0;
+    }
+
+    a.buttons:nth-last-child(1):hover i.fa:nth-last-child(2) {
+        opacity: 1;
+    }
+
+    a.buttons:not(:last-child):nth-last-child(2) {
+        -webkit-transition-delay: 50ms;
+        transition-delay: 20ms;
+        background-color: #fff;
+        color: #f9bb22 !important;
+    /* Facebook color */
+    }
+
+    a.buttons:not(:last-child):nth-last-child(3) {
+        -webkit-transition-delay: 75ms;
+        transition-delay: 40ms;
+        background-color: #1da1f2;
+        /* Twitter color */
+    }
+
+    a.buttons:not(:last-child):nth-last-child(4) {
+        -webkit-transition-delay: 100ms;
+        transition-delay: 60ms;
+        background-color: #dd4b39;
+    /* Google plus color */
+    }
+
+    .tooltip.left {
+        margin-left: -10px;
+    }
+
+}
+$graycolor : #abb5bf;
+
+.exchange{
+    width: calc(100% - 290px);
+    margin-left: 290px;
+    min-height: 100vh !important;
+    height: 100%;
+    padding-top: 20px;
+    padding-right: 20px;
+    .marketitem{
+        background:$sports-tab-background;
+        cursor: pointer;
+        border-radius: 5px;
+        width: 100%;
+        .marketheader{
+            padding: 1rem;
+            // padding: 0px;
+            .title{
+                width: calc(100% - 40px);
+                color: $graycolor;
+                display: flex;
+                padding: 0rem 0.5rem;
+                justify-content: space-between;
+            }
+            .symbol{
+                color: $graycolor;
+                width: 40px;
+            }
+        }
+        .marketbody{
+            padding: 1rem;
+            border-top: 1px solid $graycolor;
+            .oddsitemheader{
+                display: flex;
+                align-items: flex-end;
+                justify-content: flex-end;
+            }
+            .oddsitem{
+                padding: 0.5rem 0rem;
+                color: #fff;
+                margin-top: 0.5rem;
+                border-radius: 5px;
+                background-color: $background-color;
+                .oddsnodeparent{
+                    padding: 0rem 0.25rem;
+                }
+                .oddsnodeactive{
+                    border: 1px solid $backgroud !important;
+                  
+                }
+                .oddsnode:hover{
+                    border: 1px solid $orange !important;
+                }
+                .oddscolor1{
+                    background-color: #ea5455 !important;
+                    .stake{
+                        color: $sports-tab-background !important;
+                    }
+                }
+                .oddscolor2{
+
+                    background-color:  $orange !important;
+                    .stake{
+                        color: $sports-tab-background !important;
+                    }
+                }
+                .oddsnode{
+                    border: 1px solid $sports-tab-background;
+                    background-color:  $sports-tab-background;
+
+                    border-radius: 5px;
+                    padding: 0.2rem 0px;
+                    .price{
+                        font-size: 1rem;
+                        text-align: center;
+                    }
+                    .lock{
+                        margin: 0.5rem 0rem;
+                    }
+                    .stake{
+                        font-size: 0.8rem;
+                        text-align: center;
+                        color: $graycolor;
+                    }
+                   
+                }
+            }
+        }
+    }
+    .marketitem:hover{
+        .marketheader{
+            .title{
+                color: #fff;
+            }
+            .symbol{
+                color: $graycolor;
+            }
+        }
+    }
+    .marketitemactive{
+        .marketheader{
+            .title{
+                color: #fff;
+            }
+            .symbol{
+                color: $graycolor;
+            }
+        }
+    }
+}
+
+.exchange-main-menu{
+    min-height: 100vh !important;
+    max-height: 100vh !important;
+    .main-menu-content {
+        height: 100% !important;
+    }
+}
+.exhangesidebar{
+    .scrolllock{
+        padding: 5px;
+
+        .backtitle{
+            color: #000;
+            text-align: center;
+            background-color: $orange;
+
+        }
+        .laytitle{
+            color: #000;
+            background-color: #ea5455;
+            text-align: center;
+        }
+        .matchname{
+            color:$graycolor;
+            font-size: 1.3rem;
+            font-weight: bold;
+            text-align: center;
+        }
+        .potentialwin{
+            color: #fff;
+
+        }
+
+        .remove{
+            cursor: pointer;
+        }
+        .marketname{
+            font-size: 0.8rem;
+            color: $graycolor;
+        }
+
+        .oddsname{
+            font-size: 1rem;
+            color: #fff;
+        }
+        .event-footer{
+            justify-content : space-between
+        }
+        .event{
+            border-top: 1px solid;
+            margin-bottom: 10px;
+            padding: 10px;
+        }
+        [dir] .round{
+            border-radius: 10px !important;
+        }
+    }
+}
+
+.mobilemodemenu{
+    padding: 0px !important;
+}
+
+.bazarbutton{
+    width: 10vw;
+    max-width: 150px;
+    min-width: 60px;
+    cursor: pointer;
+}
+
+.firstbazartblbazaaritem{
+    // padding-left: 1rem !important;
+}
+
+@media (max-width: 1200px) {
+    .tblbazaaritem{
+        padding : 1rem 2rem 0rem 2rem !important;
+    }
+
+    .firstbazartblbazaaritem{
+        // padding: 0 1rem 0 0 !important;
+    }
+}
+
+
+@media (max-width: 900px) {
+    .tblbazaaritem{
+        padding : 1rem 1.5rem 0.5rem 1.5rem !important;
+    }
+    .firstbazartblbazaaritem{
+        // padding: 0 1rem 0 0 !important;
+    }
+}
+
+
+@media (max-width: 800px) {
+    .tblbazaaritem{
+        padding : 0.5rem;
+    }
+    .firstbazartblbazaaritem{
+        border: 0px !important;
+        font-size: 0.7rem !important ;
+
+        .bazarname {
+            font-size: 0.7rem !important ;
+        }
+        padding-bottom: 0.5rem !important;
+        // padding: 0.5rem 0rem !important;
+        // padding-left: 0.5rem !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .exchange{
+        margin: 0px !important;
+        width: 100%;
+        padding-left: 20px;
+    }
+    .bazar-title{
+        font-size: 1.5rem !important;
+    }
+
+    .firstbazartblbazaaritem{
+        // width: ;
+    }
+    .app-content{
+        padding: 0px !important;
+    }
+
+}
+
+@media (max-width: 360px) {
+    .reponsiveetext{
+        font-size: 1.1rem;
+    }
+    .rdrDateRangePickerWrapper{
+        width: 100%;
+        height: 100%;
+        display: block;
+        .rdrDefinedRangesWrapper{
+            width: 100%;
+        }
+        .rdrDateRangeWrapper{
+            width: 100%;
+        }
+    }
+    .btn{
+        padding: 0.4rem !important;
+    }
+    .sattaicons{
+        padding: 1rem 2rem 0rem 2rem !important;
+    }
+
+    .bazar-title{
+        font-size: 1rem !important;
+    }
+}
+
+.sattaicons{
+    padding: 1rem 18vw 0rem 18vw;
+    .bazariconactive{
+        background-color: $headMenuColor !important;
+    }
+    .bazaricon{
+        background-color: $background-color;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .bazaricon:hover{
+        // background-color: $headMenuColor;
+        box-shadow: 0 8px 25px -8px rgba($headMenuColor,1);
+    }
+    .bazarbutton{
+        width: 50vw !important;
+    }
+}
+
+.iconimg{
+    // width: 100%;
+    // display:inherit;
+    // height: 1.8rem;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    img{
+        width:30px;
+        height:30px;
+    }
+}
+
+.text-decoration-underline{
+    text-decoration: underline;
+}
+
+.form-control{
+    border: 1px solid $orange !important;
+}
+
+
+
+.firstpagesatta{
+    // padding: 0.5rem;
+    .text{
+        padding: 0.5rem;
+        border-bottom: 2px solid $orange;
+        font-weight: bold;
+        font-size: 1.4rem;
+        // box-shadow: 0px 0px 20px 0px $AheadMenuFontColor;
+        color: $orange;
+        img,svg{
+            width: 30px;
+            height: 30px;
+            font-weight: bold;
+            color: $orange;
+        }
+        .result{
+            font-style: italic;
+        }
+        .refresh{
+            background-color: $orange;
+            color: #000;
+            padding: 0 0.5rem;
+            cursor: pointer;
+        }
+    }
+}
+.middlemenu{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    color: white !important;
+    .item{
+        background-color: $headMenuColor2  !important;
+        
+    }
+    .productsliderimg{
+        margin: 8px 0px;
+        width: 100%;
+        // max-width: 150px;
+        margin: auto;
+        margin-top: 50px;
+        position: relative;
+        
+        img{
+            transition:.6s transform ease;
+            width: 100%;
+            margin-top: -50px;
+            padding-left: 3rem;
+            max-width: 200px;
+        }
+        .title{
+            bottom: 16px;
+            left: 10px;
+            font-weight: bold;
+            text-align: left;
+        }
+        
+        .playernow{
+            position: absolute;
+            bottom: -20px;
+            width: 100%;
+            cursor: pointer;
+            overflow: hidden;
+            color: white;
+            height: 36px;
+
+            .button{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                text-transform: uppercase;
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                height: 36px;
+                background: $background-color;
+                border: 0;
+                font: 12px Roboto,Arial,Helvetica,sans-serif;
+                color: white;
+                cursor: pointer;
+                transition: color 250ms;
+                overflow: hidden;
+                padding: 0;
+                .show{
+                    position: relative;
+                    text-align: center;
+                    z-index: 10;
+                    display: block;
+                }
+            }
+            .button:hover::before{
+                background:$background-color;
+            }
+            .button::before{
+                content: "";
+                display: block;
+                width: 100%;
+                left: 0;
+                height: 1px;
+                top: -2px;
+                background: $orange;
+                // transition: background 250ms;
+                position: absolute;
+            }
+            .button::after{
+                content: "";
+                display: block;
+                width: 100%;
+                left: 0;
+                height: 100%;
+                top: 0;
+                background: $orange;
+                transition: opacity 180ms,max-height 240ms;
+                position: absolute;
+                opacity: 0;
+                max-height: 0;
+            }
+        }
+    }
+
+    .item:hover>.productsliderimg > img{
+        transform: scale(1.13);
+    }
+
+    .productsliderimg:hover>.playernow>.button::after{
+        max-height: 100%;
+        opacity: 1;
+    }
+
+}
+
+.maxwith{
+    max-width: 1670px;
+    margin: auto !important;
+}
+
+// .btn{
+//     padding: 0.8rem 1rem !important;
+//     font-size: 13px !important  ;
+// }
+
+.input-min-width-95p {min-width:95%;}
+
+.Social-icon{
+    svg{
+        stroke: $buttonColor;
+    }
+}
+
+#igamezfeedbackwidget{
+    z-index: 1002;
+    position: fixed;
+    transform:translateY(-50%);
+    top: 50%;   
+    left:0px;
+    transition:.6s transform ease;
+    .feedbacktext{
+        // padding: 0 !important;
+        p{
+            writing-mode:vertical-lr;
+            transform:rotate(180deg);
+            padding: 0 !important;
+            margin: 0 !important;
+            font-weight: bold;
+        }
+    }
+
+    .feedbackform{
+        background-color: $feedbackform;
+        margin-left: 1rem;
+        position: relative;
+        
+        transition:.6s transform ease;
+        padding-bottom: 1rem;
+        .exiticon{
+            position: absolute;
+            top: -1.4rem;
+            right: 1rem;
+            padding: 0.3rem !important;
+            cursor: pointer;
+            border-radius: 50%;
+        }
+        .emotinode{
+            width: 20%;
+            padding: 0.5rem;
+            font-size: 2.5rem;
+            filter:grayscale(1);
+            opacity: 0.5;
+            cursor: pointer;
+            span{
+                transition:.6s transform ease;
+                font-size: 0.9rem;
+                text-align: center;
+                opacity: 0;
+                display: block;
+            }
+        }
+        .emotinode:hover{
+            filter:grayscale(0) !important;
+            opacity: 1 !important;
+            span{
+                transition:.6s transform ease;
+                opacity: 1;
+            }
+        }
+        .emotinodeactive{
+            filter:grayscale(0) !important;
+            opacity: 1 !important;
+            span{
+                transition:.6s transform ease;
+                opacity: 1;
+            }
+        }
+        .textarea{
+            resize: none;
+            height:105px;
+            margin-top: 0.5rem;
+        }
+
+        .mouseselecter{
+            border: 2px dotted;
+            padding: 0.5rem;
+            cursor: pointer;
+        }
+    }
+}
+
+
+.betsliploading{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.7;
+    background: rgba(0,0,0,.7);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    svg{
+        color: $orange;
+        stroke: $orange;
+    }
+}
+
+.datingbadge{
+    top: 1px;
+    left: 1px;
+    position: absolute;
+    transform:rotate(-14deg);
+    color: #000 !important;
+    font-weight: bold;
+}

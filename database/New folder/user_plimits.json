@@ -1,0 +1,2583 @@
+{ 
+    "_id" : {"$oid":"603e4db1c9c0812ec7b0991f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "steve@igamez.ai", 
+    "userid" : {"$oid":"313630313035343233303933"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"603e4db1c9c0812ec7b09920"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "test@gmail.com", 
+    "userid" : {"$oid":"6034022c8554d775f01c0187"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"603e4db1c9c0812ec7b09921"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "pridetest@gmail.com", 
+    "userid" : {"$oid":"603407620e5bc779b93f93e2"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"603e4db1c9c0812ec7b09922"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "test4@gmail.com", 
+    "userid" : {"$oid":"603cea61a47eea1cf1a847b0"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"603e4db1c9c0812ec7b09923"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mobletest@gmail.com", 
+    "userid" : {"$oid":"603d6dc6c9e38131d35c822c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"604055a18141bf0bd530a7f8"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ADEMO@GMAIL.COM", 
+    "userid" : {"$oid":"603f61c8c9c0812ec7b09932"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"604055a18141bf0bd530a7f9"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "abcd@gmail.com", 
+    "userid" : {"$oid":"603f62dac9c0812ec7b09937"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6049327af1e0ad33dc538bc7"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "demo@gmail.com", 
+    "userid" : {"$oid":"60451f05e7e1266f3d2d401d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6049327af1e0ad33dc538bc8"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "testing@gmail.com", 
+    "userid" : {"$oid":"604520a3e7e1266f3d2d4022"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6049327bf1e0ad33dc538bc9"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "Avgbagdi@gmail.com ", 
+    "userid" : {"$oid":"604521d0e7e1266f3d2d4029"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"604f26b878bf7206f72740f8"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "skofficial202@gmail.com", 
+    "userid" : {"$oid":"604a4fd7c26db65e7b1610ed"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"604f26b878bf7206f72740f9"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "htlabs20@gmail.com", 
+    "userid" : {"$oid":"604b0119e225ff11553832ab"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6054c4444c079a13b7fea67b"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "check3810@gmail.com", 
+    "userid" : {"$oid":"6054c43e4c079a13b7fea677"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"605c870369f39512e923ac2d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "gc@funnelgenie.com", 
+    "userid" : {"$oid":"6057da539f69ac53dcc70225"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606480b686008906c1f95eaf"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mnop@gmail.com", 
+    "userid" : {"$oid":"60647ffe86008906c1f95eab"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606480b686008906c1f95eb0"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "techintegration@paymero.com", 
+    "userid" : {"$oid":"605d99cf9954647fb5a255a0"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60700fb96e1767636c6d0552"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "DEMOP@GMAIL.COM", 
+    "userid" : {"$oid":"606f1f384106da0e821baec1"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60700fb96e1767636c6d0553"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "harshturakiya@gmail.com", 
+    "userid" : {"$oid":"606dd2b10ca4ba3c5624007d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60700fb96e1767636c6d0554"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "harsh@gmail.com", 
+    "userid" : {"$oid":"606dd61c0ca4ba3c56240086"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60700fb96e1767636c6d0555"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "abcdemo@gmail.com", 
+    "userid" : {"$oid":"606d51b8ee1384418d34e94b"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60700fb96e1767636c6d0556"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "JODI@GMAIL.COM", 
+    "userid" : {"$oid":"606d57d6ee1384418d34e96c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60700fb96e1767636c6d0557"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ROLL@GMAIL.COM", 
+    "userid" : {"$oid":"606d6677ee1384418d34e985"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60700fb96e1767636c6d0558"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "demo123@gmail.com", 
+    "userid" : {"$oid":"606d8739ee1384418d34e98f"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60700fb96e1767636c6d0559"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sgofficial202@gmail.com", 
+    "userid" : {"$oid":"606c965eaaba49711b296243"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60700fb96e1767636c6d055a"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "venkateshgdm1995@gmail.com", 
+    "userid" : {"$oid":"6069ad00343137269c4098d9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6071c9e618831b4981447490"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "test1@gmail.com", 
+    "userid" : {"$oid":"6071c52f18831b4981447408"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6071c9e618831b4981447491"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "test2@gmail.com", 
+    "userid" : {"$oid":"6071c6fe18831b4981447432"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6071c9e618831b4981447492"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "test3@gmail.com", 
+    "userid" : {"$oid":"6071c7b918831b498144745d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6071c9e618831b4981447493"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "singlepatti12@gmail.com", 
+    "userid" : {"$oid":"6071c8f018831b4981447466"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6071c9e618831b4981447494"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "testdoublepatti@gmail.com", 
+    "userid" : {"$oid":"6071c9e018831b498144748b"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6071c9e618831b4981447495"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "betamt@gmail.com", 
+    "userid" : {"$oid":"60708143c345bf0aea32aa98"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607d968547f99d2b9ce1e32c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "venkat.b.naidu@gmail.com", 
+    "userid" : {"$oid":"607a68ddbccdc85e2400992d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607d968547f99d2b9ce1e32d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "bshs@gmail.com", 
+    "userid" : {"$oid":"6079901dbccdc85e2400990c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607d968547f99d2b9ce1e32e"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dearsingh789@gmail.com", 
+    "userid" : {"$oid":"607961d4bccdc85e240098f8"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607d968547f99d2b9ce1e32f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "seomanishp@gmail.com", 
+    "userid" : {"$oid":"607538b265cc461104fcc306"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607d968547f99d2b9ce1e330"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kehmal@gmail.com", 
+    "userid" : {"$oid":"6075375c65cc461104fcc301"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607d968647f99d2b9ce1e331"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "chicken65@gmail.com", 
+    "userid" : {"$oid":"6071d7ae0691af787f05bd93"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607f004915b9fb449b129de3"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "satelliteshubham@gmail.com", 
+    "userid" : {"$oid":"607eebf415b9fb449b129db7"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b34efb2a722f3009b2e925"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sagaruk17@gmail.com ", 
+    "userid" : {"$oid":"60a763aa165ef94144945fbc"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b34efb2a722f3009b2e926"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "additaykapoor12@gmail.con", 
+    "userid" : {"$oid":"60a76157165ef94144945fb5"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b34efb2a722f3009b2e927"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "aaditay017@gmail.com", 
+    "userid" : {"$oid":"60a760f9165ef94144945fb0"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b34efb2a722f3009b2e928"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "abcdofseo@gmail.com", 
+    "userid" : {"$oid":"609e836770f5c432c121b8d9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b34efb2a722f3009b2e929"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "amit@gmail.com", 
+    "userid" : {"$oid":"6091270ef5c81672ac893981"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b34efb2a722f3009b2e92a"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kkindle.casa@gmail.com", 
+    "userid" : {"$oid":"6086d1e195ab1c5757ea5571"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b34efb2a722f3009b2e92b"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kiran@mail.com", 
+    "userid" : {"$oid":"60867ff464e71b79dfa67eba"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b34efb2a722f3009b2e92c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "Avgbagdi@gmail.com", 
+    "userid" : {"$oid":"608031397e94c73471550929"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b34efb2a722f3009b2e92d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "david2@nextloans.org", 
+    "userid" : {"$oid":"607fb7c415b9fb449b129df0"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b3c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "gvmahitha3011@gmail.com", 
+    "userid" : {"$oid":"60c30f233c73be6bb246e5c6"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b3d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "fk063477@gmail.com", 
+    "userid" : {"$oid":"60c30b1d3c73be6bb246e5b4"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b3e"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mahendranirala1562000@gmail.com", 
+    "userid" : {"$oid":"60c304493c73be6bb246e5a6"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b3f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dadavali310@gmail.com", 
+    "userid" : {"$oid":"60c300683c73be6bb246e59b"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b40"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sandeepshinde9823@gmail.com", 
+    "userid" : {"$oid":"60c2ecbc3c73be6bb246e569"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b41"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rk8704155@gmail.com", 
+    "userid" : {"$oid":"60c2e45d3c73be6bb246e55e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b42"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "maheshbirajdar571@gmail.com", 
+    "userid" : {"$oid":"60c2d04d3c73be6bb246e547"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b43"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vishnupunwar23@gmail.com", 
+    "userid" : {"$oid":"60c2cd343c73be6bb246e534"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b44"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "munirajag560@gmail.com", 
+    "userid" : {"$oid":"60c2c7a03c73be6bb246e515"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b45"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "gunjavenkatesh02@gmail.com", 
+    "userid" : {"$oid":"60c2c6e63c73be6bb246e50d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b46"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "k45307@gmail.com", 
+    "userid" : {"$oid":"60c2c5413c73be6bb246e505"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b47"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "goswamilaxmikant072@gmail.com", 
+    "userid" : {"$oid":"60c2c10e3c73be6bb246e4e5"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b48"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ganesh1079@gmail.com", 
+    "userid" : {"$oid":"60c2bd143c73be6bb246e4cf"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b49"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vinit14389@gmail.com", 
+    "userid" : {"$oid":"60c29daa3c73be6bb246e4b3"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b4a"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "radhakrishan01991@gmail.com", 
+    "userid" : {"$oid":"60c25f6b3c73be6bb246e48f"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b4b"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vatsdhathrath@gmail.com", 
+    "userid" : {"$oid":"60c2537c3c73be6bb246e464"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b4c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dipankar1394@gmail.com", 
+    "userid" : {"$oid":"60c252443c73be6bb246e452"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b4d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mohdaqeel880@gmail.com", 
+    "userid" : {"$oid":"60c24d2b3c73be6bb246e429"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b4e"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rreh32@gmail.com", 
+    "userid" : {"$oid":"60c24c343c73be6bb246e420"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b4f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "radhey1707@gmail.com", 
+    "userid" : {"$oid":"60c243333c73be6bb246e3ef"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b50"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vardhmandshah@gmail.com", 
+    "userid" : {"$oid":"60c241143c73be6bb246e3db"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b51"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "aashishrohit.1992@gmail.com", 
+    "userid" : {"$oid":"60c23d693c73be6bb246e3c1"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b52"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "arkamalik009@gmail.Com", 
+    "userid" : {"$oid":"60c23c873c73be6bb246e3b9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b53"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "harishkumarkumar933@gmail.com", 
+    "userid" : {"$oid":"60c23c6c3c73be6bb246e3b3"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b54"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "shampattewar@gmail.com", 
+    "userid" : {"$oid":"60c23a7c3c73be6bb246e39e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b55"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kkshah12@yahoo.com", 
+    "userid" : {"$oid":"60c238733c73be6bb246e382"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b56"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "naveenchari165@gmail.com", 
+    "userid" : {"$oid":"60c235d13c73be6bb246e377"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b57"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ghanshyamkashyap030@gmail.com", 
+    "userid" : {"$oid":"60c2314a3c73be6bb246e35d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b58"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "krishnkantbane09@gmail.com", 
+    "userid" : {"$oid":"60c230243c73be6bb246e353"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b59"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "deepakkpoojary1@gmail.com", 
+    "userid" : {"$oid":"60c22c5c3c73be6bb246e334"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b5a"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sapathroy957@gmail.com", 
+    "userid" : {"$oid":"60c228f93c73be6bb246e311"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b5b"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "devilsalvi0@gmail.com", 
+    "userid" : {"$oid":"60c228783c73be6bb246e307"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b5c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sitnath1994@gmail.com", 
+    "userid" : {"$oid":"60c227ce3c73be6bb246e2fe"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b5d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "amitsute123@gmail.com", 
+    "userid" : {"$oid":"60c21f3e3c73be6bb246e265"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b5e"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ramanjaneyarrddyduggireddy@gmail.com", 
+    "userid" : {"$oid":"60c21e733c73be6bb246e253"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b5f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "raj2014manna@gmail.com", 
+    "userid" : {"$oid":"60c21e463c73be6bb246e24d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b60"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "satishrmysore@gmail.com", 
+    "userid" : {"$oid":"60c21d9b3c73be6bb246e244"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b61"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "lokeshawar5240@gmail.com", 
+    "userid" : {"$oid":"60c21d793c73be6bb246e23c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b62"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "palanimahesh47@gmail.com", 
+    "userid" : {"$oid":"60c21d4c3c73be6bb246e236"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b63"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "anuragmishra1987@rediffmail.com", 
+    "userid" : {"$oid":"60c219eb3c73be6bb246e20c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b64"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "shanikadivar@gmail.com", 
+    "userid" : {"$oid":"60c219733c73be6bb246e1eb"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b65"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "nageshsvn1@gmail.com", 
+    "userid" : {"$oid":"60c219063c73be6bb246e1e2"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b66"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ursghousebasha@gmail.com", 
+    "userid" : {"$oid":"60c2170c3c73be6bb246e1aa"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b67"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "talarimadhu286@gamil.com", 
+    "userid" : {"$oid":"60c2156a3c73be6bb246e194"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b68"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mandy904908@gmwil.com", 
+    "userid" : {"$oid":"60c215193c73be6bb246e186"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b69"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vikashkumarshinde189@gmail.com", 
+    "userid" : {"$oid":"60c2150f3c73be6bb246e181"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b6a"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "thombareshashi70@gmail.com", 
+    "userid" : {"$oid":"60c2150b3c73be6bb246e17c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b6b"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "shanusharma7000735919@gmail.com", 
+    "userid" : {"$oid":"60c214983c73be6bb246e16e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b6c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dudekulahussainvali112@gmail.com", 
+    "userid" : {"$oid":"60c213943c73be6bb246e15a"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b6d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "skinake31@gmail.com", 
+    "userid" : {"$oid":"60c2135c3460f960016e8aef"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b6e"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "imran8889@gmail.com", 
+    "userid" : {"$oid":"60c213513460f960016e8aea"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b6f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "jackjhonson1432@gmail.com", 
+    "userid" : {"$oid":"60c213253460f960016e8ae1"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b70"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sli1makarndraje@gmail.com", 
+    "userid" : {"$oid":"60c212893460f960016e8ad2"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b71"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mchandale@gmail.com", 
+    "userid" : {"$oid":"60c211583460f960016e8aaf"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b72"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "Venkateswarlukaja@gmail.com", 
+    "userid" : {"$oid":"60c210a03460f960016e8aa3"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b73"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "huseniyadav@gmail.com", 
+    "userid" : {"$oid":"60c20f663460f960016e8a87"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b74"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "amollondhe225@gmail.com", 
+    "userid" : {"$oid":"60c20ed93460f960016e8a75"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b75"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "j.lakshminarayanajyothi@gmail.com", 
+    "userid" : {"$oid":"60c20e9c3460f960016e8a6c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b76"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "djrmmn0786@gmail.com", 
+    "userid" : {"$oid":"60c20db146ebd043519c5bf7"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b77"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vasimbagvan010@gmail.com", 
+    "userid" : {"$oid":"60c20cc246ebd043519c5bdb"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b78"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sandeepkandwal88@gmail.com", 
+    "userid" : {"$oid":"60c20cbf46ebd043519c5bd4"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b79"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "aparanuskaikar05@gmail.com", 
+    "userid" : {"$oid":"60c20c6046ebd043519c5bc8"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b7a"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "prempradhanbrjn@gmail.com", 
+    "userid" : {"$oid":"60c20bb446ebd043519c5ba8"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b7b"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "pinku_140484@yahoo.co.in", 
+    "userid" : {"$oid":"60c20b8e46ebd043519c5b9e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b7c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "yogeshamrale87@gmail.com", 
+    "userid" : {"$oid":"60c20b8946ebd043519c5b99"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b7d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "krushnayadav927@gmail.com", 
+    "userid" : {"$oid":"60c20b4646ebd043519c5b89"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b7e"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ubiswas14@gmail.com", 
+    "userid" : {"$oid":"60c20b3246ebd043519c5b82"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b7f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mannelagovardhana31494@gmail.com", 
+    "userid" : {"$oid":"60c20b1946ebd043519c5b7b"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b80"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ayeshamarketing@gmail.com", 
+    "userid" : {"$oid":"60c20b1046ebd043519c5b76"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b81"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "Lkbbhoi49@gmail.com", 
+    "userid" : {"$oid":"60c20b0346ebd043519c5b70"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b82"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mustakshaikh6906@gmali.cam", 
+    "userid" : {"$oid":"60c20aa946ebd043519c5b5c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b83"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "nikpatel1592@gmail.com", 
+    "userid" : {"$oid":"60c20a5046ebd043519c5b38"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b84"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "gohilr10@gmail.com", 
+    "userid" : {"$oid":"60c20a2846ebd043519c5b31"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b85"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "smahaboobb016@gmail.com", 
+    "userid" : {"$oid":"60c209a346ebd043519c5b01"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b86"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "smahaboobb019@gmail.com", 
+    "userid" : {"$oid":"60c2091746ebd043519c5ad9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b87"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dappilisiva00@gmail.com", 
+    "userid" : {"$oid":"60c208fc46ebd043519c5ac9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b88"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rohitbgp6299@gmail.com", 
+    "userid" : {"$oid":"60c208f946ebd043519c5ac4"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b89"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dhalevishal93@gmail.com", 
+    "userid" : {"$oid":"60c208d346ebd043519c5aad"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b8a"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "santhoshpr94@gmail.com", 
+    "userid" : {"$oid":"60c208ba46ebd043519c5aa1"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b8b"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "moulalimail@gmail.com", 
+    "userid" : {"$oid":"60c2089a46ebd043519c5a99"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b8c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "singhjitender9525@gmail.com", 
+    "userid" : {"$oid":"60c2088a46ebd043519c5a91"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b8d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "bheemeshmr8@gmail.com", 
+    "userid" : {"$oid":"60c2087d46ebd043519c5a8c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b8e"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "Shrinathmunje@gmail.com", 
+    "userid" : {"$oid":"60c2086646ebd043519c5a82"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b8f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rameshwar4.meg@gmail.com", 
+    "userid" : {"$oid":"60c2085a46ebd043519c5a79"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b90"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "patlepankaj30@gmail.com", 
+    "userid" : {"$oid":"60c2085246ebd043519c5a71"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b91"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "8328171919pw@gmail.com", 
+    "userid" : {"$oid":"60c2084a46ebd043519c5a6c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b92"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "narendrasuman797@gmail.com", 
+    "userid" : {"$oid":"60c2082946ebd043519c5a63"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b93"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sankhlaramesh19@gmail.com", 
+    "userid" : {"$oid":"60c207e346ebd043519c5a5b"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b94"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kirankiranu8088@gmail.com", 
+    "userid" : {"$oid":"60c207d246ebd043519c5a51"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b95"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sairam26030@gmail.com", 
+    "userid" : {"$oid":"60c207c846ebd043519c5a4c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b96"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "neerajsingh221986@gmail.com", 
+    "userid" : {"$oid":"60c2075a46ebd043519c5a3d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b97"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mayrasharma912@gmail.com", 
+    "userid" : {"$oid":"60c2075a46ebd043519c5a38"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b98"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "narendra2721@gmail.com", 
+    "userid" : {"$oid":"60c2072446ebd043519c5a2a"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b99"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "visionstocks@gmail.com", 
+    "userid" : {"$oid":"60c2071446ebd043519c5a23"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b9a"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kamatajagdish@gmail.com", 
+    "userid" : {"$oid":"60c2070e46ebd043519c5a1d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b9b"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "piyushsuman797@gmail.com", 
+    "userid" : {"$oid":"60c2070e46ebd043519c5a18"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b9c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "duckduckgo4444@gmail.com", 
+    "userid" : {"$oid":"60c206bf46ebd043519c5a0b"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b9d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "zabirjn36@gmail.com", 
+    "userid" : {"$oid":"60c205fd46ebd043519c59e5"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b9e"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "andhe.praveen55@gmail.com", 
+    "userid" : {"$oid":"60c205dd46ebd043519c59e0"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8b9f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "virunayaka88@gmail.com", 
+    "userid" : {"$oid":"60c2059d46ebd043519c59d5"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8ba0"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "bhogeshchippagiri@gmail.com", 
+    "userid" : {"$oid":"60c2057646ebd043519c59cc"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8ba1"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kartika_raj10@yahoo.co.in", 
+    "userid" : {"$oid":"60c2056c46ebd043519c59c7"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8ba2"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "bheemaraidu01935@gmail.com", 
+    "userid" : {"$oid":"60c2055446ebd043519c59bf"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8ba3"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "shahid000123@gmail.com", 
+    "userid" : {"$oid":"60c2054c46ebd043519c59b9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8ba4"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "chinnaaks6669@gmail.com", 
+    "userid" : {"$oid":"60c2053746ebd043519c59af"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8ba5"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "meenamanju539@gmail.com", 
+    "userid" : {"$oid":"60c2052746ebd043519c59a9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8ba6"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "shivajihinge1988@gmail.com", 
+    "userid" : {"$oid":"60c2051446ebd043519c59a0"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8ba7"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "bkrishn44@gmail.com", 
+    "userid" : {"$oid":"60c2050546ebd043519c5998"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8ba8"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "shameerpasha051997@gmail.com", 
+    "userid" : {"$oid":"60c2050146ebd043519c5992"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8ba9"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "amatesushant@gmail.com", 
+    "userid" : {"$oid":"60c204fb46ebd043519c598c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8baa"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vijaysaini123baswa@gmail.com", 
+    "userid" : {"$oid":"60c204e846ebd043519c5983"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bab"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "shamshushamshi786@gmail.com", 
+    "userid" : {"$oid":"60c204c946ebd043519c5978"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bac"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mdismail123567@gmail.com", 
+    "userid" : {"$oid":"60c204b946ebd043519c5971"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bad"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "gangeshlohiyag@gmail.com", 
+    "userid" : {"$oid":"60c204af46ebd043519c5969"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bae"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dondlamanikumar95@gmail.com", 
+    "userid" : {"$oid":"60c2041e46ebd043519c5945"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8baf"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "santoshpushpa46@mail.com", 
+    "userid" : {"$oid":"60c2040a46ebd043519c5934"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bb0"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "nrbantu280@gmail.com", 
+    "userid" : {"$oid":"60c2040846ebd043519c592e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bb1"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vpkgf1234@gmail.com", 
+    "userid" : {"$oid":"60c2040146ebd043519c5926"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bb2"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sangeet.788@gmail.com", 
+    "userid" : {"$oid":"60c2040046ebd043519c5921"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bb3"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sureshreddy.vennapusa786@gmail.com", 
+    "userid" : {"$oid":"60c203fe46ebd043519c591c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bb4"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "binoychennikkara234@gmail.com", 
+    "userid" : {"$oid":"60c203fd46ebd043519c5917"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bb5"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "gargmithlesh75@gmail.com", 
+    "userid" : {"$oid":"60c203f546ebd043519c5911"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bb6"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sagar8867535073@gmail.com", 
+    "userid" : {"$oid":"60c203f046ebd043519c590b"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bb7"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mohan.mb911@gmail.com", 
+    "userid" : {"$oid":"60c203ec46ebd043519c5906"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bb8"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "basava469@gmail.com", 
+    "userid" : {"$oid":"60c203d646ebd043519c58fd"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bb9"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "Manish7068728234@gmail.com", 
+    "userid" : {"$oid":"60c203d446ebd043519c58f8"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bba"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vmadhav289@gmail.com", 
+    "userid" : {"$oid":"60c203d346ebd043519c58f3"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bbb"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "anilyadav1990jeetu@gmail.com", 
+    "userid" : {"$oid":"60c203b746ebd043519c58eb"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bbc"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "enduriyesu@gmail.com", 
+    "userid" : {"$oid":"60c203b446ebd043519c58e6"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bbd"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "pravi500978@gmail.com", 
+    "userid" : {"$oid":"60c203af46ebd043519c58de"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bbe"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ateshpk123@gmail.com", 
+    "userid" : {"$oid":"60c2039446ebd043519c58d1"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bbf"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ravansv65135@gmail.com", 
+    "userid" : {"$oid":"60c2038246ebd043519c58cc"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bc0"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "022ganpat@gmail.com", 
+    "userid" : {"$oid":"60c2037b46ebd043519c58c7"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bc1"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "satyanarayanprajapati1288@gmail.com", 
+    "userid" : {"$oid":"60c2037646ebd043519c58c2"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bc2"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "bhawanigorain418@gmail.com", 
+    "userid" : {"$oid":"60c2036d46ebd043519c58ba"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bc3"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "madhavroyal13@gmail.com", 
+    "userid" : {"$oid":"60c2036c46ebd043519c58b5"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bc4"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mistrivijay816@gmail.com", 
+    "userid" : {"$oid":"60c2035746ebd043519c58ad"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bc5"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vishal2929@gmail.com", 
+    "userid" : {"$oid":"60c2033546ebd043519c589e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bc6"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "skskapan@gmail.com", 
+    "userid" : {"$oid":"60c2033446ebd043519c5899"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bc7"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "maheshminj36@gmail.com", 
+    "userid" : {"$oid":"60c2032646ebd043519c5892"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bc8"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "nvinay2424@gmail.com", 
+    "userid" : {"$oid":"60c2032346ebd043519c588d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bc9"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "varshauskaikar05@gmail.com", 
+    "userid" : {"$oid":"60c2031d46ebd043519c5888"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bca"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "nimaaidass@gmail.com", 
+    "userid" : {"$oid":"60c2031646ebd043519c5883"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bcb"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vijaykumar.rsh@gmail.com", 
+    "userid" : {"$oid":"60c2030f46ebd043519c587d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bcc"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "bhargavchinna09@gmail.com", 
+    "userid" : {"$oid":"60c202fe46ebd043519c5873"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bcd"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "balasaikumar4@gmail.com", 
+    "userid" : {"$oid":"60c202fa46ebd043519c586e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bce"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "naikakash59461@gmail.com", 
+    "userid" : {"$oid":"60c202f046ebd043519c5867"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bcf"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ashokgehlot420@gmail.com", 
+    "userid" : {"$oid":"60c202e746ebd043519c5862"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bd0"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "basu.k2090@gmail.com", 
+    "userid" : {"$oid":"60c202de46ebd043519c585d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bd1"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "Karthikrc6@gmail.com", 
+    "userid" : {"$oid":"60c202cf46ebd043519c5856"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bd2"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "suneelgupta486486@gmail.com", 
+    "userid" : {"$oid":"60c202c646ebd043519c5851"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bd3"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rahuldhariya529@gmail.com", 
+    "userid" : {"$oid":"60c202bf46ebd043519c584c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bd4"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "s68952@gmail.com", 
+    "userid" : {"$oid":"60c202a446ebd043519c5845"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bd5"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "lckslck08@gmail.com", 
+    "userid" : {"$oid":"60c2029f46ebd043519c5840"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bd6"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ghosh4068@gmail.com", 
+    "userid" : {"$oid":"60c2025c46ebd043519c5839"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bd7"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sudam.sahu2002@gmail.com", 
+    "userid" : {"$oid":"60c2024e46ebd043519c5834"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bd8"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "surajch@ymail.com", 
+    "userid" : {"$oid":"60c2021746ebd043519c582e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bd9"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kabirevne750@gmail.com", 
+    "userid" : {"$oid":"60c201ae46ebd043519c5825"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bda"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "Gyansinghchandravanshi@gmail.com", 
+    "userid" : {"$oid":"60c2015546ebd043519c581c"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bdb"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "1990govindverma@gmail.com", 
+    "userid" : {"$oid":"60c200d746ebd043519c5813"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bdc"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "challagopi200@gmail.com", 
+    "userid" : {"$oid":"60c200b046ebd043519c580e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bdd"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "cideveloper2021@gmail.com", 
+    "userid" : {"$oid":"60c0eeb66ff3317514617617"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bde"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rajni999@bagdigmail.com", 
+    "userid" : {"$oid":"60c0cddf6ff33175146175e1"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bdf"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sagaruk17@gmail.com", 
+    "userid" : {"$oid":"60bf3799aea4234e29619dee"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8be0"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "content@mobiwalkers", 
+    "userid" : {"$oid":"60bbc232fabe1837dc77d4d9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8be1"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "user1@gmail.com ", 
+    "userid" : {"$oid":"60bb5f09fabe1837dc77d49d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8be2"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "gdhshjeej@gmail.com", 
+    "userid" : {"$oid":"60bb5edbfabe1837dc77d498"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8be3"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "aaditay17@gmail.com", 
+    "userid" : {"$oid":"60bb1dd7fabe1837dc77d3d6"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8be4"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "aaditay@gmail.com", 
+    "userid" : {"$oid":"60bb1d45fabe1837dc77d3ca"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8be5"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "himanshu1999hc@gmail.com", 
+    "userid" : {"$oid":"60ba050cfabe1837dc77d323"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8be6"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "testtt@gmail.com", 
+    "userid" : {"$oid":"60b9212cf094447b4840a164"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8be7"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "testk@test.com", 
+    "userid" : {"$oid":"60b91776f094447b4840a158"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8be8"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "EVOLUTION2@GMAIL.COM", 
+    "userid" : {"$oid":"60b90b02f094447b4840a148"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8be9"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "chanti.subbu2011@gmail.com", 
+    "userid" : {"$oid":"60b7b50b55b6162d1ad41047"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bea"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vicky1@gmail.com", 
+    "userid" : {"$oid":"60b7b48a41edd928c40ae9bb"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8beb"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "katarihemanth95@gmail.com", 
+    "userid" : {"$oid":"60b7b43141edd928c40ae9b5"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bec"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kerrlinda101@gmail.com", 
+    "userid" : {"$oid":"60b756f1d8252612d1281aa1"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bed"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ritusinghrawat27@gmail.com", 
+    "userid" : {"$oid":"60b5eb33bf4a965e1145fed7"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bee"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "WACO@GMAIL.COM", 
+    "userid" : {"$oid":"60b5450dbad78568ad2aa5d0"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bef"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "PAYMERO@GMAIL.COM", 
+    "userid" : {"$oid":"60b54493bad78568ad2aa5cb"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bf0"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mademo@gmail.com", 
+    "userid" : {"$oid":"60b52190bad78568ad2aa5b4"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bf1"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "goluarmarka@gmail.com", 
+    "userid" : {"$oid":"60b51c16bad78568ad2aa599"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bf2"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "naira@gmail.com", 
+    "userid" : {"$oid":"60b519ffbad78568ad2aa57a"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bf3"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "Poojasingh4993@gmail.co", 
+    "userid" : {"$oid":"60b518e5bad78568ad2aa575"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bf4"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "anushkaasiingh03@gmail.com", 
+    "userid" : {"$oid":"60b518bbbad78568ad2aa56f"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bf5"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "goluarmarka @gmail.com", 
+    "userid" : {"$oid":"60b51853bad78568ad2aa56a"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bf6"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "simrandemo@gmail.com", 
+    "userid" : {"$oid":"60b51777bad78568ad2aa54f"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bf7"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mathurevinay1@gmail.com", 
+    "userid" : {"$oid":"60b513d6bad78568ad2aa53e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bf8"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "checks@gmail.com", 
+    "userid" : {"$oid":"60b513a7bad78568ad2aa539"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c31dc1589a72125ccf8bf9"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vishu@gmail.com", 
+    "userid" : {"$oid":"60b355a32a722f3009b2e942"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679142"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rdagar1996@gmail.com", 
+    "userid" : {"$oid":"60da2f4f98a8533c252515c8"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679143"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "payalanaveen86@gmail.com", 
+    "userid" : {"$oid":"60d86f0698a8533c2525151e"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679144"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "ssbyadagiss@gmail.com", 
+    "userid" : {"$oid":"60d649bb98a8533c252513ec"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679145"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "76dashish@gmail.com", 
+    "userid" : {"$oid":"60d22112cb00cd6e6eddfeb7"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679146"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "somicreations7@gmail.com", 
+    "userid" : {"$oid":"60cfa667b37082617e67c3bc"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679147"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "Surendreraikwar111@gmail.com", 
+    "userid" : {"$oid":"60ce35dde887f6019ae92329"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679148"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rvndrthr0@gmail.com", 
+    "userid" : {"$oid":"60cdb7dad009a1133c01e5f6"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679149"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "tonykalam6652@gmail.com", 
+    "userid" : {"$oid":"60cc78b5d009a1133c01e585"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267914a"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "AWMS@GMAIL.COM", 
+    "userid" : {"$oid":"60ca5c0d231ba6657b328a18"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267914b"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rajendraprasad2002@gmail.com", 
+    "userid" : {"$oid":"60c9f3e0231ba6657b3289b2"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267914c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "anandsww@gmail.com", 
+    "userid" : {"$oid":"60c9adb5231ba6657b328990"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267914d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "satish.king50@gmail.com", 
+    "userid" : {"$oid":"60c99d2d231ba6657b328971"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267914e"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mukeshkhurdaiye@gmail.com", 
+    "userid" : {"$oid":"60c90a5d231ba6657b328935"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267914f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "peddanna321@gmail.com", 
+    "userid" : {"$oid":"60c8e8d9231ba6657b328926"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679150"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "peravaligangadhar@gmail.com", 
+    "userid" : {"$oid":"60c8b121231ba6657b328901"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679151"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rahulsakla.94@gmail.com", 
+    "userid" : {"$oid":"60c630ffbd3c8c19f361e624"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679152"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "bhanup497.bp@gmail.com", 
+    "userid" : {"$oid":"60c5a45bbd3c8c19f361e5c9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679153"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kumarcharansahu63709692@gmail.com", 
+    "userid" : {"$oid":"60c59ea9bd3c8c19f361e5b5"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679154"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sskhainur@gmail.com", 
+    "userid" : {"$oid":"60c4f20bbd3c8c19f361e511"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679155"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "raipur.rajeev@gmail.com", 
+    "userid" : {"$oid":"60c4d512bd3c8c19f361e4ef"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679156"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "kabir123@gmail.com", 
+    "userid" : {"$oid":"60c4cdf2bd3c8c19f361e4cc"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679157"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sonusingh_delhi@yahoo.com", 
+    "userid" : {"$oid":"60c4c9d7bd3c8c19f361e4b5"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679158"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "bhargav777777@gmail.com", 
+    "userid" : {"$oid":"60c4a1adbd3c8c19f361e466"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679159"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sp.noorbasha21@gmail.com", 
+    "userid" : {"$oid":"60c4959fbd3c8c19f361e443"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267915a"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "prakas809@gmail.com", 
+    "userid" : {"$oid":"60c474d9bd3c8c19f361e3d5"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267915b"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "alisab5317@gmail.com", 
+    "userid" : {"$oid":"60c45dacbd3c8c19f361e384"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267915c"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mustafah8880@gmail.com", 
+    "userid" : {"$oid":"60c45a1fbd3c8c19f361e369"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267915d"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dekosonalu@gmail.com", 
+    "userid" : {"$oid":"60c44a96bd3c8c19f361e31b"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267915e"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "lml1063@gmail.com", 
+    "userid" : {"$oid":"60c42add50639f365e6d8c90"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce267915f"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "santoshkumarnk2@gmail.com", 
+    "userid" : {"$oid":"60c3a6744ecd550572f09c13"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679160"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "santoshgunjal422@gmail.com", 
+    "userid" : {"$oid":"60c388ec4ecd550572f09bd8"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679161"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "vs1428117@gmail.com", 
+    "userid" : {"$oid":"60c37c01400c04781c762f28"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ed54776bfdf32ce2679162"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dadavali68@gmail.com", 
+    "userid" : {"$oid":"60c37bf0400c04781c762f23"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60f185d5f5d4991e30048897"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "CREATE@GMAIL.COM", 
+    "userid" : {"$oid":"60f00fa48d081c0faf529a44"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60f185d6f5d4991e30048898"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "UCO@GMAIL.COM", 
+    "userid" : {"$oid":"60ef2f55e176a34b451133e8"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60f83c91ebd4016f06e21482"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "rajkkc07@gmail.com", 
+    "userid" : {"$oid":"60f71b1a1dce161415c009ef"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60f83c91ebd4016f06e21483"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "sadikshaikh6313@gmail.com", 
+    "userid" : {"$oid":"60f3c8dfbdae980cffa68a3a"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"61005b19d363be5110bd22e0"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "freeethfaucet@gmail.com", 
+    "userid" : {"$oid":"60fe8061fe45fb40d2c69c19"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"61005b19d363be5110bd22e1"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "jackie.devil001@gmail.com", 
+    "userid" : {"$oid":"60fe62e8fe45fb40d2c69c08"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"61005b19d363be5110bd22e2"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "DDcdjR@gmail.coM", 
+    "userid" : {"$oid":"60f84e3debd4016f06e214f9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"61005b19d363be5110bd22e3"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dcdjR@gmail.coM", 
+    "userid" : {"$oid":"60f84dcdebd4016f06e214eb"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"61005b19d363be5110bd22e4"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dcjdjR@gmail.coM", 
+    "userid" : {"$oid":"60f84d19ebd4016f06e214dd"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"61005b19d363be5110bd22e5"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "dcjdjRR@gmail.coM", 
+    "userid" : {"$oid":"60f84cfcebd4016f06e214d9"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"61005b19d363be5110bd22e6"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "photopecker117@gmail.com", 
+    "userid" : {"$oid":"60f8444febd4016f06e21491"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6103ec54e860362aa12eb520"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "test1@fairbets.co", 
+    "userid" : {"$oid":"6103e664e860362aa12eb50d"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6105ca73e860362aa12eb6b4"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "info@nhez.com", 
+    "userid" : {"$oid":"6105b0a8e860362aa12eb6aa"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6105ca73e860362aa12eb6b5"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "hacker12@gmail.com", 
+    "userid" : {"$oid":"61056b10e860362aa12eb626"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6105ca73e860362aa12eb6b6"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "tigatow705@insgogc.com", 
+    "userid" : {"$oid":"610569c4e860362aa12eb621"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6105ca73e860362aa12eb6b7"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "mata45y@gmail.com", 
+    "userid" : {"$oid":"610568b9e860362aa12eb614"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6105ca73e860362aa12eb6b8"}, 
+    "daylimit" : 100000, 
+    "weeklimit" : 100000, 
+    "monthlimit" : 100000, 
+    "email" : "hacker@gmail.com", 
+    "userid" : {"$oid":"6105621ae860362aa12eb5d7"}, 
+    "__v" : 0
+}

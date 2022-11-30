@@ -1,0 +1,2915 @@
+
+{ 
+    "_id" : {"$oid":"5f894ce805da9f5c1560d017"}, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true, 
+        "1622828166076" : true
+    }, 
+    "navLink" : "/dashboard/Analytics", 
+    "id" : "1601932220849", 
+    "icon" : "FaHome", 
+    "title" : "Dashboard", 
+    "status" : true, 
+    "pid" : "0", 
+    "type" : "collapse", 
+    "order" : 0, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f894ce805da9f5c1560d018"}, 
+    "roles" : {
+
+    }, 
+    "navLink" : "/dashboard/Analytics", 
+    "id" : "1601932220850", 
+    "icon" : "FaAlgolia", 
+    "title" : "Analytics", 
+    "status" : true, 
+    "pid" : "1601932220849", 
+    "type" : "item", 
+    "order" : 0, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60165987499d143bc2bec7dd"}, 
+    "pid" : "0", 
+    "id" : "1612080851252", 
+    "title" : "Players", 
+    "navLink" : "/Players/players", 
+    "icon" : "FaPlayCircle", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true, 
+        "1622828166076" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601659a6499d143bc2bec7e0"}, 
+    "pid" : "1612080851252", 
+    "id" : "1612080883156", 
+    "title" : "Players", 
+    "navLink" : "/Players/players", 
+    "icon" : "FaAlgolia", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601695f74b041961f4bc7aad"}, 
+    "pid" : "1601932220849", 
+    "id" : "1612096323945", 
+    "title" : "Revenue", 
+    "navLink" : "/dashboard/Revenue", 
+    "icon" : "FaDeviantart", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true, 
+        "1622828166076" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601697eb4b041961f4bc7aae"}, 
+    "pid" : "1612080851252", 
+    "id" : "1612096823897", 
+    "title" : "KYC", 
+    "navLink" : "/kyc", 
+    "icon" : "FaPills", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601698434b041961f4bc7aaf"}, 
+    "pid" : "1612096823897", 
+    "id" : "1612096913104", 
+    "title" : "Approved KYC", 
+    "navLink" : "/kyc/Approved", 
+    "icon" : "FaPollH", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016986b4b041961f4bc7ab0"}, 
+    "pid" : "1612096823897", 
+    "id" : "1612096953049", 
+    "title" : "pending KYC", 
+    "navLink" : "/kyc/pending", 
+    "icon" : "FaPoll", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60169b6e4b041961f4bc7ab1"}, 
+    "pid" : "1612096823897", 
+    "id" : "1612097724072", 
+    "title" : "Rejected KYC", 
+    "navLink" : "/kyc/rejectingKyc", 
+    "icon" : "FaPray", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60169f264b041961f4bc7ab2"}, 
+    "pid" : "1612080851252", 
+    "id" : "1612098674903", 
+    "title" : "Players Limits", 
+    "navLink" : "/limits", 
+    "icon" : "FaPrint", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016dbc2e4c9b6027f578aaa"}, 
+    "pid" : "0", 
+    "id" : "1612114190499", 
+    "title" : "Users", 
+    "navLink" : "/users/Users", 
+    "icon" : "FaUserEdit", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016dbe8e4c9b6027f578aab"}, 
+    "pid" : "1612114190499", 
+    "id" : "1612114229492", 
+    "title" : "Users", 
+    "navLink" : "/users/Users", 
+    "icon" : "FaUserEdit", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016dee6e4c9b6027f578aac"}, 
+    "pid" : "1612114190499", 
+    "id" : "1612114994780", 
+    "title" : "game-players", 
+    "navLink" : "/users/gamesessionusers", 
+    "icon" : "FaUserEdit", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016df0ce4c9b6027f578aad"}, 
+    "pid" : "1612114190499", 
+    "id" : "1612115033356", 
+    "title" : "Rolemanager", 
+    "navLink" : "/users/permissionmanager", 
+    "icon" : "FaUserEdit", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016df76e4c9b6027f578aae"}, 
+    "pid" : "1612114190499", 
+    "id" : "1612115139515", 
+    "title" : "Site-loginusers", 
+    "navLink" : "/users/Realtimeusers", 
+    "icon" : "FaUserEdit", 
+    "status" : true, 
+    "type" : "item", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "roles" : {
+        "1619266700079" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"6016dfb5e4c9b6027f578aaf"}, 
+    "pid" : "0", 
+    "id" : "1612115203035", 
+    "title" : "Finance", 
+    "navLink" : "/finance/Transactions", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1619266700079" : true, 
+        "1622828166076" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016dfd2e4c9b6027f578ab0"}, 
+    "pid" : "1612115203035", 
+    "id" : "1612115231507", 
+    "title" : "Transactions", 
+    "navLink" : "/finance/Transactions", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true, 
+        "1622401019474" : true, 
+        "1622828166076" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016dffae4c9b6027f578ab1"}, 
+    "pid" : "1612115203035", 
+    "id" : "1612115271299", 
+    "title" : "Request Payout", 
+    "navLink" : "/Players/RequestPayout", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true, 
+        "1622401019474" : true, 
+        "1622828166076" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016e020e4c9b6027f578ab2"}, 
+    "pid" : "1612115203035", 
+    "id" : "1612115309332", 
+    "title" : "Deposit History", 
+    "navLink" : "/Players/DepositHitory", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true, 
+        "1622828166076" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016e042e4c9b6027f578ab3"}, 
+    "pid" : "1612115203035", 
+    "id" : "1612115343219", 
+    "title" : "Withdraw History", 
+    "navLink" : "/Players/WithdrawHistory", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true, 
+        "1622828166076" : true
+    }, 
+    "type" : "item", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016e0d3e4c9b6027f578ab4"}, 
+    "pid" : "0", 
+    "id" : "1612115487474", 
+    "title" : "Games(Game providers", 
+    "navLink" : "/GameProviders/gameprovider/providers", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016e125e4c9b6027f578ab5"}, 
+    "pid" : "1612115487474", 
+    "id" : "1612115569811", 
+    "title" : "All providers", 
+    "navLink" : "/GameProviders/gameprovider/providers", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f692e4c9b6027f578ab9"}, 
+    "pid" : "1612115487474", 
+    "id" : "1612121055056", 
+    "title" : "Sports Book", 
+    "navLink" : "/GameProvidersSportsBook", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f6b8e4c9b6027f578aba"}, 
+    "pid" : "1612115487474", 
+    "id" : "1612121093287", 
+    "title" : "Casino/Slots", 
+    "navLink" : "/GameProviders/gameprovider/casino", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f6eae4c9b6027f578abb"}, 
+    "pid" : "1612115487474", 
+    "id" : "1612121143935", 
+    "title" : "liveCasino", 
+    "navLink" : "/GameProviders/gameprovider/liveCasino", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f719e4c9b6027f578abc"}, 
+    "pid" : "1612115487474", 
+    "id" : "1612121190878", 
+    "title" : "Virtual Sports", 
+    "navLink" : "/GameProviders/gameprovider/virtualGames", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f78be4c9b6027f578abd"}, 
+    "pid" : "1612115487474", 
+    "id" : "1612121304222", 
+    "title" : "Cock Fight", 
+    "navLink" : "/GameProviders/gameprovider/cockfight", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f7ade4c9b6027f578abe"}, 
+    "pid" : "1612115487474", 
+    "id" : "1612121337742", 
+    "title" : "Animal", 
+    "navLink" : "/GameProviders/gameprovider/animal", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 7, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f821e4c9b6027f578abf"}, 
+    "pid" : "0", 
+    "id" : "1612121454262", 
+    "title" : "Sportsbook", 
+    "navLink" : "/sportsbook/live-prematch", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f841e4c9b6027f578ac0"}, 
+    "pid" : "1612121454262", 
+    "id" : "1612121486695", 
+    "title" : "Live / Prematch", 
+    "navLink" : "/sportsbook/live-prematch", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f86fe4c9b6027f578ac1"}, 
+    "pid" : "0", 
+    "id" : "1612121532975", 
+    "title" : "Tools", 
+    "navLink" : "/Tools/blockusers", 
+    "icon" : "FaTools", 
+    "status" : false, 
+    "roles" : {
+        "1602594948413" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f8b6e4c9b6027f578ac2"}, 
+    "pid" : "1612121532975", 
+    "id" : "1612121603239", 
+    "title" : "Tools", 
+    "navLink" : "/Tools/blockusers", 
+    "icon" : "FaTools", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f910e4c9b6027f578ac3"}, 
+    "pid" : "0", 
+    "id" : "1612121691998", 
+    "title" : "Payment Gateway", 
+    "navLink" : "/PaymentGateway/paymentMenu", 
+    "icon" : "FaCcAmazonPay", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 7, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f930e4c9b6027f578ac4"}, 
+    "pid" : "1612121691998", 
+    "id" : "1612121725543", 
+    "title" : "PaymentMenuManager", 
+    "navLink" : "/PaymentGateway/paymentMenu", 
+    "icon" : "FaCcAmazonPay", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f95fe4c9b6027f578ac5"}, 
+    "pid" : "1612121691998", 
+    "id" : "1612121772958", 
+    "title" : "Payment Configuration", 
+    "navLink" : "/PaymentGateway/netcents", 
+    "icon" : "FaCcAmazonPay", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f98ce4c9b6027f578ac6"}, 
+    "pid" : "1612121772958", 
+    "id" : "1612121817070", 
+    "title" : "Netcents (Bitcoin", 
+    "navLink" : "/PaymentGateway/netcents", 
+    "icon" : "FaCcAmazonPay", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f9b2e4c9b6027f578ac7"}, 
+    "pid" : "1612121772958", 
+    "id" : "1612121855431", 
+    "title" : "YaarPay", 
+    "navLink" : "/PaymentGateway/yaarpay", 
+    "icon" : "FaCcAmazonPay", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f9cee4c9b6027f578ac8"}, 
+    "pid" : "1612121772958", 
+    "id" : "1612121883822", 
+    "title" : "QPAY", 
+    "navLink" : "/PaymentGateway/qpay", 
+    "icon" : "FaCcAmazonPay", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016f9fee4c9b6027f578ac9"}, 
+    "pid" : "0", 
+    "id" : "1612121931262", 
+    "title" : "Affiliates", 
+    "navLink" : "/Affiliates/Network/Users", 
+    "icon" : "FaAffiliatetheme", 
+    "status" : false, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 8, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fa31e4c9b6027f578aca"}, 
+    "pid" : "0", 
+    "id" : "1612121982589", 
+    "title" : "Promotions", 
+    "navLink" : "/Promotions/VIPprograms", 
+    "icon" : "FaGifts", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 9, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fa71e4c9b6027f578acb"}, 
+    "pid" : "0", 
+    "id" : "1612122046845", 
+    "title" : "Reports", 
+    "navLink" : "/Reports-Sportsbook/betReports", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 10, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fa89e4c9b6027f578acc"}, 
+    "pid" : "1612122046845", 
+    "id" : "1612122070549", 
+    "title" : "sportsReports-Sportsbook", 
+    "navLink" : "/Reports-Sportsbook/betReports", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fac7e4c9b6027f578acd"}, 
+    "pid" : "1612122070549", 
+    "id" : "1612122131581", 
+    "title" : "Bet", 
+    "navLink" : "/Reports-Sportsbook/betReports", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016faede4c9b6027f578ace"}, 
+    "pid" : "1612122046845", 
+    "id" : "1612122170349", 
+    "title" : "Casino", 
+    "navLink" : "/bygames", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fb0be4c9b6027f578acf"}, 
+    "pid" : "1612122170349", 
+    "id" : "1612122200797", 
+    "title" : "By Game", 
+    "navLink" : "/reports/casino/ReportBygames", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fb47e4c9b6027f578ad0"}, 
+    "pid" : "1612122170349", 
+    "id" : "1612122259782", 
+    "title" : "By Player Game", 
+    "navLink" : "/reports/casino/ReportByPlayer", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fb6be4c9b6027f578ad1"}, 
+    "pid" : "1612122170349", 
+    "id" : "1612122296150", 
+    "title" : "By Provider", 
+    "navLink" : "/reports/casino/ReportByProvider", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fb83e4c9b6027f578ad2"}, 
+    "pid" : "1612122170349", 
+    "id" : "1612122320590", 
+    "title" : "By Bet", 
+    "navLink" : "/reports/casino/ReportByPlayerGame", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fbbce4c9b6027f578ad3"}, 
+    "pid" : "0", 
+    "id" : "1612122376973", 
+    "title" : "CMS", 
+    "navLink" : "/cms/topGames", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 11, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fbdce4c9b6027f578ad4"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612122409901", 
+    "title" : "Slider Management", 
+    "navLink" : "/cms/slider/firspagemng", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true, 
+        "1622401019474" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fc0be4c9b6027f578ad5"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612122456662", 
+    "title" : "Live-casino Gamelist", 
+    "navLink" : "/cms/livecasinolist", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fc28e4c9b6027f578ad6"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612122485613", 
+    "title" : "Casino Gamelist", 
+    "navLink" : "/cms/casinolist", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fc55e4c9b6027f578ad7"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612122530357", 
+    "title" : "vitual Sports", 
+    "navLink" : "/cms/virtualgamelist", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fc71e4c9b6027f578ad8"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612122558743", 
+    "title" : "Poker", 
+    "navLink" : "/cms/porkerlist", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fd14e4c9b6027f578ada"}, 
+    "pid" : "1612121772958", 
+    "id" : "1612122720704", 
+    "title" : "Razorpay", 
+    "navLink" : "/PaymentGateway/razorpay", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fd39e4c9b6027f578adb"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612122758877", 
+    "title" : "Cock Fight", 
+    "navLink" : "/cms/cockfight", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fd7ce4c9b6027f578adc"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612122825277", 
+    "title" : "Animal Gamelist", 
+    "navLink" : "/cms/animalgamelist", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 7, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fdc6e4c9b6027f578add"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612122898885", 
+    "title" : "FirstPageManager", 
+    "navLink" : "/cms/firstpagemanager", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true, 
+        "1602594948424" : true
+    }, 
+    "type" : "item", 
+    "order" : 8, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fdf5e4c9b6027f578ade"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612122946726", 
+    "title" : "Menu Manager", 
+    "navLink" : "/cms/menumanager", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602594948424" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 9, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fe1fe4c9b6027f578adf"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612122988549", 
+    "title" : "quick_links", 
+    "navLink" : "/cms/quick_links", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602594948424" : true
+    }, 
+    "type" : "item", 
+    "order" : 10, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fe3ae4c9b6027f578ae0"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612123015453", 
+    "title" : "social_links", 
+    "navLink" : "/cms/social_links", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602594948424" : true
+    }, 
+    "type" : "item", 
+    "order" : 11, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fe55e4c9b6027f578ae1"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612123042485", 
+    "title" : "newsText", 
+    "navLink" : "/cms/newsText", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602594948424" : true
+    }, 
+    "type" : "item", 
+    "order" : 12, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016fe99e4c9b6027f578ae2"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612123109526", 
+    "title" : "Faq_page", 
+    "navLink" : "/cms/faq_page", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602594948424" : true
+    }, 
+    "type" : "item", 
+    "order" : 13, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016ff13e4c9b6027f578ae3"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612123231933", 
+    "title" : "privacypolicy", 
+    "navLink" : "/cms/privacypolicy", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 14, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016ff26e4c9b6027f578ae4"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612123251350", 
+    "title" : "Aboutus", 
+    "navLink" : "/cms/aboutus", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602594948424" : true
+    }, 
+    "type" : "item", 
+    "order" : 15, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6016ff3de4c9b6027f578ae5"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612123274509", 
+    "title" : "ContactUs", 
+    "navLink" : "/cms/contactus", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 16, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601702fce4c9b6027f578ae7"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612124233317", 
+    "title" : "Fp-GL-Setting", 
+    "navLink" : "/cms/Firstpage-gamelist-setting", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602594948424" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 17, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6017031ce4c9b6027f578ae8"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612124265325", 
+    "title" : "Fp-GL-setting(casino", 
+    "navLink" : "/cms/Firstpage-casino-gamelist-setting", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 18, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6017033fe4c9b6027f578ae9"}, 
+    "pid" : "1612121772958", 
+    "id" : "1612124300812", 
+    "title" : "Cashfree", 
+    "navLink" : "/PaymentGateway/cashfree", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601703a1e4c9b6027f578aeb"}, 
+    "pid" : "0", 
+    "id" : "1612124398292", 
+    "title" : "Settings", 
+    "navLink" : "Settings", 
+    "icon" : "FaRegSun", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 12, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601703b8e4c9b6027f578aec"}, 
+    "pid" : "1612124398292", 
+    "id" : "1612124421317", 
+    "title" : "Language", 
+    "navLink" : "/Settings/Language", 
+    "icon" : "FaRegSun", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601703e0e4c9b6027f578aed"}, 
+    "pid" : "1612124398292", 
+    "id" : "1612124461780", 
+    "title" : "Provider Credentials", 
+    "navLink" : "/setting/providersetting", 
+    "icon" : "FaRegSun", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60170469e4c9b6027f578aef"}, 
+    "pid" : "0", 
+    "id" : "1612124598219", 
+    "title" : "Satta", 
+    "navLink" : "/matka/dashboard/all", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 13, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60170498e4c9b6027f578af0"}, 
+    "pid" : "1612124598219", 
+    "id" : "1612124645851", 
+    "title" : "Dashboard", 
+    "navLink" : "/matka/dashboard/all", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601704b9e4c9b6027f578af1"}, 
+    "pid" : "1612124598219", 
+    "id" : "1612124677980", 
+    "title" : "Game", 
+    "navLink" : "/matka/games", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601704fde4c9b6027f578af2"}, 
+    "pid" : "1612121772958", 
+    "id" : "1612124745364", 
+    "title" : "Ruppepay", 
+    "navLink" : "/PaymentGateway/paygate10", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60170546e4c9b6027f578af3"}, 
+    "pid" : "1612124598219", 
+    "id" : "1612124819044", 
+    "title" : "Bazaar", 
+    "navLink" : "/matka/bazaars", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6017055fe4c9b6027f578af4"}, 
+    "pid" : "1612124598219", 
+    "id" : "1612124844124", 
+    "title" : "Declare Result", 
+    "navLink" : "/matka/result", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601705d8e4c9b6027f578af5"}, 
+    "pid" : "0", 
+    "id" : "1612124965701", 
+    "title" : "Permission", 
+    "navLink" : "/permission/manage", 
+    "icon" : "FaDharmachakra", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 14, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"601708e2e4c9b6027f578af6"}, 
+    "pid" : "1618313518477", 
+    "id" : "1612125742300", 
+    "title" : "profile-menu", 
+    "navLink" : "/cms/profilemenu", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 20, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6028f9684ff8c40d439f887d"}, 
+    "pid" : "1612121772958", 
+    "id" : "1613301411083", 
+    "title" : "Apco Pay", 
+    "navLink" : "/PaymentGateway/apcopay", 
+    "icon" : "FaCcAmazonPay", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 7, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"603de60d85a0270c85bdd105"}, 
+    "pid" : "1612121982589", 
+    "id" : "1614669305429", 
+    "title" : "Bonus", 
+    "navLink" : "/Promotions/Bonus", 
+    "icon" : "FaGifts", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6043b83df5b13f2298b82579"}, 
+    "pid" : "1612124398292", 
+    "id" : "1615050811538", 
+    "title" : "Configuration", 
+    "navLink" : "/setting/configuration", 
+    "icon" : "FaRegSun", 
+    "status" : false, 
+    "roles" : {
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"604a9c19e225ff11553832a8"}, 
+    "pid" : "1612115203035", 
+    "id" : "1615502329610", 
+    "title" : "Payout Channel", 
+    "navLink" : "/finance/payoutChannel", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"604ee0e05e6c422f0cf3fff2"}, 
+    "pid" : "1612115203035", 
+    "id" : "1615782110754", 
+    "title" : "Bank Detail", 
+    "navLink" : "/finance/bankdetail", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60531814df089b01d06050f8"}, 
+    "pid" : "1612124398292", 
+    "id" : "1616058386603", 
+    "title" : "Global Setting", 
+    "navLink" : "/setting/globalsetting", 
+    "icon" : "FaRegSun", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"605443073df7173fd8d0b1e7"}, 
+    "pid" : "1612121982589", 
+    "id" : "1616134916938", 
+    "title" : "BonusHistory", 
+    "navLink" : "/Promotions/bonushistory", 
+    "icon" : "FaGifts", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6055607d85bc981c682205de"}, 
+    "pid" : "1612121772958", 
+    "id" : "1616207996063", 
+    "title" : "paymoro", 
+    "navLink" : "/PaymentGateway/paymoro", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 8, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6058202c1f9ce3356c33c7d4"}, 
+    "pid" : "1612124398292", 
+    "id" : "1616388137797", 
+    "title" : "Notification", 
+    "navLink" : "/setting/notification", 
+    "icon" : "FaRegSun", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6062ed4c4f8c0b089cc3be5e"}, 
+    "pid" : "1612124844124", 
+    "id" : "1617096009040", 
+    "title" : "Regular Bazar", 
+    "navLink" : "/matka/result/regular", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6062edc84f8c0b089cc3be5f"}, 
+    "pid" : "1612124844124", 
+    "id" : "1617096133167", 
+    "title" : "King Bazar", 
+    "navLink" : "/matka/result/king", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6062ee024f8c0b089cc3be60"}, 
+    "pid" : "1612124844124", 
+    "id" : "1617096190967", 
+    "title" : "Star Line", 
+    "navLink" : "/matka/result/startline", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60757a58a6a80414dcc276b3"}, 
+    "pid" : "1612122376973", 
+    "id" : "1618311669055", 
+    "title" : "Telegram", 
+    "navLink" : "/cms/topGames", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 24, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60757caea6a80414dcc276b4"}, 
+    "pid" : "1618311669055", 
+    "id" : "1618312266483", 
+    "title" : "Top Games", 
+    "navLink" : "/cms/topGames", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075812ca6a80414dcc276b5"}, 
+    "pid" : "1612122376973", 
+    "id" : "1618313417331", 
+    "title" : "Mobile", 
+    "navLink" : "/cms/mobile", 
+    "icon" : "FaLayerGroup", 
+    "status" : false, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 25, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075814ba6a80414dcc276b6"}, 
+    "pid" : "1618311669055", 
+    "id" : "1618313448244", 
+    "title" : "MenuManager", 
+    "navLink" : "/cms/mobileMenuManager", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60758192a6a80414dcc276b7"}, 
+    "pid" : "1612122376973", 
+    "id" : "1618313518477", 
+    "title" : "WebSite", 
+    "navLink" : "/cms/slider/firspagemng", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true, 
+        "1602594948424" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 26, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607581bba6a80414dcc276b8"}, 
+    "pid" : "1612122376973", 
+    "id" : "1618313560244", 
+    "title" : "Sportsbook", 
+    "navLink" : "cms/sportsbook", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 27, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607581dea6a80414dcc276b9"}, 
+    "pid" : "1618313560244", 
+    "id" : "1618313595044", 
+    "title" : "Sports Game list", 
+    "navLink" : "/cms/sports_manager", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075821ba6a80414dcc276ba"}, 
+    "pid" : "1618313560244", 
+    "id" : "1618313656116", 
+    "title" : "Features Events", 
+    "navLink" : "/cms/featuresEvents", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60758254a6a80414dcc276bb"}, 
+    "pid" : "1618313560244", 
+    "id" : "1618313713796", 
+    "title" : "Exchg Manager", 
+    "navLink" : "/cms/exchgmanager", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606a6f2bce4d2517ca07c2b1"}, 
+    "pid" : "1612124598219", 
+    "id" : "1617587941857", 
+    "title" : "Restriction Days", 
+    "navLink" : "/matka/restrictionsday", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true
+    }, 
+    "type" : "item", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606a6f50ce4d2517ca07c2b2"}, 
+    "pid" : "1612122046845", 
+    "id" : "1617587980505", 
+    "title" : "Satta", 
+    "navLink" : "/reports/satta/byBazar", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606a6f65ce4d2517ca07c2b3"}, 
+    "pid" : "1617587980505", 
+    "id" : "1617588001097", 
+    "title" : "By Bazar", 
+    "navLink" : "/reports/satta/byBazar", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606a6f7dce4d2517ca07c2b4"}, 
+    "pid" : "1617587980505", 
+    "id" : "1617588025577", 
+    "title" : "By Martket", 
+    "navLink" : "/reports/satta/byMarket", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606a6f97ce4d2517ca07c2b5"}, 
+    "pid" : "1617587980505", 
+    "id" : "1617588051233", 
+    "title" : "By Players", 
+    "navLink" : "/reports/satta/byPlayer", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606a89e5d568792d60cec637"}, 
+    "pid" : "1612122070549", 
+    "id" : "1617594851694", 
+    "title" : "By Player", 
+    "navLink" : "/reports/sports/ReportByPlayer", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606a89f9d568792d60cec638"}, 
+    "pid" : "1612122070549", 
+    "id" : "1617594871405", 
+    "title" : "By bets", 
+    "navLink" : "/reports/sports/ReportByBets", 
+    "icon" : "FaSignal", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606a6eefce4d2517ca07c2b0"}, 
+    "pid" : "1612115203035", 
+    "id" : "1617587882833", 
+    "title" : "Withdrawal Restriction Days", 
+    "navLink" : "/finance/restriction", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1602625789120" : true, 
+        "1602594948419" : true, 
+        "1602625885474" : true, 
+        "1619266700079" : true, 
+        "1622399909898" : true
+    }, 
+    "type" : "item", 
+    "order" : 7, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607592e7a6a80414dcc276bc"}, 
+    "pid" : "1618313518477", 
+    "id" : "1618317955791", 
+    "title" : "TypeManager", 
+    "navLink" : "/setting/typemanager", 
+    "icon" : "FaRegSun", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 21, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607b1839814b2106285d225f"}, 
+    "pid" : "1612124598219", 
+    "id" : "1618679759239", 
+    "title" : "BazarType", 
+    "navLink" : "/matka/bazartype", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607d18529635c43f7f1e751e"}, 
+    "pid" : "1612124398292", 
+    "id" : "1618810854322", 
+    "title" : "Them Setting", 
+    "navLink" : "/setting/themsetting", 
+    "icon" : "FaRegSun", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"607e7b9054597f097330c96e"}, 
+    "pid" : "1612121982589", 
+    "id" : "1618901794992", 
+    "title" : "BonusConfig", 
+    "navLink" : "/Promotions/bonusconfig", 
+    "icon" : "FaGifts", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"608951d99f8ccb11ca173b7c"}, 
+    "pid" : "1612124398292", 
+    "id" : "1619612000139", 
+    "title" : "Currency Config", 
+    "navLink" : "/setting/currencypages", 
+    "icon" : "FaRegSun", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 7, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"608d1505ada9a646af0e6c9f"}, 
+    "pid" : "1601932220849", 
+    "id" : "1619858568569", 
+    "title" : "Payouts", 
+    "navLink" : "/dashboard/Payouts", 
+    "icon" : "FaDeviantart", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60a802289d95754cd351a1c5"}, 
+    "pid" : "1618313518477", 
+    "id" : "1621623180722", 
+    "title" : "Middle Menu", 
+    "navLink" : "/cms/middlemenu", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602625789120" : true
+    }, 
+    "type" : "item", 
+    "order" : 22, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60af31c2ad399867280d860a"}, 
+    "pid" : "1612115487474", 
+    "id" : "1622094108041", 
+    "title" : "Andhar Bahar", 
+    "navLink" : "/GameProviders/gameprovider/andhar-bahar", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 8, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60af3713ad399867280d860c"}, 
+    "pid" : "1612115487474", 
+    "id" : "1622095469016", 
+    "title" : "Teenpatti", 
+    "navLink" : "/GameProviders/gameprovider/teenpattiprovider", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 9, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60af3739ad399867280d860d"}, 
+    "pid" : "1612115487474", 
+    "id" : "1622095507063", 
+    "title" : "Horse Race", 
+    "navLink" : "/GameProviders/gameprovider/horseraceprovider", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 10, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60af3b27ad399867280d860e"}, 
+    "pid" : "1618313518477", 
+    "id" : "1622096513381", 
+    "title" : "AndHar Bahar", 
+    "navLink" : "/cms/andharbahar", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 23, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60af3b5dad399867280d860f"}, 
+    "pid" : "1618313518477", 
+    "id" : "1622096566852", 
+    "title" : "Hourse Race ", 
+    "navLink" : "/cms/horserace", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 24, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60af3b7dad399867280d8610"}, 
+    "pid" : "1618313518477", 
+    "id" : "1622096598685", 
+    "title" : "Teen Patti", 
+    "navLink" : "/cms/teenpatti", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 25, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60af4cbcbb5ed8125275858c"}, 
+    "pid" : "1618313518477", 
+    "id" : "1622101014650", 
+    "title" : "Cricket", 
+    "navLink" : "/cms/criketgamelist", 
+    "icon" : "FaLayerGroup", 
+    "status" : true, 
+    "roles" : {
+        "1602594948413" : true, 
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 26, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60af4ce8bb5ed8125275858d"}, 
+    "pid" : "1612115487474", 
+    "id" : "1622101059169", 
+    "title" : "Cricket Provider", 
+    "navLink" : "/GameProviders/gameprovider/criketprovider", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 11, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b48e91a3e6541f0b573788"}, 
+    "pid" : "0", 
+    "id" : "1622445540571", 
+    "title" : "Feedback", 
+    "navLink" : "/feeback/sectionsmanager", 
+    "icon" : "FaFutbol", 
+    "status" : false, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 15, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b48eb8a3e6541f0b573789"}, 
+    "pid" : "1622445540571", 
+    "id" : "1622445580494", 
+    "title" : "SectionManager", 
+    "navLink" : "/feedback/sectionsmanager", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b4922da3e6541f0b57378b"}, 
+    "pid" : "1622445540571", 
+    "id" : "1622446464486", 
+    "title" : "feedbackhistory", 
+    "navLink" : "/feedback/feedbackhistory", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b9d8bd9eba872286c4d32f"}, 
+    "pid" : "1612121772958", 
+    "id" : "1622792202340", 
+    "title" : "Rush Payment", 
+    "navLink" : "/PaymentGateway/rushpayment", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602625789120" : true
+    }, 
+    "type" : "item", 
+    "order" : 9, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60becba8eab25f329483302c"}, 
+    "pid" : "1612121772958", 
+    "id" : "1623116709552", 
+    "title" : "Rush UPI", 
+    "navLink" : "/PaymentGateway/rushUPI", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602625789120" : true
+    }, 
+    "type" : "item", 
+    "order" : 10, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60bf106bd84dd36502e86024"}, 
+    "pid" : "1612124398292", 
+    "id" : "1623134130588", 
+    "title" : "Change Password", 
+    "navLink" : "/setting/changepasswordhis", 
+    "icon" : "FaRegSun", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 8, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60c003572b2260463102500c"}, 
+    "pid" : "1622445540571", 
+    "id" : "1623196318600", 
+    "title" : "FeedBackWidget Setting", 
+    "navLink" : "/feedback/widgetsetting", 
+    "icon" : "FaFutbol", 
+    "status" : false, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ca86369a19554512950936"}, 
+    "pid" : "0", 
+    "id" : "1623885167493", 
+    "title" : "BETEXCH", 
+    "navLink" : "BETEXCH", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 16, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ca86689a19554512950937"}, 
+    "pid" : "1623885167493", 
+    "id" : "1623885217789", 
+    "title" : "Dashboard", 
+    "navLink" : "/betexch/mymarkets", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ca86869a19554512950938"}, 
+    "pid" : "1623908851497", 
+    "id" : "1623885246589", 
+    "title" : "Events", 
+    "navLink" : "/betexch/sports", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60cae2bb2894da071d58702b"}, 
+    "pid" : "1623885167493", 
+    "id" : "1623908851497", 
+    "title" : "Sports", 
+    "navLink" : "/betexch/matches", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60cb9751de92c8208b8be09e"}, 
+    "pid" : "1623885167493", 
+    "id" : "1623955080747", 
+    "title" : "Results", 
+    "navLink" : "/betexch/result", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60cb9766de92c8208b8be09f"}, 
+    "pid" : "1623885167493", 
+    "id" : "1623955102099", 
+    "title" : "Settings", 
+    "navLink" : "/betexch/Settings", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60cb977ade92c8208b8be0a0"}, 
+    "pid" : "1623885167493", 
+    "id" : "1623955122563", 
+    "title" : "Reports", 
+    "navLink" : "/betexch/Reports", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "collapse", 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60cb9797de92c8208b8be0a1"}, 
+    "pid" : "1623885167493", 
+    "id" : "1623955151307", 
+    "title" : "Commision", 
+    "navLink" : "/betexch/Commision", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 7, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60cb9840de92c8208b8be0a2"}, 
+    "pid" : "1623908851497", 
+    "id" : "1623955320211", 
+    "title" : "Matches", 
+    "navLink" : "/betexch/matches", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ccdee937508374c33f5018"}, 
+    "pid" : "1623955102099", 
+    "id" : "1624038944408", 
+    "title" : "Set Min/Max Bet", 
+    "navLink" : "/betexch/setting/setmin-max", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ccdf1737508374c33f5019"}, 
+    "pid" : "1623955102099", 
+    "id" : "1624038989913", 
+    "title" : "Set Fancy Min/Max Bet", 
+    "navLink" : "/betexch/setting/setfancy", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60ccdf5d37508374c33f501a"}, 
+    "pid" : "1623955102099", 
+    "id" : "1624039059896", 
+    "title" : "Set BookMaker Min/Max Bet", 
+    "navLink" : "/betexch/setting/bookmakermin-max", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60db4285d7203d3a827ea8b2"}, 
+    "pid" : "1623955102099", 
+    "id" : "1624981927162", 
+    "title" : "BookMarker", 
+    "navLink" : "/betexch/setting/bookmarker", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60dbd19e77eff518ba362be5"}, 
+    "pid" : "1623885167493", 
+    "id" : "1625018563321", 
+    "title" : "My Markets", 
+    "navLink" : "/betexch/mymarkets", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 8, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60e7e675a0b6f84d9f26c708"}, 
+    "pid" : "1623955102099", 
+    "id" : "1625810315361", 
+    "title" : "Match Set min & max", 
+    "navLink" : "/betexch/setting/matchsetminmax", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60f572e1c85b533695603779"}, 
+    "pid" : "1612121772958", 
+    "id" : "1626698214434", 
+    "title" : "PaygeIn CardPayment", 
+    "navLink" : "/PaymentGateway/paygInCardpayment", 
+    "icon" : "FaMoneyCheckAlt", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true
+    }, 
+    "type" : "item", 
+    "order" : 11, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60f687b4dd3b1b77e5b8a740"}, 
+    "pid" : "1623955102099", 
+    "id" : "1626769079694", 
+    "title" : "Bet Accepting time", 
+    "navLink" : "/betexch/betacceptingtime", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true
+    }, 
+    "type" : "item", 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60fa4b096c08e1761cf432a4"}, 
+    "pid" : "1623955080747", 
+    "id" : "1627015988383", 
+    "title" : "Result Manage", 
+    "navLink" : "/betexchg/result/new", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true, 
+        "1626797997967" : true
+    }, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60fa4b326c08e1761cf432a5"}, 
+    "pid" : "1623955080747", 
+    "id" : "1627016029310", 
+    "title" : "Old Results", 
+    "navLink" : "/betexchg/result/old", 
+    "icon" : "FaFutbol", 
+    "status" : true, 
+    "roles" : {
+        "1619266700079" : true, 
+        "1602594948413" : true, 
+        "1626797997967" : true
+    }, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}

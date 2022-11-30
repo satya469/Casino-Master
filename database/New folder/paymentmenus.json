@@ -1,0 +1,526 @@
+{ 
+    "_id" : {"$oid":"5f664f4a30ff975b2707bff8"}, 
+    "name" : "Netbanking", 
+    "type" : "YaarPay", 
+    "paymentType" : "8036", 
+    "currency" : "₹", 
+    "info" : "How long will it take: Instant\nMinimum deposit: ₹1,000\nMaximum deposit: ₹500,000\n-------------------------------------------------------\n\nWe accept deposits directly from your Indian Bank Account. Simply enter your desired amount then click Continue.\n\nImportant Note: This method is only available during the following hours.\nFor deposit - 4:00 AM to 8:00 PM IST (Daily\nFor withdrawal - 8:00 AM to 4:30 PM IST (Monday to Friday only", 
+    "image" : "", 
+    "min" : 1000, 
+    "max" : 50000, 
+    "fee" : 6, 
+    "order" : 1, 
+    "depositBankCode" : [
+        {
+            "value" : "YP_AXIS", 
+            "label" : "Axis Bank"
+        }, 
+        {
+            "value" : "YP_KOTBK", 
+            "label" : "Kotak Mahindra Bank"
+        }, 
+        {
+            "value" : "YP_SBIN", 
+            "label" : "State Bank of India"
+        }, 
+        {
+            "value" : "YP_HDFC", 
+            "label" : "HDFC Bank"
+        }, 
+        {
+            "value" : "YP_ICICI", 
+            "label" : "ICICI Bank"
+        }
+    ], 
+    "status" : false, 
+    "createDate" : {"$date":"2020-09-19T18:34:50.664+0000"}, 
+    "__v" : 0, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit", 
+            "color" : "#0052CC", 
+            "isFixed" : true
+        }
+    ], 
+    "paymentconfigurationid" : {"$oid":"5f5a5cc435738d220f573270"}
+}
+{ 
+    "_id" : {"$oid":"5f664fa130ff975b2707bff9"}, 
+    "name" : "IMPS/UPI/QR", 
+    "type" : "YaarPay", 
+    "paymentType" : "8035", 
+    "currency" : "₹", 
+    "info" : "How long will it take: Instant\nMinimum deposit: ₹1,000\nMaximum deposit: ₹100,000\n--------------------------------------\n\nWe accept deposits directly from your Indian Bank Account. Simply enter your desired amount and choose your bank from the list, then click Continue.\n\nImportant Note: This method is available 24/7", 
+    "image" : "eeb155ff26725137587bd769ff8bb319.png", 
+    "min" : 1000, 
+    "max" : 500000, 
+    "fee" : 6, 
+    "order" : 0, 
+    "depositBankCode" : [
+        {
+            "value" : "YP_AXIS", 
+            "label" : "Axis Bank"
+        }, 
+        {
+            "value" : "YP_ICICI", 
+            "label" : "ICICI Bank"
+        }, 
+        {
+            "value" : "YP_INDNB", 
+            "label" : "Indian Bank"
+        }
+    ], 
+    "status" : false, 
+    "createDate" : {"$date":"2020-09-19T18:36:17.157+0000"}, 
+    "__v" : 0, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit", 
+            "color" : "#0052CC", 
+            "isFixed" : true
+        }
+    ], 
+    "paymentconfigurationid" : {"$oid":"5f5a5cc435738d220f573270"}
+}
+{ 
+    "_id" : {"$oid":"5f664ffb30ff975b2707bffa"}, 
+    "name" : "netcents", 
+    "type" : "netcents", 
+    "paymentType" : "bitcoin", 
+    "currency" : "$", 
+    "info" : "Bitcoin", 
+    "image" : "", 
+    "min" : 1, 
+    "max" : 1000, 
+    "fee" : 5, 
+    "order" : 3, 
+    "depositBankCode" : [
+
+    ], 
+    "status" : false, 
+    "createDate" : {"$date":"2020-09-19T18:37:47.946+0000"}, 
+    "__v" : 0, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit", 
+            "color" : "#0052CC", 
+            "isFixed" : true
+        }
+    ], 
+    "paymentconfigurationid" : {"$oid":"5f5b25376baa3174380037dc"}
+}
+{ 
+    "_id" : {"$oid":"5f66503030ff975b2707bffb"}, 
+    "name" : "Qpay", 
+    "type" : "Qpay", 
+    "paymentType" : "card", 
+    "currency" : "₹", 
+    "info" : "Card, Bank, UPI", 
+    "min" : 1, 
+    "max" : 10000, 
+    "fee" : 5, 
+    "order" : 2, 
+    "depositBankCode" : [
+
+    ], 
+    "status" : false, 
+    "createDate" : {"$date":"2020-09-19T18:38:40.695+0000"}, 
+    "__v" : 0, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit", 
+            "color" : "#0052CC", 
+            "isFixed" : true
+        }
+    ], 
+    "paymentconfigurationid" : {"$oid":"5f5a5d3835738d220f573272"}
+}
+{ 
+    "_id" : {"$oid":"5ff884449a092214343aa2e2"}, 
+    "name" : "Cash", 
+    "type" : "CASH", 
+    "paymentType" : "CASH", 
+    "currency" : "₹", 
+    "info" : "Cash Payout", 
+    "image" : "", 
+    "min" : 1000, 
+    "max" : 50000, 
+    "fee" : 0, 
+    "order" : 4, 
+    "depositBankCode" : [
+
+    ], 
+    "status" : true, 
+    "paymentMethodType" : [
+        {
+            "value" : "payout", 
+            "label" : "Payout"
+        }
+    ], 
+    "createDate" : {"$date":"2021-01-08T16:11:48.379+0000"}, 
+    "__v" : 0, 
+    "paymentconfigurationid" : {"$oid":"5ffc163716566893b7cd805f"}
+}
+{ 
+    "_id" : {"$oid":"5ffb0f9c04ecf73ffcc50e1e"}, 
+    "name" : "UPI / Net Banking", 
+    "type" : "Paygate10", 
+    "paymentType" : "netbanking", 
+    "currency" : "₹", 
+    "info" : "Good", 
+    "image" : "e70be3a77b751aff60237a790de0816e.png", 
+    "min" : 500, 
+    "max" : 50000, 
+    "fee" : 10, 
+    "order" : 5, 
+    "depositBankCode" : [
+
+    ], 
+    "status" : true, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit"
+        }
+    ], 
+    "createDate" : {"$date":"2021-01-10T14:30:52.654+0000"}, 
+    "__v" : 0, 
+    "paymentconfigurationid" : {"$oid":"5ffc163716566893b7cd804f"}
+}
+{ 
+    "_id" : {"$oid":"5ffc066af0753067bb8c7f5f"}, 
+    "name" : "Net Banking", 
+    "type" : "Paygate10", 
+    "paymentType" : "cod", 
+    "currency" : "₹", 
+    "info" : "cod", 
+    "image" : "", 
+    "min" : 500, 
+    "max" : 50000, 
+    "fee" : 10, 
+    "order" : 6, 
+    "depositBankCode" : [
+
+    ], 
+    "status" : false, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit"
+        }
+    ], 
+    "createDate" : {"$date":"2021-01-11T08:03:54.196+0000"}, 
+    "__v" : 0, 
+    "paymentconfigurationid" : {"$oid":"5ffc163716566893b7cd804f"}
+}
+{ 
+    "_id" : {"$oid":"605564f07e50bc3ebcf3b2ab"}, 
+    "name" : "Bank Transfer", 
+    "paymentType" : "Bank Transfer", 
+    "currency" : "₹", 
+    "info" : "Good\n", 
+    "image" : "", 
+    "min" : 500, 
+    "max" : 5000, 
+    "fee" : 0, 
+    "order" : 7, 
+    "depositBankCode" : [
+
+    ], 
+    "status" : false, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit"
+        }
+    ], 
+    "paymentconfigurationid" : {"$oid":"605560fb43770bfd4c901729"}, 
+    "createDate" : {"$date":"2021-03-20T02:58:56.258+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60558bf20b7af51bacd2ba8c"}, 
+    "name" : "Net Banking", 
+    "paymentType" : "PMNetBanking", 
+    "currency" : "₹", 
+    "info" : "Good", 
+    "image" : "04896f327373472960583da84a0367c4.png", 
+    "min" : 300, 
+    "max" : 1000000, 
+    "fee" : 0, 
+    "order" : 8, 
+    "depositBankCode" : [
+        {
+            "value" : "1091", 
+            "label" : "Andhra Bank"
+        }, 
+        {
+            "value" : "1005", 
+            "label" : "Axis Bank"
+        }, 
+        {
+            "value" : "1043", 
+            "label" : "Bank of Bahrain And Kuwait"
+        }, 
+        {
+            "value" : "1092", 
+            "label" : "Bank of Baroda Corporate"
+        }, 
+        {
+            "value" : "1093", 
+            "label" : "Bank of Baroda Retail Accounts"
+        }, 
+        {
+            "value" : "1009", 
+            "label" : "Bank of India"
+        }, 
+        {
+            "value" : "1064", 
+            "label" : "Bank of Maharashtra"
+        }, 
+        {
+            "value" : "1055", 
+            "label" : "Canara Bank"
+        }, 
+        {
+            "value" : "1094", 
+            "label" : "Catholic Syrian Bank"
+        }, 
+        {
+            "value" : "1063", 
+            "label" : "Central Bank of India"
+        }, 
+        {
+            "value" : "1060", 
+            "label" : "City Union Bank"
+        }, 
+        {
+            "value" : "1034", 
+            "label" : "Corporation Bank"
+        }, 
+        {
+            "value" : "1040", 
+            "label" : "DCB Bank"
+        }, 
+        {
+            "value" : "1026", 
+            "label" : "Deutsche Bank"
+        }, 
+        {
+            "value" : "1070", 
+            "label" : "Dhanlaxmi Bank"
+        }, 
+        {
+            "value" : "1106", 
+            "label" : "Equitas Bank"
+        }, 
+        {
+            "value" : "1027", 
+            "label" : "Federal Bank"
+        }, 
+        {
+            "value" : "1004", 
+            "label" : "HDFC Bank"
+        }, 
+        {
+            "value" : "1013", 
+            "label" : "ICICI Bank"
+        }, 
+        {
+            "value" : "1107", 
+            "label" : "IDFC FIRST Bank Limited"
+        }, 
+        {
+            "value" : "1069", 
+            "label" : "Indian Bank"
+        }, 
+        {
+            "value" : "491", 
+            "label" : "Indian Overseas Bank"
+        }, 
+        {
+            "value" : "1054", 
+            "label" : "Indusind Bank"
+        }, 
+        {
+            "value" : "1003", 
+            "label" : "Industrial Development Bank of India"
+        }, 
+        {
+            "value" : "1041", 
+            "label" : "Jammu And Kashmir Bank"
+        }, 
+        {
+            "value" : "1032", 
+            "label" : "Karnatka Bank Ltd"
+        }, 
+        {
+            "value" : "1048", 
+            "label" : "KarurVysya Bank"
+        }, 
+        {
+            "value" : "1012", 
+            "label" : "Kotak Bank"
+        }, 
+        {
+            "value" : "1042", 
+            "label" : "Oriental Bank of Commerce"
+        }, 
+        {
+            "value" : "1296", 
+            "label" : "Punjab and Sindh Bank"
+        }, 
+        {
+            "value" : "1002", 
+            "label" : "Punjab National Bank"
+        }, 
+        {
+            "value" : "1053", 
+            "label" : "Ratnakar Bank (RBL Bank"
+        }, 
+        {
+            "value" : "1045", 
+            "label" : "South Indian Bank"
+        }, 
+        {
+            "value" : "1030", 
+            "label" : "State Bank of India"
+        }, 
+        {
+            "value" : "1065", 
+            "label" : "Tamilnad Mercantile Bank"
+        }, 
+        {
+            "value" : "1103", 
+            "label" : "UCO Bank"
+        }, 
+        {
+            "value" : "1038", 
+            "label" : "Union Bank of India"
+        }, 
+        {
+            "value" : "1046", 
+            "label" : "United Bank of India"
+        }, 
+        {
+            "value" : "1044", 
+            "label" : "Vijay Bank"
+        }, 
+        {
+            "value" : "1001", 
+            "label" : "Yes Bank"
+        }
+    ], 
+    "status" : true, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit"
+        }
+    ], 
+    "paymentconfigurationid" : {"$oid":"605560fb43770bfd4c901729"}, 
+    "createDate" : {"$date":"2021-03-20T05:45:22.648+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60558c770b7af51bacd2ba8d"}, 
+    "name" : "Wallet", 
+    "paymentType" : "Wallet", 
+    "currency" : "₹", 
+    "info" : "good", 
+    "image" : "b7a7573f3a8f5ea3770a03470649a85e.png", 
+    "min" : 300, 
+    "max" : 1000000, 
+    "fee" : 0, 
+    "order" : 9, 
+    "depositBankCode" : [
+        {
+            "value" : "JMWL", 
+            "label" : "Jio Money"
+        }, 
+        {
+            "value" : "FCWL", 
+            "label" : "Freecharge"
+        }, 
+        {
+            "value" : "AWL", 
+            "label" : "Airtel Wallet"
+        }, 
+        {
+            "value" : "PPWL", 
+            "label" : "PhonePe"
+        }, 
+        {
+            "value" : "PPL", 
+            "label" : "PayTm"
+        }, 
+        {
+            "value" : "MWL", 
+            "label" : "Mobikwik"
+        }
+    ], 
+    "status" : true, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit"
+        }
+    ], 
+    "paymentconfigurationid" : {"$oid":"605560fb43770bfd4c901729"}, 
+    "createDate" : {"$date":"2021-03-20T05:47:35.283+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6056ea19d049b319fc0de468"}, 
+    "name" : "UPI", 
+    "paymentType" : "UPI", 
+    "currency" : "₹", 
+    "info" : "Good", 
+    "image" : "26c928634b1387594332d5f98d40d35f.png", 
+    "min" : 50, 
+    "max" : 1000000, 
+    "fee" : 0, 
+    "order" : 10, 
+    "depositBankCode" : [
+
+    ], 
+    "status" : true, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit"
+        }
+    ], 
+    "paymentconfigurationid" : {"$oid":"605560fb43770bfd4c901729"}, 
+    "createDate" : {"$date":"2021-03-21T06:39:21.835+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60b9dfac8124817c58fe6ec7"}, 
+    "name" : "UPI / Netbanking / Scan To Pay ", 
+    "paymentType" : "rushpayment", 
+    "currency" : "INR", 
+    "info" : "UPI / Netbanking / Scan To Pay ", 
+    "image" : "e1cb593ecb8a2583e1da349d26c25023.png", 
+    "min" : 300, 
+    "max" : 50000, 
+    "fee" : 0, 
+    "order" : 0, 
+    "depositBankCode" : [
+
+    ], 
+    "status" : true, 
+    "paymentMethodType" : [
+        {
+            "value" : "deposit", 
+            "label" : "Deposit"
+        }
+    ], 
+    "paymentconfigurationid" : {"$oid":"60b9db75608203969496d1e8"}, 
+    "createDate" : {"$date":"2021-06-04T13:39:16.968+0000"}, 
+    "__v" : 0
+}

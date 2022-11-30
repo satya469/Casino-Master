@@ -1,0 +1,586 @@
+{ 
+    "_id" : {"$oid":"5f9063e20a4c6f4a1d7bae12"}, 
+    "icon" : "instagram", 
+    "title" : "instagram", 
+    "navLink" : "https://www.instagram.com/fairbets2/", 
+    "order" : 0, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "3", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f9080860a4c6f4a1d7bae14"}, 
+    "icon" : "", 
+    "title" : "Can we have multiple accounts?", 
+    "navLink" : "Every player must have a single account. If a player is found using more than one account. The account will be suspended immediately.\n", 
+    "order" : 1, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "6", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f9080fe0a4c6f4a1d7bae15"}, 
+    "icon" : "", 
+    "title" : "What is the legal age to play at fair bets?", 
+    "navLink" : "Any individual who is either 18 or 18+ years of age can play at this platform.\n", 
+    "order" : 0, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "6", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f908f740a4c6f4a1d7bae17"}, 
+    "icon" : "", 
+    "title" : "Referral Bonus:", 
+    "navLink" : "Referral Bonus:Great satisfaction comes from sharing with others. Invite your friends and families from your referral code and get rewarded ₹300 each.", 
+    "order" : 0, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "4", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c5c90a4c6f4a1d7bae29"}, 
+    "icon" : "faFutbol", 
+    "title" : "Sports", 
+    "navLink" : "/sports", 
+    "order" : 1, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "ba9147cbd8a28a13c45a8b5a9a121de6.png", 
+    "mobiletitle" : "Sports"
+}
+{ 
+    "_id" : {"$oid":"5f90c5ea0a4c6f4a1d7bae2a"}, 
+    "icon" : "faLifeRing", 
+    "title" : "Live casino", 
+    "navLink" : "/live-casino", 
+    "order" : 7, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "c0ee95bd4bbd77ff85907af5e6b7abbf.png", 
+    "mobiletitle" : "Live "
+}
+{ 
+    "_id" : {"$oid":"5f90c6130a4c6f4a1d7bae2b"}, 
+    "icon" : "faDiceD20", 
+    "title" : "Casino", 
+    "navLink" : "/casino", 
+    "order" : 6, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome5$dice-d20", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "8503ceb5121c3984d4dcd31079287e68.png", 
+    "mobiletitle" : "Casino"
+}
+{ 
+    "_id" : {"$oid":"5f90c62f0a4c6f4a1d7bae2c"}, 
+    "icon" : "faTrophy", 
+    "title" : "BETEXCH", 
+    "navLink" : "/betexchmain?eventname=Inplay", 
+    "order" : 0, 
+    "status" : true, 
+    "mobileicon" : "MaterialCommunityIcons$trophy-award", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "mobiletitle" : "BETEX", 
+    "image" : "9097d00e07d826c46eb0b042c18d69ec.png"
+}
+{ 
+    "_id" : {"$oid":"5f90c64c0a4c6f4a1d7bae2d"}, 
+    "icon" : "faFan", 
+    "title" : "FANTASY", 
+    "navLink" : "/fantasy", 
+    "order" : 8, 
+    "status" : false, 
+    "mobileicon" : "MaterialCommunityIcons$fan", 
+    "bool" : "1", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c66c0a4c6f4a1d7bae2e"}, 
+    "icon" : "faGift", 
+    "title" : "PROMO", 
+    "navLink" : "/promo", 
+    "order" : 9, 
+    "status" : false, 
+    "mobileicon" : "Feather$gift", 
+    "bool" : "1", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c6bc0a4c6f4a1d7bae2f"}, 
+    "icon" : "faGem", 
+    "title" : "vip", 
+    "navLink" : "/vip", 
+    "order" : 10, 
+    "status" : false, 
+    "mobileicon" : "FontAwesome5$gem", 
+    "bool" : "1", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c6e60a4c6f4a1d7bae30"}, 
+    "icon" : "faPassport", 
+    "title" : "Virtual sports", 
+    "navLink" : "/virtual-sports", 
+    "order" : 11, 
+    "status" : true, 
+    "mobileicon" : "Entypo$game-controller", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "e044fc83770e1ad4087b5eada693d025.png", 
+    "mobiletitle" : "Virtuals"
+}
+{ 
+    "_id" : {"$oid":"5f90c71e0a4c6f4a1d7bae31"}, 
+    "icon" : "faDiceFive", 
+    "title" : "Poker", 
+    "navLink" : "/poker", 
+    "order" : 12, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome5$dice-five", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "39a8c2b850702be78c24a0d294cad59f.png", 
+    "mobiletitle" : "Poker"
+}
+{ 
+    "_id" : {"$oid":"5f90c7900a4c6f4a1d7bae32"}, 
+    "icon" : "", 
+    "title" : "FAQ", 
+    "navLink" : "/FAQ", 
+    "order" : 0, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "2", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c79d0a4c6f4a1d7bae33"}, 
+    "icon" : "", 
+    "title" : "Contact Us", 
+    "navLink" : "/contact", 
+    "order" : 1, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "2", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c7aa0a4c6f4a1d7bae34"}, 
+    "icon" : "", 
+    "title" : "About US", 
+    "navLink" : "/about", 
+    "order" : 2, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "2", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c7b50a4c6f4a1d7bae35"}, 
+    "icon" : "", 
+    "title" : "PrivacyPolicy", 
+    "navLink" : "/PrivacyPolicy", 
+    "order" : 3, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "2", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c7f20a4c6f4a1d7bae36"}, 
+    "icon" : "facebook", 
+    "title" : "Facebook", 
+    "navLink" : "https://www.google.com/url?q=https://www.facebook.com/Fairbets-102970395314534&sa=D&source=hangouts&ust=1622699404750000&usg=AFQjCNEHdmoibpZLmK8m0dRduU-fPwe7zA", 
+    "order" : 1, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "3", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c8080a4c6f4a1d7bae37"}, 
+    "icon" : "twitter", 
+    "title" : "twitter", 
+    "navLink" : "https://twitter.com/Fairbets2", 
+    "order" : 2, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "3", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c8390a4c6f4a1d7bae38"}, 
+    "icon" : "", 
+    "title" : "New Sign Up", 
+    "navLink" : "Let us take you for a spin with the best casino bonus in India. Sign up now and get ₹1,000 free spins!Slots:Slots players will now enjoy 1.2% daily rebates. Deposit and try your luck now. Are you ready to hit the jackpot? 🎰", 
+    "order" : 1, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "4", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c84c0a4c6f4a1d7bae39"}, 
+    "icon" : "", 
+    "title" : "COVID-19", 
+    "navLink" : ":Let's stay strong and fight the #COVID19 outbreak by taking all precautionary measures. Stay safe and please take care. 🙏🙏", 
+    "order" : 2, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "4", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c9540a4c6f4a1d7bae3a"}, 
+    "icon" : "", 
+    "title" : "How can I open my account?", 
+    "navLink" : "Registering and making an account is pretty much as simple as anyone might think possible. Essentially visit our website, take your pick, and snap the 'Join Us' button. \n\nWhenever you've filled in your fundamental subtleties, you'll need to add your charge card or outsider financial subtleties before having the option to put aside an installment. Then, get a welcome reward that suits your necessities and begin playing! Continuously make certain to peruse the terms and conditions before playing to protect yourself.\n", 
+    "order" : 2, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "6", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c9670a4c6f4a1d7bae3b"}, 
+    "icon" : "", 
+    "title" : "Is online gambling legal in my country?", 
+    "navLink" : "Internet betting and lawful issues are interesting circumstance. Every country and region has its arrangement of rules and guidelines. Contingent upon the country you live in, you may have full admittance to the online club, limited admittance with almost no help, or betting might be illicit completely. \n", 
+    "order" : 3, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "6", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c97a0a4c6f4a1d7bae3c"}, 
+    "icon" : "", 
+    "title" : "I need to change my account details. Please help!", 
+    "navLink" : "Changing your record subtleties is a breeze at Fairbets. You should visit your record settings and roll out the improvements you need. \n\nIf you’re specific record doesn't give you that choice, contact customer support or client care and solicitation to roll out the improvements physically.\n", 
+    "order" : 4, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "6", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c9940a4c6f4a1d7bae3d"}, 
+    "icon" : "", 
+    "title" : "How can I withdraw my funds?", 
+    "navLink" : "In order to withdraw your funds, open the “Withdrawals” tab. Choose your preferred payment system, specify the withdrawal amount in the first field, fill out the second field with the payment details (card number/ e-wallet number etc. of the payment system you used, and click “Withdraw”.\n", 
+    "order" : 5, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "6", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c9a50a4c6f4a1d7bae3e"}, 
+    "icon" : "", 
+    "title" : "Why should I play at Fairbets?", 
+    "navLink" : "We've all known about there is a good chance that you will receive more bonuses when playing online than you ever will at physical casino venues pursuing a major win and the potential extraordinary amounts of cash that can be win while getting a charge out of games like sports betting, casino, worli matka and more.\n\nPlaying at Fairbets is loads of fun, particularly if you appreciate openings, sports or table games. But, regardless of anything else, playing at fairbets ought to be engaging!\n", 
+    "order" : 6, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "6", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c9bc0a4c6f4a1d7bae3f"}, 
+    "icon" : "", 
+    "title" : "Is it safe to play real money games at Fairbets?", 
+    "navLink" : "Have you joined a first-class online gambling club with a record of positive audits? If indeed, your cash ought to be protected. It's Fairbet's responsibility to deal with the stores and withdrawals occurring in your record. \n\nAs long your association is secure and you've done your exploration, you ought to have the option to play, win, and pull out with genuine feelings of serenity. In case you don't know where to begin, investigate our rundown of Fairbet.\n", 
+    "order" : 7, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "6", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c9cf0a4c6f4a1d7bae40"}, 
+    "icon" : "", 
+    "title" : "The games are not loading. What should I do?", 
+    "navLink" : "If you are having problems loading a game, we recommend that you refresh the page and attempt to reload the game. If this action does not solve your problem, please try the following: Try loading the game using a different browser (Google Chrome, Opera, Mozilla Firefox, and Safari. Clear your browser cache and cookies, deactivate your antivirus, disable all VPNs. Disable all ad-blocking programs for your browser. If the problem persists, please contact our support service.\n", 
+    "order" : 8, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "6", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90c9e70a4c6f4a1d7bae41"}, 
+    "icon" : "", 
+    "title" : "How do I deposit in my account?", 
+    "navLink" : "To deposit at Fairbets, you need first to make sure that you have an account. After that, you need to select a payment method to deposit. Remember, the deposit amount should be the minimum amount mentioned, 300 or more than that. A deposit below the minimum amount is not accepted. \n", 
+    "order" : 9, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "6", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90cf550a4c6f4a1d7bae46"}, 
+    "icon" : "", 
+    "title" : "Product offering: Betting & Live Betting", 
+    "navLink" : "We pride ourselves on being a fun and friendly company who do what’s best for our customers.Using advance gaming software and single wallet technology, we are able to bring you pure entertainment and the best gaming experience available online!", 
+    "order" : 0, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "8", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90cf740a4c6f4a1d7bae47"}, 
+    "icon" : "", 
+    "title" : "Casino, and Games", 
+    "navLink" : "We feature games from many popular providers such as:WAC, VIVO, Evolution.., With that in mind, we hope you enjoy Fairbets, and whatever you like to play, be it casino or sports betting, we hope you enjoy your visit. If you have other query, please contact our support via email - support@fairbets.co. Your email will be answered within a maximum of one business day. You can as well contact us directly via Chat from 12am to 10pm every day of the week (chat window available in the lower corners of our homepage.", 
+    "order" : 1, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "8", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90cf810a4c6f4a1d7bae48"}, 
+    "icon" : "", 
+    "title" : "Licensing and Security", 
+    "navLink" : "We realise that the security is a very important issue of our customers and therefore we are using secure 2048 bits SSL certificate to guarantee that all your details are protected to the highest level possible.Fairbets is a Abudantia brand and is licensed for casino games and betting given by Antillephone N.V.", 
+    "order" : 2, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "8", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90d2e90a4c6f4a1d7bae4a"}, 
+    "icon" : "FaRocketchat", 
+    "title" : "LIVE SUPPORT", 
+    "navLink" : "The Live Support team will help you with any questions and will provide proper assistance 24/7.", 
+    "order" : 0, 
+    "status" : true, 
+    "mobileicon" : "FaTelegramPlane", 
+    "bool" : "7", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90d3360a4c6f4a1d7bae4b"}, 
+    "icon" : "FaMailBulk", 
+    "title" : "E-MAIL", 
+    "navLink" : " For customer inquiries, please contact support@fairbets.co . When contacting, you must indicate your name and account number.\n", 
+    "order" : 1, 
+    "status" : true, 
+    "mobileicon" : "FaMailBulk", 
+    "bool" : "7", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90d3470a4c6f4a1d7bae4c"}, 
+    "icon" : "FaTelegramPlane", 
+    "title" : "PHONE", 
+    "navLink" : "0008009191084", 
+    "order" : 2, 
+    "status" : true, 
+    "mobileicon" : "FaTelegramPlane", 
+    "bool" : "7", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f90d3820a4c6f4a1d7bae4d"}, 
+    "icon" : "", 
+    "title" : "Providing our products and services", 
+    "navLink" : "We use your personal information to enable you to use our websites, to set up your account, participate in the online casino and to provide you with customer service assistance.\n\nTo provide our products and services, we share your information with external organisations working on our behalf. Further information can be found in the Sharing Information section.\n\n \n\nThis category covers the essential activities required in order for us to provide you with the services you use or have signed up for. If you don’t want your information used in this way, your option is to not use our services and close your account", 
+    "order" : 0, 
+    "status" : true, 
+    "mobileicon" : "", 
+    "bool" : "5", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5fad8dfd303451074d216e86"}, 
+    "icon" : "faFutbol", 
+    "title" : "EXCHG", 
+    "navLink" : "/exchg", 
+    "order" : 4, 
+    "status" : false, 
+    "mobileicon" : "faFutbol", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "5c841c4cf07459e9f84526fb4fe76587.png", 
+    "mobiletitle" : ""
+}
+{ 
+    "_id" : {"$oid":"5fc7249f9fde0906a8ceff51"}, 
+    "icon" : "faMoneyBill", 
+    "title" : "Satta", 
+    "navLink" : "/Satta/pages", 
+    "order" : 5, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome5$dice-five", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "6c7c57235bc3eb59dbb43b4e10834b39.png", 
+    "mobiletitle" : "Satta"
+}
+{ 
+    "_id" : {"$oid":"5fd2053dd2379e26598e9c5b"}, 
+    "icon" : "cockIcon", 
+    "title" : "Cock fight", 
+    "navLink" : "/cock-fight", 
+    "order" : 13, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome5$dice-five", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "435272f5bb6580e2145d924a96d3cebb.png", 
+    "mobiletitle" : "Cock"
+}
+{ 
+    "_id" : {"$oid":"5fd25cd30d7d19135d509e3c"}, 
+    "icon" : "faHourglass", 
+    "title" : "Animal races", 
+    "navLink" : "/animal", 
+    "order" : 14, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome5$dice-five", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "7af230e43fc76c94dce06325c6e9d2f7.png", 
+    "mobiletitle" : "Animal"
+}
+{ 
+    "_id" : {"$oid":"606af78233452428f833300b"}, 
+    "icon" : "faMoneyBill", 
+    "title" : "Satta", 
+    "navLink" : "/Satta/pages", 
+    "order" : 1, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "bool" : "9", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606af7b033452428f833300c"}, 
+    "icon" : "faFutbol", 
+    "title" : "SPORTS", 
+    "navLink" : "/sports", 
+    "order" : 0, 
+    "status" : true, 
+    "mobileicon" : "MaterialCommunityIcons$soccer", 
+    "bool" : "9", 
+    "__v" : 0, 
+    "image" : "4967df036a73f30d06e889042104b0d9.png"
+}
+{ 
+    "_id" : {"$oid":"606afa667972ba08b709ee77"}, 
+    "icon" : "faPassport", 
+    "title" : "Virtual Sports", 
+    "navLink" : "/virtual-sports", 
+    "order" : 4, 
+    "status" : true, 
+    "mobileicon" : "Entypo$game-controller", 
+    "bool" : "9", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606afa867972ba08b709ee78"}, 
+    "icon" : "faLifeRing", 
+    "title" : "LIVE CASINO", 
+    "navLink" : "/live-casino", 
+    "order" : 5, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "bool" : "9", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606afaa57972ba08b709ee79"}, 
+    "icon" : "faDiceD20", 
+    "title" : "CASINO", 
+    "navLink" : "/casino", 
+    "order" : 3, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome5$dice-d20", 
+    "bool" : "9", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606afb087972ba08b709ee7a"}, 
+    "icon" : "faDiceFive", 
+    "title" : "Poker", 
+    "navLink" : "/poker", 
+    "order" : 6, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome5$dice-five", 
+    "bool" : "9", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606afb5f7972ba08b709ee7b"}, 
+    "icon" : "cockIcon", 
+    "title" : "Cock Fight", 
+    "navLink" : "/cock-fight", 
+    "order" : 7, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome5$dice-five", 
+    "bool" : "9", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606afb847972ba08b709ee7c"}, 
+    "icon" : "faHourglass", 
+    "title" : "Animal Races", 
+    "navLink" : "/animal", 
+    "order" : 8, 
+    "status" : true, 
+    "mobileicon" : "FontAwesome5$dice-five", 
+    "bool" : "9", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606f9df14106da0e821baf26"}, 
+    "icon" : "MaterialCommunityIcons$soccer", 
+    "title" : "Exchange", 
+    "navLink" : "/exchg", 
+    "order" : 2, 
+    "status" : true, 
+    "mobileicon" : "MaterialCommunityIcons$soccer", 
+    "bool" : "9", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"608065b07e94c734715509f1"}, 
+    "icon" : "faFutbol", 
+    "title" : "Inplay", 
+    "navLink" : "/Inplay", 
+    "order" : 2, 
+    "status" : true, 
+    "mobileicon" : "faFutbol", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "009c2f9ec408f7963997065b6ffc4d96.png", 
+    "mobiletitle" : "Inplay"
+}
+{ 
+    "_id" : {"$oid":"6080660a7e94c734715509f8"}, 
+    "icon" : "faFutbol", 
+    "title" : "Upcoming", 
+    "navLink" : "/Upcoming", 
+    "order" : 3, 
+    "status" : true, 
+    "mobileicon" : "faFutbol", 
+    "bool" : "1", 
+    "__v" : 0, 
+    "image" : "a77a709abbdd5afc617f254ceba1f221.png", 
+    "mobiletitle" : "Upcoming"
+}

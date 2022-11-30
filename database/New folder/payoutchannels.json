@@ -1,0 +1,53 @@
+
+{ 
+    "_id" : {"$oid":"604ccd8ce7c4aa281cefffc2"}, 
+    "status" : false, 
+    "accountName" : "YaarPay", 
+    "createAt" : {"$date":"2021-03-13T14:34:52.133+0000"}, 
+    "__v" : 0, 
+    "paymentconfigurationid" : {"$oid":"5f5a5cc435738d220f573270"}, 
+    "bank" : "YP_ICICI"
+}
+{ 
+    "_id" : {"$oid":"604cd847f60f4f2fa00d45d0"}, 
+    "status" : false, 
+    "accountName" : "Cash", 
+    "createAt" : {"$date":"2021-03-13T15:20:39.264+0000"}, 
+    "__v" : 0, 
+    "paymentconfigurationid" : {"$oid":"5ffc163716566893b7cd805f"}
+}
+{ 
+    "_id" : {"$oid":"604cde84c3d48d103cbee449"}, 
+    "status" : false, 
+    "accountName" : "Paygate10", 
+    "createAt" : {"$date":"2021-03-13T15:47:16.209+0000"}, 
+    "__v" : 0, 
+    "paymentconfigurationid" : {"$oid":"5ffc163716566893b7cd804f"}
+}
+{ 
+    "_id" : {"$oid":"6059dbb4585fd44768830e62"}, 
+    "status" : false, 
+    "accountName" : "Paymoro", 
+    "paymentconfigurationid" : {"$oid":"605560fb43770bfd4c901729"}, 
+    "createAt" : {"$date":"2021-03-23T12:14:44.099+0000"}, 
+    "__v" : 0, 
+    "bank" : "1"
+}
+{ 
+    "_id" : {"$oid":"60bdd084725f5471e729d698"}, 
+    "status" : false, 
+    "bank" : "", 
+    "accountName" : "Rush Payment", 
+    "paymentconfigurationid" : {"$oid":"60b9db75608203969496d1e8"}, 
+    "createAt" : {"$date":"2021-06-07T13:23:40.041+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60becd1beab25f329483302d"}, 
+    "status" : false, 
+    "bank" : "", 
+    "accountName" : "RushPay UPI", 
+    "paymentconfigurationid" : {"$oid":"60becd78608203969408f1b8"}, 
+    "createAt" : {"$date":"2021-06-08T07:21:23.886+0000"}, 
+    "__v" : 0
+}

@@ -1,0 +1,60 @@
+{ 
+    "_id" : {"$oid":"5f71975ea969613747652300"}, 
+    "email" : "burkodegor@gmail.com", 
+    "type" : "YaarPay-8035", 
+    "paymentData" : {
+        "first_name" : "burko", 
+        "last_name" : "degor", 
+        "email" : "burkodegor@gmail.com", 
+        "amount" : 1000, 
+        "type" : "YaarPay", 
+        "currency" : "₹", 
+        "ifscCode" : "e", 
+        "accountName" : "weqe", 
+        "accountNo" : "e", 
+        "payoutBankCode" : "YP_SBIN", 
+        "bankType" : "8035"
+    }, 
+    "createDate" : {"$date":"2020-09-28T07:57:18.363+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f8090a8183e447015202444"}, 
+    "email" : "happy123@gmail.com", 
+    "type" : "YaarPay-8036", 
+    "paymentData" : {
+        "first_name" : "happy", 
+        "last_name" : "happy", 
+        "email" : "happy123@gmail.com", 
+        "amount" : "1233", 
+        "type" : "YaarPay", 
+        "bankType" : "8036", 
+        "payoutBankCode" : "YP_AXIS", 
+        "currency" : "₹", 
+        "ifscCode" : "33333", 
+        "accountName" : "123", 
+        "accountNo" : "3333"
+    }, 
+    "createDate" : {"$date":"2020-10-09T16:32:40.455+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f95e0ce4fb25305a7b0667c"}, 
+    "email" : "ayushjswl3@gmail.com", 
+    "type" : "YaarPay-8035", 
+    "paymentData" : {
+        "first_name" : "Ayush", 
+        "last_name" : "Jaiswal", 
+        "email" : "ayushjswl3@gmail.com", 
+        "amount" : 1000, 
+        "type" : "YaarPay", 
+        "currency" : "₹", 
+        "ifscCode" : "ICIC0002723", 
+        "accountName" : "Ayush jaiswal", 
+        "accountNo" : "272301511569", 
+        "payoutBankCode" : "YP_ICICI", 
+        "bankType" : "8035"
+    }, 
+    "createDate" : {"$date":"2020-10-25T20:32:14.574+0000"}, 
+    "__v" : 0
+}

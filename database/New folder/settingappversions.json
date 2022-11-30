@@ -1,0 +1,8 @@
+
+
+{ 
+    "_id" : {"$oid":"604a56968b0abe166805b7f5"}, 
+    "targetversion" : "1", 
+    "apkurl" : "https://cms.fairbets.co/apps/fairbets_v1.apk", 
+    "__v" : 0
+}

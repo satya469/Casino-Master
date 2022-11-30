@@ -1,0 +1,147 @@
+{ 
+    "_id" : {"$oid":"607fe37d15b9fb449b129e2b"}, 
+    "order" : 1, 
+    "bool" : "6", 
+    "image" : "0cb316c8617d3277e471f0ce089794a2.jpeg", 
+    "__v" : 0, 
+    "data" : {
+        "text1" : "", 
+        "text2" : "", 
+        "text3" : "", 
+        "link" : "", 
+        "status" : false
+    }, 
+    "gameid" : {"$oid":"5fabe807dc5ae3392e52ae1f"}
+}
+{ 
+    "_id" : {"$oid":"607fe4b115b9fb449b129e2f"}, 
+    "order" : 1, 
+    "bool" : "8", 
+    "image" : "129a008dbc5e44da409a8076c82089ee.jpeg", 
+    "__v" : 0, 
+    "data" : {
+        "text1" : "", 
+        "text2" : "", 
+        "text3" : "", 
+        "link" : "", 
+        "status" : false
+    }, 
+    "gameid" : {"$oid":"5faea6409c83fa2b5ba786e7"}
+}
+{ 
+    "_id" : {"$oid":"607fe4bd15b9fb449b129e30"}, 
+    "order" : 1, 
+    "bool" : "9", 
+    "image" : "2413ef29ad21add88c4c93e73c44d042.jpeg", 
+    "__v" : 0, 
+    "data" : {
+        "text1" : "", 
+        "text2" : "", 
+        "text3" : "", 
+        "link" : "", 
+        "status" : false
+    }, 
+    "gameid" : {"$oid":"603a110b0ec7da0cecf047b7"}
+}
+{ 
+    "_id" : {"$oid":"607fe4da15b9fb449b129e31"}, 
+    "order" : 1, 
+    "bool" : "4", 
+    "image" : "b265ffc51531f42e5cc3ddc8834323a5.jpeg", 
+    "__v" : 0, 
+    "data" : {
+        "text1" : "", 
+        "text2" : "", 
+        "text3" : "", 
+        "link" : "", 
+        "status" : false
+    }, 
+    "gameid" : {"$oid":"5fabe807dc5ae3392e52ae1f"}
+}
+{ 
+    "_id" : {"$oid":"607fe4eb15b9fb449b129e32"}, 
+    "order" : 1, 
+    "bool" : "1", 
+    "image" : "de945ca5f0dffbde303dd653d45fba1e.jpeg", 
+    "__v" : 0, 
+    "data" : {
+        "text1" : "", 
+        "text2" : "", 
+        "text3" : "", 
+        "link" : "", 
+        "status" : false
+    }, 
+    "gameid" : {"$oid":"5f4349af01ce6c47d0a2f001"}
+}
+{ 
+    "_id" : {"$oid":"607fe55d15b9fb449b129e36"}, 
+    "order" : 1, 
+    "bool" : "7", 
+    "image" : "c1f9dd75117a1182cf71d4184bb92339.jpeg", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60812d737e94c73471550a2e"}, 
+    "order" : 1, 
+    "bool" : "2", 
+    "image" : "53c9b7710c8ee1b408ed33762d40f4f3.png", 
+    "__v" : 0, 
+    "data" : {
+        "text1" : "", 
+        "text2" : "", 
+        "text3" : "", 
+        "link" : "", 
+        "status" : false
+    }, 
+    "gameid" : {"$oid":"5f81dff564fe8c3930d36e56"}
+}
+{ 
+    "_id" : {"$oid":"60812f867e94c73471550a31"}, 
+    "order" : 1, 
+    "bool" : "3", 
+    "image" : "7591fb3434889b9f3e996d93a46f1af7.png", 
+    "__v" : 0, 
+    "data" : {
+        "text1" : "", 
+        "text2" : "", 
+        "text3" : "", 
+        "link" : "", 
+        "status" : false
+    }, 
+    "gameid" : {"$oid":"5f4349b201ce6c47d0a2f291"}
+}
+{ 
+    "_id" : {"$oid":"60b71e18d8252612d1281a74"}, 
+    "order" : 1, 
+    "bool" : "5", 
+    "image" : "51bb742ce884126438a0dbadeed95640.jpeg", 
+    "__v" : 0, 
+    "data" : {
+        "text1" : "", 
+        "text2" : "", 
+        "text3" : "", 
+        "link" : "/sports", 
+        "status" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"60b71e23d8252612d1281a75"}, 
+    "order" : 2, 
+    "bool" : "5", 
+    "image" : "de207a27f161a315d3a6c0c96262dec9.jpeg", 
+    "__v" : 0, 
+    "data" : {
+        "text1" : "", 
+        "text2" : "", 
+        "text3" : "", 
+        "link" : "/sports", 
+        "status" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"60c6e56abd3c8c19f361e689"}, 
+    "order" : 3, 
+    "bool" : "5", 
+    "image" : "79564f3e5bf560a80b687326cce6b040.jpeg", 
+    "__v" : 0
+}

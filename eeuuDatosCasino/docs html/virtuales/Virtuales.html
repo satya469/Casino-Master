@@ -1,0 +1,721 @@
+<!DOCTYPE html>
+<html lang=es>
+<head>
+    <meta charset="utf-8">
+    <meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>SiempreGana | Virtuales</title>
+    <meta name="msapplication-TileColor" content="#2b5797">
+    <meta name="theme-color" content="#ffffff">
+    
+    <link rel="stylesheet" type='text/css' href="https://cdn.siempregana.net/css/bootstrap.min.css">
+    
+    <link rel="stylesheet" type='text/css' href="https://cdn.siempregana.net/css/mdb.min.css">
+    
+    <link rel="stylesheet" type='text/css' href="https://cdn.siempregana.net/css/addons/datatables.min.css">
+    
+    <link rel="stylesheet" type='text/css' href="https://cdn.siempregana.net/css/lightbox-min.css">
+    
+    <link rel="stylesheet" type='text/css' href="https://cdn.siempregana.net/css/side_menu-min.css">
+    
+    <link rel="stylesheet" type='text/css' href="https://cdn.siempregana.net/css/vsports-min.css">
+    
+    <link rel="stylesheet" type='text/css' href="https://cdn.siempregana.net/mkt/css/10/13/vsports.css">
+    
+    
+    <link rel="stylesheet" type='text/css' href="css/side_menu.css?v=1629145706">
+    
+    
+    <link rel="stylesheet" type='text/css' href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+    
+    <link rel="stylesheet" type='text/css' href="https://fonts.googleapis.com/css?family=Roboto+Condensed">
+    
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/npm/roboto-fontface@0.10.0/css/roboto/roboto-fontface.min.css">
+    
+</head>
+<body class="fixed-sn white-skin">
+    <header>
+        <!-- CONDITION Analytics BEGIN -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5JWR2JKWJL"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-5JWR2JKWJL');
+</script>
+<!-- CONDITION Analytics END -->
+
+
+<!-- CONDITION UserLogged BEGIN -->
+<div id="slide-out" class="side-nav fixed d-lg-none">
+    <ul class="custom-scrollbar">
+        <li class="logo-sn waves-effect pt-1 pb-0">
+            <div class="text-center">
+                <img id="main-logo" class="d-inline-block align-top mr-1" src="https://cdn.siempregana.net/images/logo_10_13.png" alt="logo">
+            </div>
+        </li>
+        <li>
+            <ul id="sidemenu_global_ul" class="collapsible collapsible-accordion">
+              
+                <li class="side-menu-li-index">
+                    <a href="index.php" class="collapsible-header waves-effect side-menu-nav-link nav-link-index">
+                        <img src="https://cdn.siempregana.net/images/side_menu/index.png"><span>Lobby</span>
+                    </a>
+                </li>
+              
+                <li class="side-menu-li-sports">
+                    <a href="sports.php" class="collapsible-header waves-effect side-menu-nav-link nav-link-sports">
+                        <img src="https://cdn.siempregana.net/images/side_menu/sports.png"><span>Deportes</span>
+                    </a>
+                </li>
+              
+                <li class="side-menu-li-casino">
+                    <a href="casino.php" class="collapsible-header waves-effect side-menu-nav-link nav-link-casino">
+                        <img src="https://cdn.siempregana.net/images/side_menu/casino.png"><span>Slots</span>
+                    </a>
+                </li>
+              
+                <li class="side-menu-li-livecasino">
+                    <a href="livecasino.php" class="collapsible-header waves-effect side-menu-nav-link nav-link-livecasino">
+                        <img src="https://cdn.siempregana.net/images/side_menu/livecasino.png"><span>Casino Vivo</span>
+                    </a>
+                </li>
+              
+                <li class="side-menu-li-horses">
+                    <a href="horses.php" class="collapsible-header waves-effect side-menu-nav-link nav-link-horses">
+                        <img src="https://cdn.siempregana.net/images/side_menu/horses.png"><span>Caballos</span>
+                    </a>
+                </li>
+              
+                <li class="side-menu-li-vsports">
+                    <a href="vsports.php" class="collapsible-header waves-effect side-menu-nav-link nav-link-vsports">
+                        <img src="https://cdn.siempregana.net/images/side_menu/vsports.png"><span>Virtuales</span>
+                    </a>
+                </li>
+              
+                <li class="side-menu-li-promo_casino">
+                    <a href="promo_casino.php" class="collapsible-header waves-effect side-menu-nav-link nav-link-promo_casino">
+                        <img src="https://cdn.siempregana.net/images/side_menu/promo_casino.png"><span>Promo Slots</span>
+                    </a>
+                </li>
+              
+            </ul>
+        </li>
+    </ul>
+    <img src="" id="sidenav-promo-banner" class="cursor-pointer">
+    <div class="sidenav-bg mask-strong"></div>
+</div>
+<!-- CONDITION UserLogged END -->
+
+<div class="alert alert-warning alert-dismissible font-size-custom show" role="alert" id="ErrorAlert">
+    <button type="button" class="close" id="ErrorAlertClose">
+        <span aria-hidden="true">&times;</span>
+    </button>
+    <span class="alert-span"></span>
+</div>
+<div class="alert alert-success alert-dismissible font-size-custom show" role="alert" id="SuccessAlert">
+    <button type="button" class="close" id="SuccessAlertClose">
+        <span aria-hidden="true">&times;</span>
+    </button>
+    <span class="alert-span"></span>
+</div>
+
+<nav id="MainNavBar" class="navbar fixed-top navbar-expand-lg scrolling-navbar double-nav py-0 pr-2 px-lg-0 px-xl-3">
+
+    <!-- CONDITION UserLogged BEGIN -->
+    <div class="float-left d-lg-none">
+        <a href="#" data-activates="slide-out" class="button-collapse"><i class="fas fa-bars"></i></a>
+    </div>
+    <div class="float-left d-none d-lg-block">
+        <img id="main-logo-top" class="d-lg-inline-block align-middle" src="https://cdn.siempregana.net/images/logo_10_13.png" alt="logo">
+    </div>
+    <!-- CONDITION UserLogged END -->
+
+    <!-- CONDITION SitePublic BEGIN -->
+        <!-- CONDITION SitePublic END -->
+
+    <div class="float-left d-none d-lg-block">
+        <ul class="nav navbar-nav nav-flex-icons navbar-items-top ml-auto">
+          
+            <li class="nav-item">
+                <a href="index.php" class="nav-link waves-effect side-menu-nav-link nav-link-index">Lobby</a>
+            </li>
+          
+            <li class="nav-item">
+                <a href="sports.php" class="nav-link waves-effect side-menu-nav-link nav-link-sports">Deportes</a>
+            </li>
+          
+            <li class="nav-item">
+                <a href="casino.php" class="nav-link waves-effect side-menu-nav-link nav-link-casino">Slots</a>
+            </li>
+          
+            <li class="nav-item">
+                <a href="livecasino.php" class="nav-link waves-effect side-menu-nav-link nav-link-livecasino">Casino Vivo</a>
+            </li>
+          
+            <li class="nav-item">
+                <a href="horses.php" class="nav-link waves-effect side-menu-nav-link nav-link-horses">Caballos</a>
+            </li>
+          
+            <li class="nav-item">
+                <a href="vsports.php" class="nav-link waves-effect side-menu-nav-link nav-link-vsports">Virtuales</a>
+            </li>
+          
+            <li class="nav-item">
+                <a href="promo_casino.php" class="nav-link waves-effect side-menu-nav-link nav-link-promo_casino">Promo Slots</a>
+            </li>
+          
+        </ul>
+    </div>
+
+    <div class="breadcrumb-dn mr-auto"></div>
+    <ul class="nav navbar-nav nav-flex-icons ml-auto pt-lg-1">
+
+        <!-- CONDITION UserLogged BEGIN -->
+                                        
+        <li class="nav-item">
+            <a class="nav-link waves-effect" id="OwnBalanceTop">
+                <i class="fas fa-coins pr-0"></i>
+                <span class="clearfix own-balance"></span>
+            </a>
+        </li>
+        
+        <li id="ownlimits-nav" class="nav-item dropdown limits-nav support-nav user-custom-dropdown">
+            <a class="nav-link waves-effect" id="OwnBetLimits" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="far fa-chart-bar pr-0"></i>
+            </a>
+            <div class="dropdown-menu dropdown-primary user-limits-dropdown" aria-labelledby="OwnBetLimits"></div>
+        </li>
+
+        <li id="support-nav" class="nav-item dropdown notifications-nav support-nav user-custom-dropdown">
+            <a class="nav-link waves-effect" id="navbarSupportMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <!-- CONDITION BrandSupport BEGIN -->
+                <i id="navbarSupportMenuSupport" class="far fa-comment-dots"></i>
+                <!-- CONDITION BrandSupport END -->
+                <i id="navbarSupportMenuNotifications" class="far fa-bell"></i>
+            </a>
+            <div class="dropdown-menu dropdown-primary user-support-dropdown" aria-labelledby="navbarSupportMenuLink"></div>
+        </li>
+        
+        <li class="nav-item dropdown user-custom-dropdown">
+            <a class="nav-link waves-effect" href="#" id="userDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <i class="far fa-user"></i> <span class="clearfix d-none d-xl-inline-block own-username">Prueb11</span>
+            </a>
+            <div class="dropdown-menu dropdown-menu-right user-profile-dropdown" aria-labelledby="userDropdown">            
+                <a class="dropdown-item" href="#" id="ChangeOwnPassword">Cambiar contraseña</a>
+                <a class="dropdown-item" href="#" id="ChangeLanguage">Cambiar Idioma</a>
+                <a class="dropdown-item" href="#" id="History">Historial de Saldo</a>
+                <a class="dropdown-item" href="#" id="LoginHistory">Historial de Ingresos</a>
+                <!-- CONDITION SideMenuSportsRules BEGIN -->
+                <a class="dropdown-item" href="#" id="Rules">Reglamento Deportes</a>
+                <!-- CONDITION SideMenuSportsRules END -->
+                <a class="dropdown-item" href="#" id="Logout">Salir</a>
+            </div>
+        </li>
+        <!-- CONDITION UserLogged END -->
+
+        
+    </ul>
+</nav>
+
+
+<!-- CONDITION UserLogged BEGIN -->
+<div class="modal fade" id="ModalChangePassword" tabindex="-1" role="dialog" aria-labelledby="ChangePassword" aria-modal="true">
+    <div class="modal-dialog cascading-modal modal-sm modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">Cambiar Contraseña</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body white-text">
+                <div class="font-size-custom modal-clear-hide py-2" id="ChangePasswdForce">Para preversar la seguridad de su cuenta, le aconsejamos cambiar su contraseña.</div>
+                <div class="md-form pb-2 font-size-custom">
+                    <i class="fas fa-eye prefix change-password-reveal lightgrey-text"></i>
+                    <input type="password" id="ChangePasswordNew1" class="form-control change-password-toggle change-password-input modal-clear-val white-text" maxlength="16">
+                    <label for="ChangePasswordNew1">Nueva contraseña</label>
+                    <small id="ChangePasswordFormat1" class="form-text modal-clear-hide text-muted">La contraseña debe contener entre 6 y 16 caracteres.</small>
+                </div>
+                <div class="md-form pb-2 font-size-custom">
+                    <i class="fas fa-eye prefix change-password-reveal lightgrey-text"></i>
+                    <input type="password" id="ChangePasswordNew2" class="form-control change-password-toggle change-password-input modal-clear-val white-text" maxlength="16">
+                    <label for="ChangePasswordNew2">Ingrese nuevamente</label>
+                    <small id="ChangePasswordFormat2" class="form-text modal-clear-hide text-muted">Las contraseñas no coinciden.</small>
+                </div>
+                <div class="modal-clear-hide font-size-custom text-center pb-4" id="ChangePasswordError"></div>
+            </div>
+            <div class="modal-footer d-flex justify-content-center py-2">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" id="ModalChangePasswordSubmit">Aceptar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="ModalPersonalData" tabindex="-1" role="dialog" aria-labelledby="PersonalData" aria-modal="true">
+    <div class="modal-dialog cascading-modal modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">Datos Personales</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="col modal-clear-hide text-center text-center my-4 modal-clear-show" id="ModalPersonalDataLoading">
+                <div class="preloader-wrapper small active">
+                    <div class="spinner-layer spinner-green-only">
+                        <div class="circle-clipper left"><div class="circle"></div></div>
+                        <div class="gap-patch"><div class="circle"></div></div>
+                        <div class="circle-clipper right"><div class="circle"></div></div>
+                    </div>
+                </div>
+    	    </div>
+            <div class="modal-body white-text modal-clear-hide">
+                <form>
+                    <div class="row">
+                        <div class="col-xl-9 mx-auto">
+                            <div class="md-form pb-2 font-size-custom row">
+                                <div class="col-1 mr-4">
+                                    <i class="far fa-user prefix lightgrey-text"></i>
+                                </div>
+                                <div class="col px-0">
+                                    <input type="text" id="PersonalDataName" class="form-control PersonalData-step1-control modal-clear-val modal-clear-invalid" maxlength="32" autocomplete="off" readonly tabindex="1">
+                                    <label for="PersonalDataName">Nombre</label>
+                                </div>
+                            </div>
+                            <div class="md-form pb-2 font-size-custom row">
+                                <div class="col-1 mr-4">
+                                    <i class="far fa-id-card prefix lightgrey-text"></i>
+                                </div>
+                                <div class="col pl-0">
+                                    <input type="text" id="PersonalDataPassport" class="form-control PersonalData-step1-control  modal-clear-val modal-clear-invalid modal-clear-disabled" maxlength="32" autocomplete="off" readonly tabindex="3">
+                                    <label for="PersonalDataPassport">Documento</label>
+                                    <small id="PersonalDataPassportFormat" class="form-text ml-5 PersonalData-format modal-clear-hide">{PersonalData_passport_format}</small>
+                                </div>
+                            </div>
+                            <div class="pb-2">
+                                <div class="md-form mt-4 mb-0 font-size-custom d-flex">
+                                    <i class="fas fa-mobile-alt prefix lightgrey-text"></i>
+                                    <input type="text" id="PersonalDataPhonePrefix" class="form-control PersonalData-step1-control text-right pr-1 modal-clear-val modal-clear-invalid" autocomplete="off" readonly>
+                                    <input type="tel" id="PersonalDataPhone" class="form-control PersonalData-step1-control modal-clear-val modal-clear-invalid modal-clear-disabled" maxlength="16" readonly autocomplete="off" required tabindex="4">
+                                    <label for="PersonalDataPhone">Telefono</label>
+                                </div>
+                                <small id="PersonalDataPhoneFormat" class="form-text ml-5 PersonalData-format modal-clear-hide">{PersonalData_phone_format}</small>
+                            </div>
+                            <div class="md-form pb-2 font-size-custom">
+                                <i class="far fa-envelope prefix lightgrey-text"></i>
+                                <input type="email" id="PersonalDataEmail" class="form-control PersonalData-step1-control modal-clear-val modal-clear-invalid modal-clear-disabled" maxlength="32" readonly autocomplete="off" tabindex="5">
+                                <label for="PersonalDataEmail">Email</label>
+                                <small id="PersonalDataEmailFormat" class="form-text ml-5 PersonalData-format modal-clear-hide">{PersonalData_email_format}</small>
+                            </div>
+                            <div class="md-form pb-2 font-size-custom">
+                                <i class="far fa-flag prefix lightgrey-text"></i>
+                                <input type="text" id="PersonalDataCountry" class="form-control PersonalData-step1-control modal-clear-val modal-clear-invalid modal-clear-disabled" maxlength="32" readonly autocomplete="off" tabindex="6">
+                                <label for="PersonalDataCountry">Pais</label>
+                            </div>
+                            <div class="md-form pb-2 font-size-custom">
+                                <i class="far fa-calendar-alt prefix lightgrey-text"></i>
+                                <input type="text" id="PersonalDataBirthday" class="form-control datepicker PersonalData-step1-control modal-clear-val modal-clear-invalid modal-clear-disabled" readonly tabindex="7">
+                                <label for="PersonalDataBirthday">Fecha de nacimiento</label>
+                            </div>
+                        </div>
+                        <div class="col-12 modal-clear-hide font-size-custom text-center" id="PersonalDataError"></div>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer d-flex justify-content-center py-2">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="ModalHistory" tabindex="-1" role="dialog" aria-labelledby="History" aria-modal="true">
+    <div class="modal-dialog modal-dialog-scrollable cascading-modal modal-lg modal-dialog-custom" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">Historial de Juego</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body modal-body-custom white-text">
+              <table id="HistoryTable" class="table table-sm table-striped table-hover w-100 white-text" cellspacing="0">
+                <thead>
+                  <tr>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                  </tr>
+                </thead>
+                <tbody>
+                </tbody>
+              </table>
+            </div>
+            
+            <div class="modal-footer justify-content-center py-2">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cerrar</button>
+            </div>
+            <div id="ModalHistoryMoreInfo" class="yellow-text text-center">Para ver mas informacion o reclamar una jugada rote su dispositivo</div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="ModalLoginHistory" tabindex="-1" role="dialog" aria-labelledby="LoginHistory" aria-modal="true">
+    <div class="modal-dialog modal-dialog-scrollable cascading-modal modal-lg modal-dialog-custom" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">Historial de Ingresos</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body modal-body-custom white-text">
+              <table id="LoginHistoryTable" class="table table-sm table-striped table-hover w-100 white-text" cellspacing="0">
+                <thead>
+                  <tr>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                  </tr>
+                </thead>
+                <tbody>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer justify-content-center py-2">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="ModalRules" tabindex="-1" role="dialog" aria-labelledby="Rules" aria-modal="true">
+    <div class="modal-dialog modal-dialog-scrollable cascading-modal modal-lg modal-dialog-custom" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">Reglamento Deportes</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="col modal-clear-hide text-center text-center mb-4" id="ModalRulesLoading">
+                <div class="preloader-wrapper small active">
+                    <div class="spinner-layer spinner-green-only">
+                        <div class="circle-clipper left"><div class="circle"></div></div>
+                        <div class="gap-patch"><div class="circle"></div></div>
+                        <div class="circle-clipper right"><div class="circle"></div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-body modal-body-custom font-size-custom white-text" id="ModalRulesContent">
+            </div>
+            <div class="modal-footer justify-content-center py-2">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="ModalNewTicket" tabindex="-1" role="dialog" aria-labelledby="NewTicket" aria-modal="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered cascading-modal modal-md" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">Contactar a Mesa de ayuda</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="card mdb-color lighten-2 text-center z-depth-2 mb-4 font-size-custom col-lg-11 mx-lg-auto modal-ticket-alert">
+                    <div class="card-body px-1">
+                        <p class="white-text mb-0">Se encuentra fuera del horario de atencion.<br>Responderemos su mensaje en cuanto un operador este disponible.</p>
+                    </div>
+                </div>
+                <div class="col-10 offset-2 md-form mb-5 chat-body white z-depth-1 font-size-custom">
+                    <input type="text" id="ModalNewTicketSubject" class="form-control new-ticket-input modal-clear-val" autocomplete="off" maxlength="64">
+                    <label class="ml-3" for="ModalNewTicketSubject">Asunto</label>
+                </div>
+                <div class="col modal-clear-hide text-center text-center mt-1" id="ModalNewTicketError">Maximo: 5 imagenes de hasta 8Mb cada una.</div>
+                <div class="d-flex">
+                    <div class="col-2 md-form px-0 file-field" id="ModalNewTicketAttachDiv">
+                        <div class="btn btn-floating btn-danger float-left waves-effect waves-light m-0 m-md-2">
+                            <i class="fas fa-paperclip" aria-hidden="true"></i>
+                            <input type="file" class="modal-clear-val" id="ModalNewTicketAttach" multiple accept="image/*" title="Adjuntar comprobante">
+                        </div>
+                        <div class="font-size-custom pt-5" id="ModalNewTicketAttachCount"><span></span> imagen/es</div>
+                    </div>
+                    <div class="col-10 md-form amber-textarea active-amber-textarea mt-3 chat-body white z-depth-1 font-size-custom ml-1 ml-sm-0" id="ModalNewTicketReply">
+                        <textarea id="ModalNewTicketMessage" class="md-textarea form-control" rows="3"></textarea>
+                        <label class="ml-3" for="ModalNewTicketMessage">Ingrese aqui el mensaje</label>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer justify-content-center py-2">
+                <input type="hidden" class="input-clear-val" id="ModalNewTicketProviderId">
+                <input type="hidden" class="input-clear-val" id="ModalNewTicketTransactionId">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cancelar</button>
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" id="ModalNewTicketSubmit">Enviar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="ModalReplyTicket" tabindex="-1" role="dialog" aria-labelledby="ReplyTicket" aria-modal="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered cascading-modal modal-md" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">Respuesta de Mesa de ayuda</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="card mdb-color lighten-2 text-center z-depth-2 mb-4 font-size-custom col-lg-11 mx-lg-auto modal-ticket-alert">
+                    <div class="card-body px-1">
+                        <p class="white-text mb-0">Se encuentra fuera del horario de atencion.<br>Responderemos su mensaje en cuanto un operador este disponible.</p>
+                    </div>
+                </div>
+                <div class="col-12 px-0 pt-3">
+                    <div class="chat-message">
+                        <ul class="list-unstyled chat"></ul>
+                        <div class="col modal-clear-hide text-center text-center mb-4" id="ModalReplyTicketLoading">
+                            <div class="preloader-wrapper small active">
+                                <div class="spinner-layer spinner-green-only">
+                                    <div class="circle-clipper left"><div class="circle"></div></div>
+                                    <div class="gap-patch"><div class="circle"></div></div>
+                                    <div class="circle-clipper right"><div class="circle"></div></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col modal-clear-hide text-center text-center mt-1" id="ModalReplyTicketError">Maximo: 5 imagenes de hasta 8Mb cada una.</div>
+                        <div class="d-flex">
+                            <div class="col-2 md-form px-0 file-field" id="ModalReplyTicketAttachDiv">
+                                <div class="btn btn-floating btn-danger float-left waves-effect waves-light m-0 m-md-2">
+                                    <i class="fas fa-paperclip" aria-hidden="true"></i>
+                                    <input type="file" class="modal-clear-val" id="ModalReplyTicketAttach" multiple accept="image/*" title="Adjuntar comprobante">
+                                </div>
+                                <div class="font-size-custom pt-5" id="ModalReplyTicketAttachCount"><span></span> imagen/es</div>
+                            </div>
+                            <div class="col-10 md-form amber-textarea active-amber-textarea mt-3 chat-body white z-depth-1 font-size-custom ml-1 ml-sm-0" id="ModalReplyTicketReply">
+                              <textarea id="ModalReplyTicketMessage" class="md-textarea form-control" rows="2"></textarea>
+                              <label class="ml-3" for="ModalReplyTicketMessage">Respuesta</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer justify-content-center py-2">
+                <input type="hidden" class="input-clear-val" id="ModalReplyTicketId">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cerrar</button>
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" id="ModalReplyTicketSubmit">Responder</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="ModalSupportMail" tabindex="-1" role="dialog" aria-labelledby="SupportMail" aria-modal="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered cascading-modal modal-md" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">Contactar a Mesa de ayuda</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body px-4 py-5 white-text">Contactenos via email a la direccion <span id="ModalSupportMailContent"></span></div>
+            <div class="modal-footer justify-content-center py-2">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="ModalNotification" tabindex="-1" role="dialog" aria-labelledby="Notification" aria-modal="true">
+    <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered cascading-modal modal-md" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">Notificaciones</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="col modal-clear-hide text-center text-center my-4" id="ModalNotificationsLoading">
+                <div class="preloader-wrapper small active">
+                    <div class="spinner-layer spinner-green-only">
+                        <div class="circle-clipper left"><div class="circle"></div></div>
+                        <div class="gap-patch"><div class="circle"></div></div>
+                        <div class="circle-clipper right"><div class="circle"></div></div>
+                    </div>
+                </div>
+    	    </div>
+            <div class="modal-body p-4 white-text" id="ModalNotificationsContent"></div>
+            <div class="modal-footer justify-content-center py-2">
+                <input type="hidden" class="input-clear-val" id="ModalNotificationsId">
+                <input type="hidden" class="input-clear-val" id="ModalNotificationsStatus">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal fade" id="ModalChangeLanguage" tabindex="-1" role="dialog" aria-labelledby="ChangeLanguage" aria-modal="true">
+    <div class="modal-dialog cascading-modal modal-dialog-centered modal-sm col-10 mx-auto" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">Cambiar Idioma</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body col-10 mx-auto" id="RequestLanguage">
+                <div class="md-form my-0">
+                    <select class="mdb-select colorful-select dropdown-primary md-form" id="RequestLanguageSelect">
+                      <option value="" selected disabled class="dark-text">Seleccionar</option>
+                      
+                      <option value="en" data-icon="https://cdn.siempregana.net/images/flags/us.png" class="align-left"> English</option>
+                      
+                      <option value="es" data-icon="https://cdn.siempregana.net/images/flags/es.png" class="align-left"> Español</option>
+                      
+                      <option value="pt" data-icon="https://cdn.siempregana.net/images/flags/pt.png" class="align-left"> Português</option>
+                      
+                      <option value="cn" data-icon="https://cdn.siempregana.net/images/flags/cn.png" class="align-left"> 中文</option>
+                      
+                      <option value="kr" data-icon="https://cdn.siempregana.net/images/flags/kr.png" class="align-left"> 한국어</option>
+                      
+                    </select>
+                </div>
+            </div>
+            <div class="modal-footer d-flex justify-content-center py-2">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- CONDITION UserLogged END -->
+
+<div class="modal fade" id="ModalMulti" tabindex="-1" role="dialog" aria-labelledby="ModalMultiContent" aria-modal="true">
+    <div class="modal-dialog modal-dialog-scrollable cascading-modal modal-lg modal-dialog-custom" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2">{users_modal_multi_title}</h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="col modal-clear-hide text-center text-center mb-4" id="ModalMultiLoading">
+                <div class="preloader-wrapper small active">
+                    <div class="spinner-layer spinner-green-only">
+                        <div class="circle-clipper left"><div class="circle"></div></div>
+                        <div class="gap-patch"><div class="circle"></div></div>
+                        <div class="circle-clipper right"><div class="circle"></div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-body px-2 font-size-custom white-text" id="ModalMultiContent"></div>
+            <div class="modal-footer justify-content-center py-2">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="ModalPromo" tabindex="-1" role="dialog" aria-labelledby="ModalPromoContent" aria-modal="true">
+    <div class="modal-dialog modal-dialog-scrollable cascading-modal modal-lg modal-dialog-custom" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center gradient-card-header red-gradient">
+                <h6 class="modal-title w-100 font-weight-bold text-left ml-2"></h6>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="col modal-clear-hide text-center text-center mb-4" id="ModalPromoLoading">
+                <div class="preloader-wrapper small active">
+                    <div class="spinner-layer spinner-green-only">
+                        <div class="circle-clipper left"><div class="circle"></div></div>
+                        <div class="gap-patch"><div class="circle"></div></div>
+                        <div class="circle-clipper right"><div class="circle"></div></div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-body px-2 font-size-custom white-text" id="ModalPromoContent"></div>
+            <div class="modal-footer justify-content-center py-2">
+                <button type="button" class="btn btn-danger px-3 waves-effect waves-light" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div aria-live="polite" aria-atomic="true" id="NotificationsToast"></div>
+
+<div class="card z-depth-2" id="BrowserAdvice">
+    <button type="button" class="close" id="BrowserAdviceClose">
+        <span aria-hidden="true">&times;</span>
+    </button>
+    <div class="card-body">
+        <h5 class="card-title">Explorador incompatible</h5>
+        <p class="card-text">Algunas caracteristicas del sitio no funcionan correctamente con este explorador. Se recomienda utilizar Google Chrome o Mozilla Firefox.</p>
+        <p class="card-text card-text-sub">Puede descargarlos desde aqui.</p>
+        <div class="d-inline-block px-0">
+            <button type="button" class="btn btn-outline-danger btn-md waves-effect waves-light" id="BrowserChrome"><i class="fab fa-chrome"> Chrome</i></button>
+        </div>
+        <div class="d-inline-block px-0">
+            <button type="button" class="btn btn-outline-warning btn-md waves-effect waves-light" id="BrowserFirefox"><i class="fab fa-firefox"> Firefox</i></button>
+        </div>
+    </div>
+</div>
+
+    </header>
+    <main id="main">
+        <div class="col-12 justify-content-center" id="current_container">
+            <div class="d-flex">
+                <div id="current_container_game">
+                    <iframe id="game_object" scrolling="no" frameborder="0"></iframe>
+                </div>
+                <div id="current_container_menu">
+                    <ul>
+                        <li id="current_container_menu_fullscreen" title="Pantalla completa"><i class="fas fa-expand-arrows-alt"></i></li>
+                        <li id="current_container_menu_refresh" title="Recargar"><i class="fas fa-redo"></i></li>
+                        <li id="current_container_menu_popup" title="Abrir en nueva ventana"><i class="far fa-clone"></i></li>
+                        <li id="current_container_menu_categories" title="Mas juegos"><i class="fas fa-grip-horizontal"></i></li>
+                    </ul>
+                </div>
+            </div>
+    	</div>
+        <div class="col-12 px-0 text-center mb-3" id="banner_container"></div>
+        <div class="col-12" id="games_container"></div>
+        <div class="col-12 text-center" id="get_games_loading"></div>
+    </main>
+    <script type="text/javascript">
+    document.body.dataset.base_server_path='';document.body.dataset.brand_id='13';document.body.dataset.brand_name='SiempreGana';document.body.dataset.brand_support='1';document.body.dataset.cdn_url='https://cdn.siempregana.net/';document.body.dataset.current_language='es';document.body.dataset.is_mobile='';document.body.dataset.recaptcha_public='6LfLV4IaAAAAAGL94uDtQv_hYn_M9qi9EjEl3Ktw';document.body.dataset.passport_type='';document.body.dataset.room_id='10';document.body.dataset.show_results='Resultados';document.body.dataset.modal_promo_results_title='Resultados del torneo';document.body.dataset.site_public='1';document.body.dataset.site_url='play.siempregana.net';document.body.dataset.session_token='0f9c0350565f5a5ffc9a516dac7414313adfa5b944cefa1731734a4593a864bc';document.body.dataset.users_notification='Notificacion';document.body.dataset.current_user_id='1003894';document.body.dataset.current_username='prueb11';document.body.dataset.datatable_title_action='Accion';document.body.dataset.datatable_title_after='Saldo';document.body.dataset.datatable_title_agent='Dispositivo';document.body.dataset.datatable_title_amount='Importe';document.body.dataset.datatable_title_before='Saldo anterior';document.body.dataset.datatable_title_date='Fecha';document.body.dataset.datatable_title_ip='Direccion IP';document.body.dataset.datatable_title_provider='Proveedor';document.body.dataset.datatable_title_reason='Detalle';document.body.dataset.datatable_title_support='Reclamar';document.body.dataset.payment_notes='Notas';document.body.dataset.bonus_weekly='Bono Semanal';document.body.dataset.ebg_nick='';document.body.dataset.force_change_passwd='1';document.body.dataset.support_nickname='Mesa de ayuda';document.body.dataset.support_new_ticket='Tengo un problema';document.body.dataset.users_modal_support_title='Mesa de ayuda';document.body.dataset.users_modal_notification_title='Notificaciones';document.body.dataset.limits_title='Limites máximos de apuestas';document.body.dataset.limits_footer='Toda apuesta que exceda estos limites será rechazada automáticamente.';document.body.dataset.user_has_new_poker='0';document.body.dataset.current_section='vsports';document.body.dataset.current_system='408';
+    </script>
+    <script type="text/javascript">
+    var own_balance_init = '{"notifications":[],"support":[],"limits":[{"name":"VivoGaming","value":"36.000"},{"name":"FreshDeck","value":"36.000"},{"name":"Ezugi","value":"36.000"},{"name":"Caballos","value":"36.000"},{"name":"Virtuales","value":"1.440"},{"name":"Slots","value":"1.440"}],"balance":"0,00"}';
+    </script>
+    
+    <script src="https://unpkg.com/autonumeric" ></script>
+    
+    
+    <script src="https://cdn.siempregana.net/js/jquery-3.6.0.min.js"></script>
+    
+    <script src="https://cdn.siempregana.net/js/popper.min.js"></script>
+    
+    <script src="https://cdn.siempregana.net/js/bootstrap-min.js"></script>
+    
+    <script src="https://cdn.siempregana.net/js/mdb-min.js"></script>
+    
+    <script src="https://cdn.siempregana.net/lang/datepicker/es-min.js"></script>
+    
+    <script src="https://cdn.siempregana.net/js/addons/datatables.min.js"></script>
+    
+    <script src="https://cdn.siempregana.net/js/lightbox-min.js"></script>
+    
+    <script src="https://cdn.siempregana.net/js/vsports-min.js"></script>
+    
+    
+    <script src="js/side_menu.js?v=1637804938"></script>
+    
+</body>
+</html>

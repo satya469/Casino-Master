@@ -1,0 +1,119 @@
+{ 
+    "_id" : {"$oid":"6075b78cf5c03b321d9e30d8"}, 
+    "type" : "2", 
+    "order" : 0, 
+    "text" : "Andar Bahar", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b7a7f5c03b321d9e30d9"}, 
+    "type" : "2", 
+    "order" : 1, 
+    "text" : "Roulette", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b7b7f5c03b321d9e30da"}, 
+    "type" : "2", 
+    "order" : 5, 
+    "text" : "Blackjack", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b7c5f5c03b321d9e30db"}, 
+    "type" : "2", 
+    "order" : 3, 
+    "text" : "Baccarat", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b7d9f5c03b321d9e30dc"}, 
+    "type" : "2", 
+    "order" : 4, 
+    "text" : "Teen Patti", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b7e6f5c03b321d9e30dd"}, 
+    "type" : "2", 
+    "order" : 6, 
+    "text" : "32 Cards", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b7f5f5c03b321d9e30de"}, 
+    "type" : "2", 
+    "order" : 7, 
+    "text" : "Lucky 7", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b800f5c03b321d9e30df"}, 
+    "type" : "2", 
+    "order" : 2, 
+    "text" : "Dragon Tiger", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b80ef5c03b321d9e30e0"}, 
+    "type" : "2", 
+    "order" : 12, 
+    "text" : "Cockfight", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b843f5c03b321d9e30e1"}, 
+    "type" : "1", 
+    "order" : 8, 
+    "text" : "Slots", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b84df5c03b321d9e30e2"}, 
+    "type" : "1", 
+    "order" : 9, 
+    "text" : "Table", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b854f5c03b321d9e30e3"}, 
+    "type" : "1", 
+    "order" : 13, 
+    "text" : "Video Poker", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b873f5c03b321d9e30e4"}, 
+    "type" : "3", 
+    "order" : 14, 
+    "text" : "FANTASY_SPORT", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b886f5c03b321d9e30e5"}, 
+    "type" : "4", 
+    "order" : 15, 
+    "text" : "POKER", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075b891f5c03b321d9e30e6"}, 
+    "type" : "4", 
+    "order" : 16, 
+    "text" : "TEENPATTI", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075c1e964e1924ee10065b7"}, 
+    "type" : "2", 
+    "order" : 10, 
+    "text" : "Horse Race", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6075c1f464e1924ee10065b8"}, 
+    "type" : "2", 
+    "order" : 11, 
+    "text" : "Dog Race", 
+    "__v" : 0
+}

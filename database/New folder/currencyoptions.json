@@ -1,0 +1,8 @@
+{ 
+    "_id" : {"$oid":"609047c899992e6ca7c28d17"},
+    "active" : true, 
+    "code" : "INR", 
+    "label" : "₹", 
+    "rate" : 1,
+    "__v" : 0
+}

@@ -1,0 +1,1330 @@
+.betexchmain{
+    .betexchheader{
+        display: flex;
+        overflow:auto;
+        overflow-y: hidden !important;
+        width: 100%;
+        margin: 0px;
+        // padding: 0rem 1rem;
+        flex: 1;
+        align-items: center;
+        .hnode{
+            font-size: 1rem;
+            display: inline-block;
+            width: 57px;
+            height: 100px;
+            margin: 0.5rem;
+            color: white;
+            border-radius: 5px;
+            cursor: pointer;
+            .resu{
+                background-color: $buttonColor;
+                height: 2.5px;
+                width: 0%;
+                margin: 0% 5px;
+                transition: width 0.4s;
+            }
+           .inplay{
+            padding: 1.1rem !important;
+           }
+            .icon{
+                position: relative;
+                background-color: #111;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                padding: 1rem;
+                border-radius: 10px;
+                img{
+                    width: 30px;
+                    height: 30px;
+                }
+                .count{
+                    position: absolute;
+                    top: 5px;
+                    right:4px;
+                    color: white;
+                    font-size: 0.7rem;
+                    font-weight: bold;
+                    display: none;
+                }
+            }
+            .title{
+                color: gray;  
+                text-align: center;
+                font-size: 0.8rem;
+            }
+        }
+        .hnode:hover{
+            .resu{
+                width: 80%;
+            }
+            .title{
+                color: white;
+            }
+        }
+        .hnodeactive{
+            .resu{
+                width: 80%;
+            }
+            .title{
+                color: white;
+            } 
+           
+            .count{
+                display: block !important;
+            }
+        }
+    }
+    .betexbody{
+        .selecteditem{
+            display: flex;
+            justify-content: space-between;
+            background-color: #111;
+            .tag{
+                display: flex;
+                flex-wrap: nowrap;
+                align-items: center;
+                justify-content: center;
+                .img{
+                    padding: 1rem;
+                    img{
+                        width: 30px;
+                    }
+                }
+                .title{
+                    display: block;
+                    font-weight: bold;
+                    .name{
+                        color: white;
+                    }
+                    .viewall{
+                        text-decoration: underline;
+                        cursor: pointer;
+                        color: $buttonColor;
+                    }
+                }
+            }
+            .rulesbutton{
+                font-weight: bold;
+                cursor: pointer;
+                text-align: center;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+        }
+        .backgroundimg{
+            // height: 300px;
+            width: 100%;
+            img{
+                width: 100%;
+                max-height: 300px;
+            }
+        }
+        .events{
+            width: 100%;
+            // background-color: $primarycolor;
+            background-color: rgba(0, 0, 0, 0.15);
+            .eventheader{
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: nowrap;
+                padding: 0.5rem;
+                color: white;
+                font-weight: bold;
+                .etitle{
+                    width: 40%;
+                }
+                .ebody{
+                    width: 60%;
+                    display: flex;
+                    flex-wrap: nowrap;
+                    .min-max-form{
+                        width: 30%;
+                       
+                    }
+                    .oddsh{
+                        width: 70%;
+                        display: flex;
+                        flex-wrap: nowrap;
+                        justify-content: flex-end;
+                        .eh{
+                            width: 33.3%;
+                            text-align: center;
+                            max-width: 112px;
+                        }
+                        .ed{
+                            width: 33.3%;
+                            text-align: center;
+                            max-width: 112px;
+                        }
+                        .ea{
+                            width: 33.3%;
+                            max-width: 112px;
+                            text-align: center;
+                        }
+                    }
+                }
+            }
+            .eventbody{
+                width: 100%;
+                background-color: #111;
+                .eventitem{
+                    display: flex;
+                    justify-content: space-between;
+                    flex-wrap: nowrap;
+                    width: 100%;
+                    padding: 1rem 0.5rem;
+                    border-bottom: 1px solid;
+                    .etitle{
+                        font-weight: bold;
+                        width: 40%;
+                        display: flex;
+                        .svgicon{
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            svg{
+                                margin: 0px 0.5rem;
+                            }
+                        }
+                        .competition{
+                            color:gray;
+                            .inplay{
+                                svg{
+                                    color: green;
+                                    stroke: green;
+                                    font-weight: bold;
+                                }
+                            }
+                        }
+                        .matchname{
+                            color: white;
+                            text-decoration : underline;
+                            cursor: pointer;
+                            font-size: 1.3rem;
+                        }
+                        .matchname:hover{
+                            color: $red;
+                        }
+                    }
+                    .ebody{
+                        width: 60%;
+                        display: flex;
+                        .min-max-value{
+                            width: 30%;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            .tvshow{
+                                svg{
+                                    stroke: $success !important;
+                                }
+                            }
+                            .status{
+                                width: 50%;
+
+                            }
+                            .value{
+                                width: 50%;
+                            }
+                        }
+                        .odds{
+                            width: 70%;
+                            display: flex;
+                            justify-content: flex-end;
+                            flex-wrap: nowrap;
+                            .eh{
+                                max-width: 112px;
+                                width: 33.3%;
+                                display: flex;
+                                flex-wrap: nowrap;
+                            }
+                            .ed{
+                                width: 33.3%;
+                            max-width: 112px;
+                            display: flex;
+                                flex-wrap: nowrap;                                
+                            }
+                            .ea{
+                                width: 33.3%;
+                                max-width: 112px;
+                                display: flex;
+                                flex-wrap: nowrap;
+                            }
+
+                            .back{
+                                 width: 50%;
+                                 background-color: $lightback;
+                                 margin:  2px;
+                                 border-radius: 5px;
+                                 color: black;
+                                 cursor: pointer;
+                                 text-align: center;
+                                 padding: 0.5rem 0;
+                                display: flex;
+                                align-items: center;
+                                justify-content:center;                                
+                             }
+                            .back:hover{
+                                background-color: $blue-1;
+                            } 
+                            .lay{
+                                 width: 50%;
+                                 background-color: $lightlay;
+                                 color: black;
+                                 margin:  2px;
+                                 cursor: pointer;
+                                 padding: 0.8rem 0;
+                                 border-radius: 5px;
+                                 display: flex;
+                                 align-items: center;
+                                 justify-content:center;
+                            }
+                            .lay:hover{
+                                background-color: $red;
+                            } 
+                        }
+                    }
+                }
+                .mobileeventitem{
+                    display: block;
+                    width: 100%;
+                    padding: 1rem 0.5rem;
+                    border-bottom: 1px solid;
+                    .etitle{
+                        font-weight: bold;
+                        width: 100%;
+                        flex-wrap: nowrap;
+                        .svgicon{
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            padding-right: 0.5rem;
+                        }
+                        .competition{
+                            color:gray;
+                            font-size: 12px;
+                            display: flex;
+                            .inplay{
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                svg{
+                                    color: green;
+                                    stroke: green;
+                                    font-weight: bold;
+                                }
+                            }
+                            .marketname{
+                                font-size: 12px;
+                            }
+                        }
+                        .matchname{
+                            color: white;
+                            cursor: pointer;
+                            font-size: 1.1rem;
+                            margin: 2px 0px;
+                            .match{
+                                text-decoration : underline;
+                            }
+                        }
+                        .matchname:hover{
+                            color: $red;
+                        }
+                        .min-max-value{
+                            width: 100%;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                            .tvshow{
+                                svg{
+                                    stroke: $success !important;
+                                }
+                            }
+                            .status{
+                                width: 50%;
+                            }
+                            .value{
+                                font-size: 12px;
+                                width: 50%;
+                            }
+                        }
+                    }
+                    .ebody{
+                        width: 100%;
+                        display: flex;
+                        .odds{
+                            width: 100%;
+                            display: flex;
+                            flex-wrap: nowrap;
+                            .eh{
+                                max-width: 112px;
+                                width: 33.3%;
+                                display: flex;
+                                flex-wrap: nowrap;
+                            }
+                            .ed{
+                                width: 33.3%;
+                            max-width: 112px;
+                            display: flex;
+                                flex-wrap: nowrap;                                
+                            }
+                            .ea{
+                                width: 33.3%;
+                            max-width: 112px;
+                            display: flex;
+                                flex-wrap: nowrap;
+                            }
+
+                            .back{
+                                 width: 50%;
+                                 background-color: $lightback;
+                                 margin:  0 2px;
+                                 border-radius: 5px;
+                                 color: black;
+                                 cursor: pointer;
+                                 text-align: center;
+                                 padding: 0.5rem 0;
+                                display: flex;
+                                align-items: center;
+                                justify-content:center;                                
+                             }
+                            .back:hover{
+                                background-color: $blue-1;
+                            } 
+                            .lay{
+                                 width: 50%;
+                                 background-color: $lightlay;
+                                 color: black;
+                                 margin: 0 2px;
+                                 cursor: pointer;
+                                 padding: 0.5rem 0;
+                                 border-radius: 5px;
+                                 display: flex;
+                                 align-items: center;
+                                 justify-content:center;
+                            }
+                            .lay:hover{
+                                background-color: $red;
+                            } 
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+    .exchangebetting{
+        width: 100%;
+        display: flex;
+        flex-wrap: nowrap;
+        .betexchodds{
+            width: 74%;
+            .oddsheader{
+                display: flex;
+                flex-wrap: nowrap;
+                .date{
+                    width: 15%;
+                    padding: 0.2rem;
+                    background-color: rgba(0, 0, 0, 0.15);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+                .topic{
+                    height: 100%;
+                    color: white;
+                    font-weight: bold;
+                    padding: 0.8rem;
+                    font-size: 1.5rem;
+                }
+            }   
+            .oddsbody{
+                margin-top: 0.5rem;
+                .odditem{
+                    .oddsitemheader{
+                        display: flex;
+                        padding: 0 0.5rem 0 0.8rem;
+                        align-items: center;
+                        justify-content:space-between;
+                        flex-wrap: nowrap;
+                        background-color: $buttonColor;
+                        color: white;
+                        
+                        .back{
+                            width: 56px;
+                            text-align: center;
+                            align-items: center;
+                            justify-content: center;
+                            margin: 0 2px;
+                            display: flex;
+                        }
+                        .lay{
+                            width: 56px;
+                            align-items: center;
+                            justify-content: center;
+                            margin: 0 2px;
+                            display: flex;
+                            .symbol{
+                                text-align: center;
+                                cursor: pointer;
+                                color: white;
+                                svg{
+                                    stroke: white;
+                                }
+                            }
+                        }
+                    }
+                    .oddsitembody{
+                        padding: 0 0.5rem 0 0.8rem;
+                        display: flex;
+                        color: white;
+                        align-items: center;
+                        justify-content:space-between;
+                        flex-wrap: nowrap;
+                        .matchoddtitle{
+                            // padding:0.8rem 1rem;
+                            border-radius: 5px;
+                            font-weight: bold;
+                            cursor: pointer;
+                            .red-back{
+                                color: #00B181 !important;
+                            }
+                            
+                            .red-lay{
+                                color: #DB0A40 !important;
+                            }
+
+                            .green-back{
+                                color: #DB0A40 !important;
+                            }
+
+                            .green-lay{
+                                color: #00B181 !important;
+                            }
+                        }
+                        .matchoddtitle:hover{
+                            color: $buttonColor;
+                        }
+                        .backlay{
+                            // width: 50%;
+                            display: flex;
+                            flex-wrap: nowrap;
+                            .item{
+                                width: 33.33%;
+                                color: black;
+                                height: 34px;
+                                background-color: white;
+                                 margin:  2px;
+                                 cursor: pointer;
+                                //  padding:0.5rem 0;
+                                 border-radius: 5px;
+                                //  display: flex;
+                                //  align-items: center;
+                                //  justify-content:center;
+                                width: 56px;
+                                text-align: center;
+                                .fontprice{
+                                    font-size: 14px;
+                                    font-weight: 700;
+                                }
+
+                                .fontsize{
+                                    font-size: 12px;
+                                }
+                            }
+                            .laycolor{
+                                background-color: $lightlay;
+                            }
+                            .laycolor:hover,.lay:hover{
+                                background-color: $yred;
+
+                            }
+                            .backcolor{
+                                background-color: $lightback;
+                            }
+                            .backcolor:hover,.back:hover{
+                                background-color: $buttonColor;
+                            }
+                        }
+                        
+                    }
+                    .fancyitemheader{
+                        display: flex;
+                        padding: 0 0.5rem 0 0.8rem;
+                        align-items: center;
+                        justify-content:space-between;
+                        flex-wrap: nowrap;
+                        background-color: $buttonColor;
+                        color: white;
+                        .back{
+                            width: 56px;
+                            text-align: center;
+                            align-items: center;
+                            justify-content: center;
+                            margin: 0 2px;
+                            display: flex;
+                        }
+                        .lay{
+                            width: 56px;
+                            align-items: center;
+                            justify-content: center;
+                            margin: 0 2px;
+                            display: flex;
+                            .symbol{
+                                text-align: center;
+                                color: white;
+                                cursor: pointer;
+                                svg{
+                                    stroke: white;
+                                }
+                            }
+                        }
+                    }
+                    .fancyitembody{
+                        padding: 0 0.5rem 0 0.8rem;
+                        display: flex;
+                        color: white;
+                        align-items: center;
+                        justify-content:space-between;
+                        flex-wrap: nowrap;
+                        width: 100%;
+                        position: relative;
+                       
+                        .matchoddtitle{
+                            border-radius: 5px;
+                            font-weight: bold;
+                            cursor: pointer;
+                            .red-back{
+                                color: #00B181 !important;
+                            }
+                            
+                            .red-lay{
+                                color: #DB0A40 !important;
+                            }
+
+                            .green-back{
+                                color: #DB0A40 !important;
+                            }
+
+                            .green-lay{
+                                color: #00B181 !important;
+                            }
+                        }
+                        .matchoddtitle:hover{
+                            color: $buttonColor;
+                        }
+                        .backlay{
+                            // width: 50%;
+                            display: flex;
+                            flex-wrap: nowrap;
+                            .item{
+                                width: 33.33%;
+                                color: black;
+                                background-color: white;
+                                 margin:  2px;
+                                 cursor: pointer;
+                                 border-radius: 5px;
+                                height: 34px;
+                                 display: block;
+                                 align-items: center;
+                                 justify-content:center;
+                                 text-align: center;
+                                width: 56px;
+                                .fontprice{
+                                    font-size: 14px;
+                                    font-weight: 700;
+                                }
+
+                                .fontsize{
+                                    font-size: 12px;
+                                }
+                            }
+                            .laycolor{
+                                background-color: $lightlay;
+                            }
+                            .laycolor:hover,.lay:hover{
+                                background-color: $yred;
+
+                            }
+                            .backcolor{
+                                background-color: $lightback;
+                            }
+                            .backcolor:hover,.back:hover{
+                                background-color: $buttonColor;
+                            }
+                            .none{
+                                background-color: transparent !important;
+                            }
+                        }
+                        
+                    }
+                    .oddsitemfooter{
+                        display: flex;
+                        align-items: center;
+                        justify-content: flex-end;
+                        padding-right: 0.5rem;
+                        span{
+                            color: gray;
+                        }
+                    }
+                }
+            } 
+        }
+        .betchgwidget{
+            width: 26%;
+            padding: 0.5rem;
+            margin-left: 1rem;
+            background-color: #111;
+            .card{
+                margin-bottom: 0 !important;
+                padding-top: 0.5rem;
+                .color-red{
+                    color: white;
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    border-top: 2px solid $buttonColor;
+                    .active{
+                        font-weight: bold;
+                        color: red !important;
+                    }
+                }
+                table{
+                    th{
+                        background-color:$buttonColor !important;
+                        white-space:nowrap;
+                    }
+                    td{
+                        white-space:nowrap;
+                    }
+                    
+                }
+            }
+        }
+    }
+    .mobileexchangebetting{
+        width: 100%;
+        display: block;
+      
+        .betexchodds{
+            width: 100%;
+            .oddsheader{
+                display: flex;
+                flex-wrap: nowrap;
+                .date{
+                    width: 35%;
+                    padding: 0.5rem 0.1rem;
+                    background-color: rgba(0, 0, 0, 0.15);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+                .topic{
+                    height: 65%;
+                    color: white;
+                    font-weight: bold;
+                    padding: 0.5rem 0.1rem;
+                    font-size: 1.1rem;
+                }
+            }   
+            .oddsbody{
+                margin-top: 0.5rem;
+                .odditem{
+                    .oddsitemheader{
+                        display: flex;
+                        padding: 0 0.5rem 0 0.8rem;
+                        align-items: center;
+                        justify-content:space-between;
+                        flex-wrap: nowrap;
+                        background-color: $buttonColor;
+                        color: white;
+                        .none{
+                            background-color: transparent !important;
+                        }
+                        .w-40{
+                            min-width: 112px !important;
+                            flex-wrap: nowrap !important;
+                        }
+                        .back{
+                            width: 56px;
+                            text-align: center;
+                            align-items: center;
+                            justify-content: center;
+                            margin: 0 2px;
+                            display: flex;
+                        }
+                        .lay{
+                            width: 56px;
+                            align-items: center;
+                            justify-content: center;
+                            margin: 0 2px;
+                            display: flex;
+                            .symbol{
+                                text-align: center;
+                                cursor: pointer;
+                                color: white;
+                                svg{
+                                    stroke: white;
+                                }
+                            }
+                        }
+                    }
+                    .oddsitembody{
+                        padding: 0 0.5rem 0 0.8rem;
+                        display: flex;
+                        color: white;
+                        align-items: center;
+                        justify-content:space-between;
+                        flex-wrap: nowrap;
+                        position: relative;
+                        .w-40{
+                            min-width: 112px !important;
+                            flex-wrap: nowrap !important;
+                        }
+                        .matchoddtitle{
+                            // padding:0.8rem 1rem;
+                            border-radius: 5px;
+                            padding: 0.5rem 0;
+
+                            font-weight: bold;
+                            cursor: pointer;
+                            .red-back{
+                                color: #00B181 !important;
+                            }
+                            
+                            .red-lay{
+                                color: #DB0A40 !important;
+                            }
+
+                            .green-back{
+                                color: #DB0A40 !important;
+                            }
+
+                            .green-lay{
+                                color: #00B181 !important;
+                            }
+                        }
+                        .matchoddtitle:hover{
+                            color: $buttonColor;
+                        }
+                        .backlay{
+                            // width: 50%;
+                            display: flex;
+                            flex-wrap: nowrap;
+                            .item{
+                                width: 33.33%;
+                                color: black;
+                                height: 34px;
+                                background-color: white;
+                                 margin:  2px;
+                                 cursor: pointer;
+                                //  padding:0.5rem 0;
+                                 border-radius: 5px;
+                                //  display: flex;
+                                //  align-items: center;
+                                //  justify-content:center;
+                                width: 56px;
+                                text-align: center;
+                                .fontprice{
+                                    font-size: 14px;
+                                    font-weight: 700;
+                                }
+
+                                .fontsize{
+                                    font-size: 12px;
+                                }
+                            }
+                            .laycolor{
+                                background-color: $lightlay;
+                            }
+                            .laycolor:hover,.lay:hover{
+                                background-color: $yred;
+
+                            }
+                            .backcolor{
+                                background-color: $lightback;
+                            }
+                            .backcolor:hover,.back:hover{
+                                background-color: $buttonColor;
+                            }
+                        }
+                        
+                    }
+                    .fancyitemheader{
+                        display: flex;
+                        padding: 0 0.5rem 0 0.8rem;
+                        align-items: center;
+                        justify-content:space-between;
+                        flex-wrap: nowrap;
+                        background-color: $buttonColor;
+                        color: white;
+                        .back{
+                            width: 56px;
+                            text-align: center;
+                            align-items: center;
+                            justify-content: center;
+                            margin: 0 2px;
+                            display: flex;
+                        }
+                        .lay{
+                            width: 56px;
+                            align-items: center;
+                            justify-content: center;
+                            margin: 0 2px;
+                            display: flex;
+                            .symbol{
+                                text-align: center;
+                                color: white;
+                                cursor: pointer;
+                                svg{
+                                    stroke: white;
+                                }
+                            }
+                        }
+                    }
+                    .fancyitembody{
+                        padding: 0 0.5rem 0 0.8rem;
+                        display: flex;
+                        color: white;
+                        align-items: center;
+                        justify-content:space-between;
+                        flex-wrap: nowrap;
+                        width: 100%;
+                        position: relative;
+                        border-bottom: 1px solid gray;
+                       
+                        .matchoddtitle{
+                            // padding:0.8rem 1rem;
+                            padding: 0.5rem 0;
+                            border-radius: 5px;
+                            font-weight: bold;
+                            cursor: pointer;
+                            .red-back{
+                                color: #00B181 !important;
+                            }
+                            
+                            .red-lay{
+                                color: #DB0A40 !important;
+                            }
+
+                            .green-back{
+                                color: #DB0A40 !important;
+                            }
+
+                            .green-lay{
+                                color: #00B181 !important;
+                            }
+                        }
+                        .matchoddtitle:hover{
+                            color: $buttonColor;
+                        }
+                        .backlay{
+                            // width: 50%;
+                            display: flex;
+                            flex-wrap: nowrap;
+                            .item{
+                                width: 33.33%;
+                                color: black;
+                                background-color: white;
+                                 margin:  2px;
+                                 cursor: pointer;
+                                 border-radius: 5px;
+                                height: 34px;
+                                 display: block;
+                                text-align: center;
+                                width: 56px;
+                                .fontprice{
+                                    font-size: 14px;
+                                    font-weight: 700;
+                                }
+
+                                .fontsize{
+                                    font-size: 12px;
+                                }
+                            }
+                            .laycolor{
+                                background-color: $lightlay;
+                            }
+                            .laycolor:hover,.lay:hover{
+                                background-color: $yred;
+
+                            }
+                            .backcolor{
+                                background-color: $lightback;
+                            }
+                            .backcolor:hover,.back:hover{
+                                background-color: $buttonColor;
+                            }
+                            .none{
+                                background-color: transparent !important;
+                            }
+                        }
+                        
+                    }
+                    .oddsitemfooter{
+                        display: flex;
+                        align-items: center;
+                        justify-content: flex-end;
+                        padding-right: 0.5rem;
+                        span{
+                            color: gray;
+                        }
+                    }
+                }
+            } 
+        }
+        .betchgwidget{
+            width: 100%;
+            padding: 0 0.5rem;
+            // margin-left: 1rem;
+            background-color: #111;
+            .color-red{
+                padding-top: 0.5rem;
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                border-top: 2px solid $buttonColor;
+                color: white;
+                .active{
+                    font-weight: bold;
+                    color: red !important;
+                }
+            }
+            .card{
+                margin-bottom: 0.5rem !important;
+            }
+            
+        }
+    }
+    .suspend{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 5px;
+        z-index: 1;
+        span{
+            text-align: center;
+            background-color: $red;
+            font-weight: bold;
+            color: white;
+            padding: 0.2rem 0.5rem;
+            border-radius: 5px;
+        }
+    }
+
+    .betexchgbetslip {
+        position: fixed;
+        right: 10px;
+        box-sizing: border-box;
+        line-height: 20px;
+        z-index: 100000;
+        bottom: 0px;
+        padding: 20px 0 0 0;
+        top: 0;
+        pointer-events:none !important;
+        width: 310px;
+        .card{
+            margin-bottom: 0 !important;
+            box-shadow: 0px 4px 16px 1px $buttonColor;
+            width: 100%;
+            position: absolute;
+            pointer-events: all!important;
+            max-height: calc(100% - 80px);
+            bottom: 0rem;
+            .tab-content {
+                overflow-y:auto;
+                             
+                /* width */
+                ::-webkit-scrollbar {
+                    width: 5px;
+                    height: 5px;
+                }
+                
+                /* Track */
+                ::-webkit-scrollbar-track {
+                    background: #f1f1f1; 
+                    opacity: 0;
+                }
+                
+                /* Handle */
+                ::-webkit-scrollbar-thumb {
+                    background:#3b3390;
+                }
+                
+                /* Handle on hover */
+                ::-webkit-scrollbar-thumb:hover {
+                    background: #7367f0;
+                    opacity: 1;
+                }
+            }
+            .betslipopen{
+                background: hsla(0,0%,100%,.15);
+                border-radius: 50%;
+                content: "";
+                width: 24px;
+                height: 24px;
+                svg{
+                    position: absolute;
+                    top: 50%;
+                    width: 14px;
+                    height: 14px;
+                    left: 22%;
+                    -ms-transform: translate(-50%,-50%);
+                    transform: translate(-50%,-50%);
+                }
+            }
+        }
+        .slipitem{
+            background-color: $background-color;
+            padding: 0.5rem;
+            width: 100%;
+            overflow-y: auto;
+            .slipmarketname{
+                font-size: 1.2rem;
+                font-weight: bold;
+                color: white;
+            }
+            .betitem{
+                position: relative;
+                .oddname{
+                    color: $buttonColor;
+                    font-weight: bold;
+                    padding: 1rem 0 0 0;
+                }
+                .back {
+                    .oddcalcitem{
+                        .minus{
+                            background-color: #00B2FF;
+                        }
+                        .plus{
+                            background-color: #00B2FF;
+                        }
+                        .betstake{
+                            color: #00B2FF;
+                        }
+                    }
+                }
+                .lay{
+                    .oddcalcitem{
+                        .minus{
+                            background-color: $red;
+                        }
+                        .plus{
+                            background-color: $red;
+                        }
+                        .betstake{
+                            color: $red;
+                        }
+                    }
+                    
+                }
+                .oddcalc{
+                    display: flex;
+                    flex-wrap: nowrap;
+                    .oddcalcitem{
+                        position: relative;
+                        width: 33.33%;
+                        // padding: 0.2rem;
+                        .minus{
+                            position: absolute;
+                            top: 0;
+                            width: 18px;
+                            height: 40px;
+                            border-radius: 1px;
+                            color: #FFF;
+                            line-height: 40px;
+                            text-align: center;
+                            cursor: pointer;
+                            z-index: 1;
+                            left: 0;
+                            border-top-left-radius: 2px;
+                            border-bottom-left-radius: 2px;
+                        }
+                        .plus {
+                            position: absolute;
+                            top: 0;
+                            width: 18px;
+                            height: 40px;
+                            border-radius: 1px;
+                            color: #FFF;
+                            line-height: 40px;
+                            text-align: center;
+                            cursor: pointer;
+                            z-index: 1;
+                            right: 0;
+                            border-top-right-radius: 2px;
+                            border-bottom-right-radius: 2px;
+                        }
+                        .betstake{
+                            position: absolute;
+                            top: 3px;
+                            right: 24px;
+                            font-size: 10px;
+                            font-weight: 700;
+                            text-transform: uppercase;
+                        }
+                        input{
+                            position: relative;
+                            width: 100%;
+                            height: 40px;
+                            padding-right: 24px;
+                            padding-top: 20px;
+                            border-top: 2px solid transparent;
+                            border-bottom: 2px solid transparent;
+                            border-left: 2px solid transparent;
+                            border-right: 2px solid transparent;
+                            border-radius: 2px;
+                            border-color: #222;
+                            margin: 0 auto;
+                            background-color: #222;
+                            color: #FFF;
+                            text-align: right;
+                            font-size: 12px;
+                            font-weight: 700;
+                        }
+                    }
+                }
+                .oddstake{
+                    width: 100%;
+                    .oddstakevalue{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        padding: 0.1rem;
+                        cursor: pointer;
+                        border-radius: 5px;
+                        span{
+                            color: #111;
+                            background-color: $buttonColor;
+                            padding: 0.5rem;
+                            width: 100%;
+                            text-align: center;
+                        }
+                    }
+                    .oddstakevalue:hover{
+                        opacity: 0.8;
+                    }
+                }
+                .oddbutton{
+                    width: 100%;
+                    display: flex;
+                    flex-wrap: nowrap;
+                    margin-top: 0.3rem;
+                    .buttons{
+                        width: 33.33%;
+                        display: flex;
+                        align-items: center;
+                        cursor: pointer;
+                        justify-content: center;
+                        padding: 0.1rem;
+                        border-radius: 5px;
+                        color: #111 !important;
+                        span{
+                            padding: 0.5rem;
+                            width: 100%;
+                            text-align: center;
+                        }
+                        .cancel{
+                            background-color: $red;
+                        }
+                        .clear{
+                            background-color: $buttonColor;
+                        }
+                        .placebet{
+                            background-color: $success;
+                        }
+                    }  
+                    .buttons:hover{
+                        opacity: 0.8;
+                    }
+                    .submitloading{
+                        opacity: 0.8;
+                    }
+
+                }
+            }
+        }
+    }
+    
+    @media (max-width: 414px) {
+        .betexchgbetslip{
+            padding: 0.5rem;
+            width: 100%;
+            right: 0px;
+            .card{
+                right: 0px;
+            }
+        }
+    }   
+    .exchangebetsliploading{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        opacity: 0.7;
+        background: rgba(0,0,0,.7);
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        z-index:10;
+        svg{
+            color: $orange;
+            stroke: $orange;
+        }
+    }
+    .category{
+        .btn{
+            padding: 0.4rem !important;
+        }
+    }
+    .none{
+        background-color: transparent !important;
+    }
+
+    .max-200{
+        max-width: 200px;
+    }
+
+    .changingoddsclass{
+        animation: mymove 2s;
+        // background: $lightlay;1
+        opacity: 0.8;
+        .fontprice{
+            color:white;
+        }
+    }
+    @keyframes mymove {
+        0%   {
+            background: #ea5455;
+        }
+        25%  {
+            background: #0293cc;
+        }
+        50%  {
+            background: #ea5455;
+        }
+        75%  {
+            background: #0293cc;
+        }
+        100% {
+            background: #ea5455;
+        }
+    }
+
+    .betexchgmymarkes{
+        tr{
+            .matchname{
+                font-weight: bold;
+                text-decoration: underline;
+                cursor: pointer;
+            }
+        }
+    }
+}

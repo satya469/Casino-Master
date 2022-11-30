@@ -1,0 +1,2722 @@
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e18618c"}, 
+    "bool" : {
+        "1" : true, 
+        "3" : true
+    }, 
+    "status" : true, 
+    "provider" : "1x2", 
+    "type" : [
+        "SLOT", 
+        "VIDEO_BINGO", 
+        "VIDEO_POKER", 
+        "TABLE_GAME", 
+        "VIRTUALS", 
+        "TABLE_ROULETTE_EUROPEAN", 
+        "SCRACH_CARDS"
+    ], 
+    "order" : 1, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "1x2", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e18618d"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : true, 
+    "provider" : "augustgaming", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 2, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "augustgaming", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e18618e"}, 
+    "bool" : {
+        "1" : true, 
+        "2" : true
+    }, 
+    "status" : true, 
+    "provider" : "awc", 
+    "type" : [
+        "SLOT", 
+        "TABLE_GAME", 
+        "Live Casino"
+    ], 
+    "order" : 51, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "awc", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e18618f"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "belatra", 
+    "type" : [
+        "SLOT", 
+        "TABLE_ROULETTE_AMERICAN", 
+        "VIDEO_BINGO", 
+        "TABLE_ROULETTE_EUROPEAN"
+    ], 
+    "order" : 5, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "belatra", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e186190"}, 
+    "bool" : {
+        "2" : true
+    }, 
+    "status" : true, 
+    "provider" : "betgames", 
+    "type" : [
+        "LIVE", 
+        "TABLE_GAME", 
+        "POKER", 
+        "Blackjack", 
+        "Baccarat", 
+        "Roulette", 
+        "Andar Bahar"
+    ], 
+    "order" : 18, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "betgames", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e186191"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "betsoft", 
+    "type" : [
+        "VIDEO_POKER", 
+        "POKER", 
+        "SLOT"
+    ], 
+    "order" : 6, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "betsoft", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e186192"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "betsolution", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 4, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "betsolution", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e186193"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : true, 
+    "provider" : "bfgames", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 8, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "bfgames", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e186194"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "Booming", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 11, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "Booming", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e186195"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "booongo", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 9, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "booongo", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e186196"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "BTX", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 10, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "BTX", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e186197"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "casinotechgaming", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 12, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "casinotechgaming", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e186198"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "conceptgaming", 
+    "type" : [
+        "SLOT", 
+        "TABLE_GAME", 
+        "TABLE_ROULETTE_EUROPEAN", 
+        "VIDEO_BINGO", 
+        "VIDEO_POKER"
+    ], 
+    "order" : 13, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "conceptgaming", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e186199"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "egp", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 14, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "egp", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e18619a"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "egt", 
+    "type" : [
+        "TABLE_GAME", 
+        "SLOT"
+    ], 
+    "order" : 15, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "egt", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e18619b"}, 
+    "bool" : {
+        "4" : true
+    }, 
+    "status" : true, 
+    "provider" : "evenbet", 
+    "type" : [
+        "POKER"
+    ], 
+    "order" : 17, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "evenbet", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e18619c"}, 
+    "bool" : {
+        "2" : true
+    }, 
+    "status" : true, 
+    "provider" : "evolution", 
+    "type" : [
+        "TABLE_GAME", 
+        "LIVE", 
+        "Blackjack", 
+        "Baccarat", 
+        "Roulette", 
+        "Andar Bahar"
+    ], 
+    "order" : 16, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "evolution", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e18619d"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "evoplay", 
+    "type" : [
+        "SLOT", 
+        "TABLE_GAME", 
+        "VIDEO_POKER", 
+        "SCRACH_CARDS"
+    ], 
+    "order" : 20, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "evoplay", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e18619e"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "ezugi", 
+    "type" : [
+        "TABLE_GAME"
+    ], 
+    "order" : 57, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "ezugi", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e18619f"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "fazi", 
+    "type" : [
+        "SLOT", 
+        "VIDEO_POKER", 
+        "TABLE_ROULETTE_EUROPEAN", 
+        "TABLE_GAME"
+    ], 
+    "order" : 19, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "fazi", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861a0"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "fils", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 21, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "fils", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861a1"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "gameart", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 22, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "gameart", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861a2"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "gamefishglobal", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 25, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "gamefishglobal", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861a3"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : true, 
+    "provider" : "gmw", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 24, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "gmw", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861a4"}, 
+    "bool" : {
+        "3" : true
+    }, 
+    "status" : false, 
+    "provider" : "goldenrace", 
+    "type" : [
+        "SLOT", 
+        "FANTASY_SPORT"
+    ], 
+    "order" : 23, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "goldenrace", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861a5"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : true, 
+    "provider" : "habanero", 
+    "type" : [
+        "SLOT", 
+        "VIDEO_POKER", 
+        "TABLE_GAME", 
+        "TABLE_ROULETTE_EUROPEAN"
+    ], 
+    "order" : 26, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "habanero", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861a6"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "heliogaming", 
+    "type" : [
+        "LOTTERY", 
+        "TABLE_GAME"
+    ], 
+    "order" : 27, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "heliogaming", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861a7"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "just_play", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 28, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "just_play", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861a8"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "justplay", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 29, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "justplay", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861a9"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "kagaming", 
+    "type" : [
+        "SLOT", 
+        "VIDEO_BINGO", 
+        "POKER"
+    ], 
+    "order" : 30, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "kagaming", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861aa"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "konect", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 31, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "konect", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861ab"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "legaplay", 
+    "type" : [
+        "SLOT", 
+        "TABLE_GAME", 
+        "POKER", 
+        "SCRACH_CARDS", 
+        "TABLE_ROULETTE_EUROPEAN", 
+        "VIDEO_BINGO"
+    ], 
+    "order" : 33, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "legaplay", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861ac"}, 
+    "bool" : {
+        "2" : true
+    }, 
+    "status" : true, 
+    "provider" : "livegames", 
+    "type" : [
+        "LIVE", 
+        "TABLE_GAME"
+    ], 
+    "order" : 32, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "livegames", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861ad"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : true, 
+    "provider" : "netent", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 34, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "netent", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861ae"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : true, 
+    "provider" : "Njoy Gaming", 
+    "type" : [
+        "VIDEO_BINGO", 
+        "SLOT"
+    ], 
+    "order" : 35, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "Njoy Gaming", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861af"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : true, 
+    "provider" : "onetouch", 
+    "type" : [
+        "TABLE_GAME", 
+        "SLOT"
+    ], 
+    "order" : 36, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "onetouch", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861b0"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "ortiz", 
+    "type" : [
+        "VIDEO_BINGO"
+    ], 
+    "order" : 37, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "ortiz", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861b1"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "oryx", 
+    "type" : [
+        "SLOT", 
+        "SCRACH_CARDS"
+    ], 
+    "order" : 38, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "oryx", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861b2"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "patagonia", 
+    "type" : [
+        "VIDEO_BINGO", 
+        "SLOT"
+    ], 
+    "order" : 39, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "patagonia", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861b3"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : true, 
+    "provider" : "platingaming", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 40, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "platingaming", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861b4"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "playpearls", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 41, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "playpearls", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861b5"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "playson", 
+    "type" : [
+        "SLOT", 
+        "TABLE_GAME", 
+        "TABLE_ROULETTE_EUROPEAN"
+    ], 
+    "order" : 42, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "playson", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861b6"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "pragmaticplay", 
+    "type" : [
+        "SLOT", 
+        "TABLE_GAME"
+    ], 
+    "order" : 43, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "pragmaticplay", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861b7"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "puurl", 
+    "type" : [
+        "PROBABILITY_GAME"
+    ], 
+    "order" : 44, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "puurl", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861b8"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "RCT Gaming", 
+    "type" : [
+        "VIDEO_BINGO"
+    ], 
+    "order" : 45, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "RCT Gaming", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861b9"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "redrake", 
+    "type" : [
+        "SLOT", 
+        "VIDEO_BINGO", 
+        "TABLE_ROULETTE_EUROPEAN", 
+        "VIDEO_POKER"
+    ], 
+    "order" : 46, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "redrake", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861ba"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "rgs", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 47, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "rgs", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861bb"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "sesgaming", 
+    "type" : [
+        "TOMBALA"
+    ], 
+    "order" : 48, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "sesgaming", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861bc"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "sparkling", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 49, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "sparkling", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861bd"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : true, 
+    "provider" : "spinmatic", 
+    "type" : [
+        "SLOT", 
+        "VIDEO_BINGO"
+    ], 
+    "order" : 50, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "spinmatic", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861be"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "spinomenal", 
+    "type" : [
+        "SLOT", 
+        "LOTTERY", 
+        "TABLE_ROULETTE_EUROPEAN", 
+        "TABLE_GAME"
+    ], 
+    "order" : 52, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "spinomenal", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861bf"}, 
+    "bool" : {
+        "2" : true
+    }, 
+    "status" : true, 
+    "provider" : "superspadegames", 
+    "type" : [
+        "LIVE", 
+        "TABLE_GAME"
+    ], 
+    "order" : 62, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "superspadegames", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861c0"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "surgames", 
+    "type" : [
+        "VIDEO_BINGO"
+    ], 
+    "order" : 53, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "surgames", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861c1"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : true, 
+    "provider" : "tgc", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 54, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "tgc", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861c2"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "tomhorn", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 55, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "tomhorn", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861c3"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "tuko-seka", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 58, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "tuko-seka", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861c4"}, 
+    "bool" : {
+        "2" : true
+    }, 
+    "status" : true, 
+    "provider" : "tvbet", 
+    "type" : [
+        "SLOT", 
+        "Blackjack", 
+        "Baccarat", 
+        "Roulette", 
+        "Andar Bahar"
+    ], 
+    "order" : 63, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "tvbet", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861c5"}, 
+    "bool" : {
+        "2" : true
+    }, 
+    "status" : false, 
+    "provider" : "vivo", 
+    "type" : [
+        "TABLE_GAME", 
+        "TABLE_ROULETTE_EUROPEAN", 
+        "TABLE_ROULETTE_AMERICAN", 
+        "Blackjack", 
+        "Baccarat", 
+        "Roulette", 
+        "Andar Bahar"
+    ], 
+    "order" : 64, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "vivo", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861c6"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "wazdan", 
+    "type" : [
+        "SLOT", 
+        "VIDEO_POKER", 
+        "TABLE_GAME", 
+        "TABLE_ROULETTE_EUROPEAN", 
+        "VIDEO_BINGO"
+    ], 
+    "order" : 59, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "wazdan", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861c7"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "wearecasino", 
+    "type" : [
+        "SLOT"
+    ], 
+    "order" : 60, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "wearecasino", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f40d7d96453d6354e1861c8"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "provider" : "woohoo", 
+    "type" : [
+        "SLOT", 
+        "TABLE_GAME"
+    ], 
+    "order" : 61, 
+    "__v" : 0, 
+    "Route" : false, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "5", 
+    "text" : "woohoo", 
+    "Agregator" : "WAC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f42695b9535ad1eeb36367a"}, 
+    "bool" : {
+        "1" : true
+    }, 
+    "status" : false, 
+    "Route" : true, 
+    "provider" : "BETSOFT", 
+    "order" : 0, 
+    "__v" : 0, 
+    "type" : [
+        "Action Games", 
+        "Slots", 
+        "Table", 
+        "Video Poker"
+    ], 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "1", 
+    "text" : "BETSOFT", 
+    "Agregator" : "BETSOFT", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f4269789535ad1eeb36367b"}, 
+    "bool" : {
+        "2" : true
+    }, 
+    "status" : false, 
+    "Route" : true, 
+    "provider" : "EZUGI", 
+    "order" : 7, 
+    "__v" : 0, 
+    "type" : [
+        "Blackjack", 
+        "Baccarat", 
+        "Roulette", 
+        "Bet on Numbers", 
+        "Automatic Roulette", 
+        "Unlimited Blackjack", 
+        "Baccarat KO", 
+        "Baccarat Super 6", 
+        "Dragon Tiger", 
+        "BaccaratQueenco", 
+        "RoulettePortomaso", 
+        "Lucky 7", 
+        "Casino Holdem", 
+        "Bet on Teen Patti and 20/20 Teen Patti", 
+        "Three Card Poker and Teen Patti", 
+        "Andar Bahar", 
+        "No Commision Baccarat"
+    ], 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "3", 
+    "text" : "EZUGI", 
+    "Agregator" : "EZUGI", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f4269929535ad1eeb36367c"}, 
+    "bool" : {
+        "2" : true
+    }, 
+    "status" : false, 
+    "Route" : true, 
+    "provider" : "VIVO", 
+    "order" : 3, 
+    "__v" : 0, 
+    "type" : [
+        "Roulette", 
+        "Baccarat", 
+        "Blackjack", 
+        "Poker", 
+        "Andar Bahar"
+    ], 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "4", 
+    "text" : "VIVO", 
+    "Agregator" : "VIVO", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f4269a99535ad1eeb36367d"}, 
+    "bool" : {
+        "2" : true
+    }, 
+    "status" : false, 
+    "Route" : true, 
+    "provider" : "XPG", 
+    "order" : 56, 
+    "__v" : 0, 
+    "type" : [
+        "AndarBahar", 
+        "Blackjack", 
+        "Baccarat", 
+        "Live Texas Hold’em Bonus ", 
+        "DragonTiger", 
+        "SicBo", 
+        "Wheel Of Fortune ", 
+        "Roulette"
+    ], 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "2", 
+    "text" : "XPG", 
+    "Agregator" : "XPG", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f81e04664fe8c3930d36ea5"}, 
+    "order" : 67, 
+    "status" : true, 
+    "Route" : true, 
+    "provider" : "GOLDENRACE", 
+    "bool" : {
+        "3" : true
+    }, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "__v" : 0, 
+    "type" : [
+        "virtual"
+    ], 
+    "Type" : "4", 
+    "LAUNCHURL" : "6", 
+    "text" : "GOLDENRACE", 
+    "Agregator" : "GOLDENRACE", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5f81e09764fe8c3930d36ea6"}, 
+    "order" : 68, 
+    "status" : false, 
+    "Route" : true, 
+    "provider" : "spinmatic", 
+    "bool" : {
+        "1" : true
+    }, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "__v" : 0, 
+    "type" : [
+        "slot"
+    ], 
+    "Type" : "4", 
+    "LAUNCHURL" : "6", 
+    "text" : "spinmatic", 
+    "Agregator" : "SPINMATIC", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fab84107eeb074b6ece21c0"}, 
+    "order" : 70, 
+    "status" : false, 
+    "Route" : true, 
+    "provider" : "BETGAMES", 
+    "bool" : {
+        "2" : true
+    }, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "__v" : 0, 
+    "LAUNCHURL" : "7", 
+    "text" : "BETGAMES", 
+    "Agregator" : "BETGAMES", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12, 
+    "type" : {
+
+    }
+}
+{ 
+    "_id" : {"$oid":"5faea2d6ad7aa40c35f14ee3"}, 
+    "order" : 71, 
+    "status" : true, 
+    "Route" : true, 
+    "provider" : "MrSlotty", 
+    "bool" : {
+        "1" : true
+    }, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "8", 
+    "text" : "MrSlotty", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea2fead7aa40c35f14ee4"}, 
+    "order" : 72, 
+    "status" : true, 
+    "Route" : true, 
+    "provider" : "Fazi", 
+    "bool" : {
+        "1" : true
+    }, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "8", 
+    "text" : "Fazi", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea316ad7aa40c35f14ee5"}, 
+    "order" : 73, 
+    "status" : true, 
+    "Route" : true, 
+    "provider" : "Kiron", 
+    "bool" : {
+        "1" : true
+    }, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "8", 
+    "text" : "Kiron", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba7873d"}, 
+    "order" : 74, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "MrSlotty", 
+    "text" : "MrSlotty", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MrSlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba78740"}, 
+    "order" : 77, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Velagaming", 
+    "text" : "Velagaming", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba78741"}, 
+    "order" : 78, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Nsoft", 
+    "text" : "Nsoft", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba78742"}, 
+    "order" : 79, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "CT Gaming", 
+    "text" : "CT Gaming", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba78743"}, 
+    "order" : 80, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Green Jade", 
+    "text" : "Green Jade", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba78744"}, 
+    "order" : 81, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "OneTouch", 
+    "text" : "OneTouch", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba78745"}, 
+    "order" : 82, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Superlotto", 
+    "text" : "Superlotto", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba78746"}, 
+    "order" : 83, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "5" : true
+    }, 
+    "provider" : "Virtual Generation", 
+    "text" : "Virtual Generation", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba78747"}, 
+    "order" : 84, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "eBet", 
+    "text" : "eBet", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba78748"}, 
+    "order" : 85, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Absolute Live Gaming", 
+    "text" : "Absolute Live Gaming", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba78749"}, 
+    "order" : 86, 
+    "status" : true, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "PGSoft", 
+    "text" : "PGSoft", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5faea6419c83fa2b5ba7874a"}, 
+    "order" : 87, 
+    "status" : false, 
+    "Route" : true, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Woohoo", 
+    "text" : "Woohoo", 
+    "LAUNCHURL" : "8", 
+    "Type" : "4", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "__v" : 0, 
+    "Agregator" : "MySlotty", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fb3f884860c39228d6bfcce"}, 
+    "order" : 88, 
+    "status" : false, 
+    "Route" : true, 
+    "provider" : "HollywoodTV", 
+    "bool" : {
+        "2" : true
+    }, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "6", 
+    "text" : "HollywoodTV", 
+    "__v" : 0, 
+    "Agregator" : "HollywoodTV", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fb4a0e751a6614de728ad4b"}, 
+    "order" : 89, 
+    "status" : false, 
+    "Route" : true, 
+    "provider" : "EVOPLAY", 
+    "bool" : {
+        "1" : true
+    }, 
+    "Money" : "0", 
+    "Percentage" : "20", 
+    "currency" : "1", 
+    "Type" : "4", 
+    "LAUNCHURL" : "9", 
+    "text" : "EVOPLAY", 
+    "__v" : 0, 
+    "Agregator" : "EVOPLAY", 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f80"}, 
+    "order" : 90, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "TrueLab", 
+    "text" : "TrueLab", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f81"}, 
+    "order" : 91, 
+    "status" : false, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Platipus", 
+    "text" : "Platipus", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f82"}, 
+    "order" : 92, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "BGaming", 
+    "text" : "BGaming", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f83"}, 
+    "order" : 93, 
+    "status" : false, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Mascot", 
+    "text" : "Mascot", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f84"}, 
+    "order" : 94, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Betsolutions", 
+    "text" : "Betsolutions", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f85"}, 
+    "order" : 95, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Gamshy", 
+    "text" : "Gamshy", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f86"}, 
+    "order" : 96, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Wazdan", 
+    "text" : "Wazdan", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f87"}, 
+    "order" : 97, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Spadegaming", 
+    "text" : "Spadegaming", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f88"}, 
+    "order" : 98, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "EAGaming", 
+    "text" : "EAGaming", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f89"}, 
+    "order" : 99, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Apollo", 
+    "text" : "Apollo", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f8a"}, 
+    "order" : 100, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Evoplay", 
+    "text" : "Evoplay", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f8b"}, 
+    "order" : 101, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Red Rake", 
+    "text" : "Red Rake", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f8c"}, 
+    "order" : 102, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Charismatic", 
+    "text" : "Charismatic", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f8d"}, 
+    "order" : 103, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Edgevirtuals", 
+    "text" : "Edgevirtuals", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f8e"}, 
+    "order" : 104, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Wearecasino", 
+    "text" : "Wearecasino", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f8f"}, 
+    "order" : 105, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Tpg", 
+    "text" : "Tpg", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f90"}, 
+    "order" : 106, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Booongo", 
+    "text" : "Booongo", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f91"}, 
+    "order" : 107, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Play Pearls", 
+    "text" : "Play Pearls", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f92"}, 
+    "order" : 108, 
+    "status" : false, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Elbet", 
+    "text" : "Elbet", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f93"}, 
+    "order" : 109, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Slotexchange", 
+    "text" : "Slotexchange", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f94"}, 
+    "order" : 110, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Caleta", 
+    "text" : "Caleta", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f95"}, 
+    "order" : 111, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Kalamba", 
+    "text" : "Kalamba", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f96"}, 
+    "order" : 112, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "LiW", 
+    "text" : "LiW", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f97"}, 
+    "order" : 113, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Kagaming", 
+    "text" : "Kagaming", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f98"}, 
+    "order" : 114, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Tomhorn", 
+    "text" : "Tomhorn", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f99"}, 
+    "order" : 115, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "AllwaySpin", 
+    "text" : "AllwaySpin", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f9a"}, 
+    "order" : 116, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "Netgame", 
+    "text" : "Netgame", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f9b"}, 
+    "order" : 117, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "SimplePlay", 
+    "text" : "SimplePlay", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f9c"}, 
+    "order" : 118, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "TripleCherry", 
+    "text" : "TripleCherry", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f9d"}, 
+    "order" : 119, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "2" : true
+    }, 
+    "provider" : "Sagaming", 
+    "text" : "Sagaming", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f9e"}, 
+    "order" : 120, 
+    "status" : false, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true, 
+        "6" : true
+    }, 
+    "provider" : "Games Inc", 
+    "text" : "Games Inc", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412f9f"}, 
+    "order" : 121, 
+    "status" : false, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true
+    }, 
+    "provider" : "NetGaming", 
+    "text" : "NetGaming", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"5fd1ef7b1ff643104a412fa0"}, 
+    "order" : 122, 
+    "status" : true, 
+    "Route" : false, 
+    "bool" : {
+        "1" : true, 
+        "6" : true
+    }, 
+    "provider" : "Indi Games", 
+    "text" : "Indi Games", 
+    "LAUNCHURL" : "8", 
+    "Type" : "1", 
+    "currency" : "1", 
+    "Percentage" : "20", 
+    "Money" : "0", 
+    "Agregator" : "MySlotty", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12
+}
+{ 
+    "_id" : {"$oid":"6015834ef2d17526b0e73255"}, 
+    "order" : 124, 
+    "status" : false, 
+    "Route" : true, 
+    "provider" : "7Mojos", 
+    "bool" : {
+        "2" : true
+    }, 
+    "Money" : "1", 
+    "Percentage" : "20", 
+    "currency" : "2", 
+    "Type" : "1", 
+    "LAUNCHURL" : "12", 
+    "text" : "7 Mojos", 
+    "Agregator" : "7 Mojos", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12, 
+    "type" : {
+
+    }
+}
+{ 
+    "_id" : {"$oid":"6022715224956c2cc7401eb2"}, 
+    "order" : 126, 
+    "status" : false, 
+    "Route" : true, 
+    "provider" : "7Mojos-casino", 
+    "bool" : {
+        "1" : true
+    }, 
+    "Money" : "1", 
+    "Percentage" : "20", 
+    "currency" : "2", 
+    "Type" : "1", 
+    "LAUNCHURL" : "12", 
+    "text" : "7Mojos - Casino", 
+    "Agregator" : "7Mojos", 
+    "__v" : 0, 
+    "InputPercentage" : 6, 
+    "OutputPercentage" : 12, 
+    "type" : {
+
+    }
+}

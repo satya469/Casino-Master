@@ -1,0 +1,7 @@
+{ 
+    "_id" : {"$oid":"606a928c26d10116d07a0977"}, 
+    "comment" : "Holiday Test ", 
+    "RestrictionDate" : "2021-04-05", 
+    "type" : "payment", 
+    "__v" : 0
+}

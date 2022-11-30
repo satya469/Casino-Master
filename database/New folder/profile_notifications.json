@@ -1,0 +1,102 @@
+{ 
+    "_id" : {"$oid":"600ec8b53f8f0dc724628c3d"}, 
+    "email" : "check3810@gmail.com", 
+    "__v" : 0, 
+    "emailnotification" : true, 
+    "internalmessage" : true, 
+    "phonecall" : true, 
+    "pushnotification" : true, 
+    "sms" : true
+}
+{ 
+    "_id" : {"$oid":"602bd44b3f8f0dc724865bda"}, 
+    "email" : "steve@igamez.ai", 
+    "__v" : 0, 
+    "emailnotification" : true, 
+    "internalmessage" : false, 
+    "phonecall" : true, 
+    "pushnotification" : true, 
+    "sms" : true, 
+    "date" : {"$date":"2021-02-24T16:37:51.165+0000"}
+}
+{ 
+    "_id" : {"$oid":"604957ba571a9afc54302f9d"}, 
+    "email" : null, 
+    "__v" : 0, 
+    "emailnotification" : true, 
+    "internalmessage" : true, 
+    "phonecall" : true, 
+    "pushnotification" : true, 
+    "sms" : false, 
+    "date" : {"$date":"2021-03-12T05:28:04.086+0000"}
+}
+{ 
+    "_id" : {"$oid":"604a8ac9571a9afc5432b260"}, 
+    "email" : "pridetest@gmail.com", 
+    "__v" : 0, 
+    "emailnotification" : true, 
+    "internalmessage" : false, 
+    "phonecall" : false, 
+    "pushnotification" : false, 
+    "sms" : true
+}
+{ 
+    "_id" : {"$oid":"607fca50a971e5aa48454d12"}, 
+    "email" : "sgofficial202@gmail.com", 
+    "__v" : 0, 
+    "emailnotification" : true, 
+    "internalmessage" : true, 
+    "phonecall" : true, 
+    "pushnotification" : true, 
+    "sms" : true
+}
+{ 
+    "_id" : {"$oid":"60c221efa971e5aa48907f50"}, 
+    "email" : "aparanuskaikar05@gmail.com", 
+    "__v" : 0, 
+    "emailnotification" : true, 
+    "internalmessage" : true, 
+    "phonecall" : true, 
+    "pushnotification" : true, 
+    "sms" : true
+}
+{ 
+    "_id" : {"$oid":"60c42fc8a971e5aa48a81f37"}, 
+    "email" : "ganesh1079@gmail.com", 
+    "__v" : 0, 
+    "emailnotification" : true, 
+    "internalmessage" : false, 
+    "phonecall" : false, 
+    "pushnotification" : false, 
+    "sms" : true
+}
+{ 
+    "_id" : {"$oid":"60ce7bd4a971e5aa4813a66d"}, 
+    "email" : "varshauskaikar05@gmail.com", 
+    "__v" : 0, 
+    "emailnotification" : true, 
+    "internalmessage" : true, 
+    "phonecall" : true, 
+    "pushnotification" : true, 
+    "sms" : true
+}
+{ 
+    "_id" : {"$oid":"60e47b11a971e5aa48bfa509"}, 
+    "email" : "harishkumarkumar933@gmail.com", 
+    "__v" : 0, 
+    "emailnotification" : true, 
+    "internalmessage" : true, 
+    "phonecall" : true, 
+    "pushnotification" : true, 
+    "sms" : true
+}
+{ 
+    "_id" : {"$oid":"60e9809ba971e5aa48ea7301"}, 
+    "email" : "imran8889@gmail.com", 
+    "__v" : 0, 
+    "emailnotification" : true, 
+    "internalmessage" : true, 
+    "phonecall" : true, 
+    "pushnotification" : true, 
+    "sms" : true
+}

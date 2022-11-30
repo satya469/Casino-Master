@@ -1,0 +1,215 @@
+{ 
+    "_id" : {"$oid":"5f2b0cfbad3272604da0e031"}, 
+    "type" : "logoimg", 
+    "content" : "16589aa443623cc141d36f00fab256fe.png", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f2b156fa1760569d523306e"}, 
+    "type" : "trackcode", 
+    "content" : "UA-174475422-1", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f3a3901ed97f23a7d3e0ba3"}, 
+    "type" : "title", 
+    "content" : "Best Online Casino Slot & Live Games ! For 18+ Only ! Be Responsible", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f3a391ded97f23a7d3e0ba4"}, 
+    "type" : "favicon", 
+    "content" : "d118e337e293979024bf27603219b5b0.png", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f3a392ced97f23a7d3e0ba5"}, 
+    "type" : "footertext", 
+    "content" : "Fairbets is operated by Three Aces Curaçao N.V., registered in Curaçao under the number 155000, with the address at Heelsumstraat 51, Vredenberg, Willemstad, P.O. box Orionweg 5 C, Curaçao, authorized by General Governor of Curaçao through Antillephone N.V. under the gaming license number 8048/JAZ 2020-078 which owns and operates the website www.fairbets.co. The transactions are processed by Three Aces Digital Ltd. registered with the number 12965655, with head office at Kemp House, 160, City Road, London - United Kingdom.", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5fa553b23029af23eb42cebc"}, 
+    "type" : "cmsfootertext", 
+    "content" : "Copyright © 2021 Fairbets. All rights reserved.\n", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5fc0c71bb3c5911280221d82"}, 
+    "type" : "appurl", 
+    "content" : "fairbets.1.0.46-47.apk", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60559b3a43770bfd4c921f71"}, 
+    "type" : "Referrallink", 
+    "__v" : 0, 
+    "content" : "https://t.me/1234sdfsdf"
+}
+{ 
+    "_id" : {"$oid":"60476aef3b41eb5241f7f66c"}, 
+    "type" : "signupbuttons", 
+    "content" : true, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"605838b74f2fb0be2e6c1fbc"}, 
+    "type" : "appversion", 
+    "__v" : 0, 
+    "content" : {
+        "versionName" : "1.0.46", 
+        "versionCode" : "47", 
+        "forceUpdate" : false, 
+        "apkUrl" : "fairbets.1.0.46-47.apk"
+    }
+}
+{ 
+    "_id" : {"$oid":"6066d564b6eaa47bd8baba15"}, 
+    "type" : "XpressCredential", 
+    "__v" : 0, 
+    "content" : {
+        "privateKey" : "37qvt4SjFplC8om0kdCC", 
+        "publicKey" : "KGZ3V6ajBayJipZ", 
+        "launchUrl" : "https://fairbetsco.hub.xpressgaming.net/Launcher", 
+        "apiUrl" : "https://fairbetsco.api-hub.xpressgaming.net"
+    }
+}
+{ 
+    "_id" : {"$oid":"6069c6dab6eaa47bd8bef39b"}, 
+    "type" : "Friendly", 
+    "__v" : 0, 
+    "content" : {
+        "min" : "500", 
+        "max" : "50000", 
+        "percent" : "10"
+    }
+}
+{ 
+    "_id" : {"$oid":"6069c6e3b6eaa47bd8bef3b4"}, 
+    "type" : "SessionExpiresSetting", 
+    "__v" : 0, 
+    "content" : {
+        "UserSession" : "1000", 
+        "GameSession" : "900"
+    }
+}
+{ 
+    "_id" : {"$oid":"606af3f9b6eaa47bd8c1ff9e"}, 
+    "type" : "WACCreential", 
+    "__v" : 0, 
+    "content" : {
+        "operatorToken" : "fairbets", 
+        "LaunchUrl" : "https://pi.njoybingo.com/game.do?"
+    }
+}
+{ 
+    "_id" : {"$oid":"606c4323b6eaa47bd8c42754"}, 
+    "type" : "MojosCreential", 
+    "__v" : 0, 
+    "content" : {
+        "operatorToken" : "90401c13011d4b2b8315c40ebafa0d0d", 
+        "LaunchUrl" : "https://de-games.svmsrv.com?", 
+        "casinoHost" : "https://de-se.svmsrv.com", 
+        "LiveCasinoHost" : "https://de-lce.svmsrv.com", 
+        "hashkey" : "41f7-ada8-344476d3390a"
+    }
+}
+{ 
+    "_id" : {"$oid":"606cb07ab6eaa47bd8c54d9b"}, 
+    "type" : "LiveChatSetting", 
+    "__v" : 0, 
+    "content" : {
+        "status" : true, 
+        "src" : "https://embed.tawk.to/6065ae9af7ce182709362201/1f26j444s", 
+        "directsrc" : "https://tawk.to/chat/6065ae9af7ce182709362201/1f26j444s"
+    }
+}
+{ 
+    "_id" : {"$oid":"606cb873b6eaa47bd8c5648e"}, 
+    "type" : "FeedBackSetting", 
+    "__v" : 0, 
+    "content" : {
+        "status" : true, 
+        "src" : "https://static.hotjar.com/c/hotjar-", 
+        "hjid" : "2281317", 
+        "hjsv" : "6"
+    }
+}
+{ 
+    "_id" : {"$oid":"606cba61b6eaa47bd8c56c07"}, 
+    "type" : "LicenSeSetting", 
+    "__v" : 0, 
+    "content" : {
+        "status" : true, 
+        "src" : "https://95481486-2e31-454b-bc94-b0c32624a772.snippet.antillephone.com/apg-seal.js", 
+        "htmlcode" : "<div id=\"apg-95481486-2e31-454b-bc94-b0c32624a772\" className='license' data-apg-seal-id=\"95481486-2e31-454b-bc94-b0c32624a772\" data-apg-image-size=\"128\" data-apg-image-type=\"basic-small\">         </div>", 
+        "tagId" : "apg-95481486-2e31-454b-bc94-b0c32624a772", 
+        "functionName" : "apg_95481486_2e31_454b_bc94_b0c32624a772"
+    }
+}
+{ 
+    "_id" : {"$oid":"607b1674a971e5aa4839efff"}, 
+    "type" : "TimerButton", 
+    "__v" : 0, 
+    "content" : false
+}
+{ 
+    "_id" : {"$oid":"607d6bffa971e5aa483f3973"}, 
+    "type" : "forgotpassword", 
+    "__v" : 0, 
+    "content" : true
+}
+{ 
+    "_id" : {"$oid":"607d6c8ea971e5aa483f3dc0"}, 
+    "type" : "SendyConfig", 
+    "__v" : 0, 
+    "content" : {
+        "apikey" : "NnUWvWUjbxemiJZd67rG", 
+        "apiurl" : "http://ses.igamez.ai/", 
+        "list_id" : "a3G6P892c708JI92hhP9MKXg", 
+        "list_id1" : "sk3miB4UTpjdj88924OEb8nw"
+    }
+}
+{ 
+    "_id" : {"$oid":"608fb594a971e5aa487dc165"}, 
+    "type" : "DownloadButton", 
+    "__v" : 0, 
+    "content" : true
+}
+{ 
+    "_id" : {"$oid":"60b4db07a971e5aa48390fbf"}, 
+    "type" : "PlatFormFees", 
+    "__v" : 0, 
+    "content" : {
+        "status" : false, 
+        "comission" : ""
+    }
+}
+{ 
+    "_id" : {"$oid":"60c1f3a5a971e5aa488b6d2f"}, 
+    "type" : "sportslimit", 
+    "__v" : 0, 
+    "content" : "100"
+}
+{ 
+    "_id" : {"$oid":"60eff9b7a971e5aa482a2ef1"}, 
+    "type" : "Betdelaytime", 
+    "__v" : 0, 
+    "content" : "6000"
+}
+{ 
+    "_id" : {"$oid":"6103e5efc6f0604aa51d49cb"}, 
+    "type" : "ExposureLimit", 
+    "__v" : 0, 
+    "content" : {
+        "exchangelimit" : "", 
+        "sportsbooklimit" : "", 
+        "sattalimit" : "5000000"
+    }
+}
+{ 
+    "_id" : {"$oid":"61058ef8c6f0604aa5370413"}, 
+    "type" : "Cancelwithdrawal", 
+    "__v" : 0, 
+    "content" : true
+}

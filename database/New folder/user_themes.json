@@ -1,0 +1,128 @@
+{ 
+    "_id" : {"$oid":"5f6ce1ac113ea23b98a87a30"}, 
+    "layout" : "vertical", 
+    "theme" : "dark", 
+    "sidebarCollapsed" : false, 
+    "navbarColor" : "default", 
+    "navbarType" : "floating", 
+    "footerType" : "static", 
+    "disableCustomizer" : false, 
+    "hideScrollToTop" : false, 
+    "disableThemeTour" : false, 
+    "menuTheme" : "info", 
+    "direction" : "ltr", 
+    "email" : "superadmin@gmail.com", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"5f9eb7e71d9ef24f9daa19d8"}, 
+    "layout" : "vertical", 
+    "theme" : "light", 
+    "sidebarCollapsed" : false, 
+    "navbarColor" : "success", 
+    "navbarType" : "sticky", 
+    "footerType" : "hidden", 
+    "disableCustomizer" : false, 
+    "hideScrollToTop" : false, 
+    "disableThemeTour" : false, 
+    "menuTheme" : "success", 
+    "direction" : "ltr", 
+    "email" : "nikolairevkin@gmail.com", 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6070258ab6eaa47bd8cc26d1"}, 
+    "email" : "demo123@gmail.com", 
+    "__v" : 0, 
+    "direction" : "ltr", 
+    "disableCustomizer" : false, 
+    "disableThemeTour" : false, 
+    "footerType" : "hidden", 
+    "hideScrollToTop" : false, 
+    "layout" : "horizontal", 
+    "menuTheme" : "primary", 
+    "navbarColor" : "primary", 
+    "navbarType" : "static", 
+    "sidebarCollapsed" : true, 
+    "theme" : "real-dark"
+}
+{ 
+    "_id" : {"$oid":"607fcb8ca971e5aa4845526d"}, 
+    "email" : "sgofficial202@gmail.com", 
+    "__v" : 0, 
+    "direction" : "ltr", 
+    "disableCustomizer" : false, 
+    "disableThemeTour" : false, 
+    "footerType" : "static", 
+    "hideScrollToTop" : false, 
+    "layout" : "horizontal", 
+    "menuTheme" : "warning", 
+    "navbarColor" : "warning", 
+    "navbarType" : "sticky", 
+    "sidebarCollapsed" : true, 
+    "theme" : "real-dark"
+}
+{ 
+    "_id" : {"$oid":"60b09786a971e5aa4822e3b3"}, 
+    "email" : "kc@GMAIL.COM", 
+    "__v" : 0, 
+    "direction" : "ltr", 
+    "disableCustomizer" : false, 
+    "disableThemeTour" : false, 
+    "footerType" : "static", 
+    "hideScrollToTop" : false, 
+    "layout" : "vertical", 
+    "menuTheme" : "warning", 
+    "navbarColor" : "success", 
+    "navbarType" : "floating", 
+    "sidebarCollapsed" : true, 
+    "theme" : "light"
+}
+{ 
+    "_id" : {"$oid":"60b09786a971e5aa4822e3b4"}, 
+    "email" : "kc@GMAIL.COM", 
+    "__v" : 0, 
+    "direction" : "ltr", 
+    "disableCustomizer" : false, 
+    "disableThemeTour" : false, 
+    "footerType" : "static", 
+    "hideScrollToTop" : false, 
+    "layout" : "vertical", 
+    "menuTheme" : "warning", 
+    "navbarColor" : "success", 
+    "navbarType" : "floating", 
+    "sidebarCollapsed" : true, 
+    "theme" : "light"
+}
+{ 
+    "_id" : {"$oid":"60b72723a971e5aa484628fa"}, 
+    "email" : "superigamez@gmail.com", 
+    "__v" : 0, 
+    "direction" : "ltr", 
+    "disableCustomizer" : false, 
+    "disableThemeTour" : false, 
+    "footerType" : "static", 
+    "hideScrollToTop" : false, 
+    "layout" : "vertical", 
+    "menuTheme" : "success", 
+    "navbarColor" : "success", 
+    "navbarType" : "sticky", 
+    "sidebarCollapsed" : false, 
+    "theme" : "dark"
+}
+{ 
+    "_id" : {"$oid":"60c31d01a971e5aa489bcab8"}, 
+    "email" : "birju@gmail.com", 
+    "__v" : 0, 
+    "direction" : "ltr", 
+    "disableCustomizer" : false, 
+    "disableThemeTour" : false, 
+    "footerType" : "static", 
+    "hideScrollToTop" : false, 
+    "layout" : "vertical", 
+    "menuTheme" : "success", 
+    "navbarColor" : "success", 
+    "navbarType" : "floating", 
+    "sidebarCollapsed" : false, 
+    "theme" : "semi-dark"
+}

@@ -1,0 +1,297 @@
+
+{ 
+    "_id" : {"$oid":"60171b1603c5293ea7971c35"}, 
+    "pid" : "0", 
+    "id" : "1612130402488", 
+    "title" : "MY_WALLET", 
+    "navLink" : "mywallet", 
+    "icon" : "FaMoneyCheck", 
+    "status" : true, 
+    "type" : "collapse", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobileicon" : "SimpleLineIcons$wallet", 
+    "mobilestatus" : true
+}
+{ 
+    "_id" : {"$oid":"60171b2403c5293ea7971c36"}, 
+    "pid" : "1612130402488", 
+    "id" : "1612130417079", 
+    "title" : "DEPOSIT", 
+    "navLink" : "/mywallet/deposit", 
+    "icon" : "FaMoneyBillAlt", 
+    "status" : true, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "mobilestatus" : true
+}
+{ 
+    "_id" : {"$oid":"60171b3003c5293ea7971c37"}, 
+    "pid" : "1612130402488", 
+    "id" : "1612130429511", 
+    "title" : "WITHDRAWAL", 
+    "navLink" : "/mywallet/withdraw", 
+    "icon" : "FaMoneyBillAlt", 
+    "status" : true, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "mobilestatus" : true
+}
+{ 
+    "_id" : {"$oid":"601725c828d7344e187927ac"}, 
+    "pid" : "0", 
+    "id" : "1612133140702", 
+    "title" : "MY_PROFILE", 
+    "navLink" : "profile-info", 
+    "icon" : "FaRegUser", 
+    "status" : true, 
+    "type" : "collapse", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobileicon" : "SimpleLineIcons$user", 
+    "mobilestatus" : true
+}
+{ 
+    "_id" : {"$oid":"6017265a28d7344e187927ad"}, 
+    "pid" : "1612133140702", 
+    "id" : "1612133287628", 
+    "title" : "PROFILE_INFORMATION", 
+    "navLink" : "/myprofile/profile-info", 
+    "icon" : "FaRegUserCircle", 
+    "status" : true, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "mobilestatus" : true
+}
+{ 
+    "_id" : {"$oid":"6017266e28d7344e187927ae"}, 
+    "pid" : "1612133140702", 
+    "id" : "1612133307006", 
+    "title" : "CHANGE_PASSWORD", 
+    "navLink" : "/myprofile/change-password", 
+    "icon" : "FaUserLock", 
+    "status" : true, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "mobilestatus" : true
+}
+{ 
+    "_id" : {"$oid":"60172a748c1df35908b71abb"}, 
+    "pid" : "0", 
+    "id" : "1612134336294", 
+    "title" : "MY_BETS", 
+    "navLink" : "bethistory", 
+    "icon" : "FaRegPlayCircle", 
+    "status" : true, 
+    "type" : "collapse", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobileicon" : "SimpleLineIcons$layers", 
+    "mobilestatus" : true
+}
+{ 
+    "_id" : {"$oid":"60172a968c1df35908b71abc"}, 
+    "pid" : "1612134336294", 
+    "id" : "1612134370701", 
+    "title" : "SPORTS_BOOK", 
+    "navLink" : "/bethistory", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "type" : "item", 
+    "order" : 1, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "mobilestatus" : true
+}
+{ 
+    "_id" : {"$oid":"60172ab28c1df35908b71abd"}, 
+    "pid" : "1612134336294", 
+    "id" : "1612134398453", 
+    "title" : "CASINO_GAMES", 
+    "navLink" : "/Mybets/casinos", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "type" : "item", 
+    "order" : 2, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "mobilestatus" : true
+}
+{ 
+    "_id" : {"$oid":"60172b108c1df35908b71abe"}, 
+    "pid" : "1612134336294", 
+    "id" : "1612134492300", 
+    "title" : "SATTA", 
+    "navLink" : "/Mybets/satta", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "type" : "item", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "mobilestatus" : true
+}
+{ 
+    "_id" : {"$oid":"605760809f69ac53dcc7021c"}, 
+    "mobileicon" : "FontAwesome$wechat", 
+    "pid" : "0", 
+    "id" : "1616339026437", 
+    "title" : "LIVE_CHAT", 
+    "navLink" : "Livechat", 
+    "icon" : "Fawechat", 
+    "status" : false, 
+    "type" : "item", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "mobilestatus" : true, 
+    "sourcesrc" : "https://tawk.to/chat/6065ae9af7ce182709362201/1f26j444s"
+}
+{ 
+    "_id" : {"$oid":"60b8a6ba6f2817116a0f97c4"}, 
+    "mobileicon" : "FontAwesome$telegram", 
+    "pid" : "0", 
+    "id" : "1622713864555", 
+    "title" : "TELEGRAM", 
+    "navLink" : "telegram", 
+    "icon" : "FaTelegramPlane", 
+    "status" : false, 
+    "type" : "item", 
+    "mobilestatus" : true, 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "sourcesrc" : "https://t.me/Meher006"
+}
+{ 
+    "_id" : {"$oid":"60c05fcada7e8a200da00041"}, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "pid" : "1612134336294", 
+    "id" : "1623219985081", 
+    "title" : "EXPOSURE", 
+    "navLink" : "/Mybets/exposure", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "type" : "item", 
+    "mobilestatus" : true, 
+    "order" : 4, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "sourcesrc" : "fff"
+}
+{ 
+    "_id" : {"$oid":"60c30bf43c73be6bb246e5b9"}, 
+    "mobileicon" : "FontAwesome$phone", 
+    "pid" : "0", 
+    "id" : "1623395126199", 
+    "title" : "CALL", 
+    "navLink" : "call", 
+    "icon" : "CALL", 
+    "status" : false, 
+    "type" : "item", 
+    "mobilestatus" : true, 
+    "order" : 7, 
+    "children" : [
+
+    ], 
+    "__v" : 0, 
+    "sourcesrc" : "tel:0008009191084"
+}
+{ 
+    "_id" : {"$oid":"60effb1b8d081c0faf529a2c"}, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "pid" : "1612130402488", 
+    "id" : "1626339879463", 
+    "title" : "CANCEL_WITHDRAWAL", 
+    "navLink" : "/mywallet/cancelwithdraw", 
+    "icon" : "FaMoneyBillAlt", 
+    "status" : false, 
+    "type" : "item", 
+    "mobilestatus" : true, 
+    "sourcesrc" : "123", 
+    "order" : 3, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"60fc296aaffeae7a091ed582"}, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "pid" : "1612134336294", 
+    "id" : "1627138148637", 
+    "title" : "BETEXCHG", 
+    "navLink" : "/Mybets/betexchg", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "type" : "item", 
+    "mobilestatus" : true, 
+    "sourcesrc" : "1", 
+    "order" : 5, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"61064f9de860362aa12eb715"}, 
+    "mobileicon" : "FontAwesome$life-buoy", 
+    "pid" : "1612134336294", 
+    "id" : "1627803270075", 
+    "title" : "Account Statement", 
+    "navLink" : "/Mybets/accountstatement", 
+    "icon" : "FaGamepad", 
+    "status" : true, 
+    "type" : "item", 
+    "mobilestatus" : true, 
+    "sourcesrc" : "1", 
+    "order" : 6, 
+    "children" : [
+
+    ], 
+    "__v" : 0
+}

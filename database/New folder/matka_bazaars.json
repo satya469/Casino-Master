@@ -1,0 +1,5108 @@
+{ 
+    "_id" : {"$oid":"600bf1b710c0e651b5fee1b1"}, 
+    "status" : false, 
+    "bazaarname" : "BALAJI", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "17:25"
+    }, 
+    "updated_at" : {"$date":"2021-01-23T09:51:51.324+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "3", 
+            "oddsprice" : "3", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "12", 
+            "oddsprice" : "6", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "55", 
+            "oddsprice" : "4", 
+            "status" : true
+        }
+    }, 
+    "isdelete" : true, 
+    "blocktime" : 12, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "resultmode" : true, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"600bf1ec10c0e651b5fee1b2"}, 
+    "status" : false, 
+    "bazaarname" : "BHOOTNATH MORNING", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "18:10", 
+        "closetime" : "18:20"
+    }, 
+    "updated_at" : {"$date":"2021-01-23T09:52:44.543+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "12", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "2", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "3", 
+            "oddsprice" : "12", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "4", 
+            "oddsprice" : "2", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "5", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "6", 
+            "oddsprice" : "4", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "9", 
+            "oddsprice" : "8", 
+            "status" : true
+        }
+    }, 
+    "isdelete" : true, 
+    "blocktime" : 3, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "resultmode" : true, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"60696f1b53ebac7703bd4f87"}, 
+    "status" : false, 
+    "bazaarname" : "NEW ADD", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "11:25", 
+        "closetime" : "11:40"
+    }, 
+    "updated_at" : {"$date":"2021-04-04T07:47:39.754+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }, 
+    "isdelete" : true, 
+    "blocktime" : 5, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "resultmode" : true, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"6069dd3972ce724c29d3184f"}, 
+    "status" : false, 
+    "bazaarname" : "demo s starline", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "14:0", 
+        "closetime" : "14:0", 
+        "interval" : "7"
+    }, 
+    "updated_at" : {"$date":"2021-04-04T15:37:29.976+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }
+    }, 
+    "isdelete" : true, 
+    "blocktime" : 0, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "resultmode" : true, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"6069df9372ce724c29d31872"}, 
+    "status" : false, 
+    "bazaarname" : "tt c", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "14:15", 
+        "closetime" : "3:30"
+    }, 
+    "updated_at" : {"$date":"2021-04-04T15:47:31.884+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "05", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }, 
+    "isdelete" : true
+}
+{ 
+    "_id" : {"$oid":"6069e75072ce724c29d318c1"}, 
+    "status" : false, 
+    "bazaarname" : "test 1", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "11:50", 
+        "closetime" : "11:0"
+    }, 
+    "updated_at" : {"$date":"2021-04-04T16:20:32.613+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }, 
+    "isdelete" : true
+}
+{ 
+    "_id" : {"$oid":"606c210b9de5015d8983f82c"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T13:45:30.745+0000"}, 
+    "bazaarname" : "facebook", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "14:40", 
+        "closetime" : "15:0"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }, 
+    "isdelete" : true
+}
+{ 
+    "_id" : {"$oid":"606c28489de5015d8983f957"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T13:45:30.745+0000"}, 
+    "bazaarname" : "hike", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "14:55", 
+        "closetime" : "15:20"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }, 
+    "isdelete" : true
+}
+{ 
+    "_id" : {"$oid":"606c2a379de5015d8983fbf0"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T13:45:30.745+0000"}, 
+    "bazaarname" : "Test Bazar 123", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "15:10", 
+        "closetime" : "16:0"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "140", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "180", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "", 
+            "status" : false
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }, 
+    "isdelete" : true
+}
+{ 
+    "_id" : {"$oid":"606c7ba2cffb2b53210b4b96"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T20:35:09.708+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "Test 124", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:0", 
+        "closetime" : "21:5"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "140", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606c7e57cffb2b53210b4c88"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T20:35:09.708+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "Test Rollback", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:10", 
+        "closetime" : "21:15"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "140", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606c83bccffb2b53210b4c96"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T20:35:09.708+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "Satrk Market", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:52", 
+        "closetime" : "21:37"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "8000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : 0, 
+            "oddsprice" : "0", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606c8b1dcffb2b53210b4cad"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T20:35:09.708+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "Stark market", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "22:0", 
+        "closetime" : "22:10"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : false
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : false
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : false
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606c9051cffb2b53210b4cb7"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T20:35:09.708+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "Main Super ", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "18:10", 
+        "closetime" : "18:15"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606c961eaaba49711b296242"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T22:23:05.102+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "Matka Bazar ", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "22:55", 
+        "closetime" : "23:10"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "140", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "180", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606c96f3aaba49711b29624c"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T22:23:05.102+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "Main Bazar Newww", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "22:50", 
+        "closetime" : "23:0"
+    }, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"606c9dd8aaba49711b296259"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T22:23:05.102+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "Newwwwww", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "23:20", 
+        "closetime" : "23:20"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "140", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606ca47eaaba49711b29627c"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-06T22:23:05.102+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "TELEGRAM", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "23:50", 
+        "closetime" : "23:55"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606cab1543b1ec0dfd971c90"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-07T00:09:19.333+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "main super 1", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "0:23", 
+        "closetime" : "0:25"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606cab2d43b1ec0dfd971c91"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-07T00:09:19.333+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "INSTAGRAM", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "0:20", 
+        "closetime" : "0:25"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606cb22dd7b60a168540fc5c"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-07T00:38:00.715+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "FBINSTA", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "1:10", 
+        "closetime" : "1:25"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606d52bfee1384418d34e954"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-07T10:51:13.539+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "test without rollback open and close", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "12:15", 
+        "closetime" : "12:20"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606d5a11ee1384418d34e974"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-07T10:51:13.539+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "TEST JODI HS  FS", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "12:45", 
+        "closetime" : "12:50"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606d84feee1384418d34e98d"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-07T10:51:13.539+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "ROLL BACKK OPEN", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "22:10", 
+        "closetime" : "22:55"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606df4664106da0e821bae4c"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-07T22:14:51.537+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "Test Market 007", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "23:45", 
+        "closetime" : "23:45"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "140", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "180", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "", 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606df94a4106da0e821bae5e"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-07T22:14:51.537+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "Test 008", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "0:10", 
+        "closetime" : "0:10"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"606eb4b14106da0e821bae7a"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-07T22:14:51.537+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "day1", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "13:30", 
+        "closetime" : "14:25"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "05", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "400", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"607015014cc3a417b5dec15b"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-09T14:10:23.727+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "day2", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "14:30", 
+        "closetime" : "14:30"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "140", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "280", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "400", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60701c5f2430811e1d9866de"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-09T14:33:39.668+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "name3", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "15:0", 
+        "closetime" : "15:0"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "010", 
+            "oddsprice" : "140", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "280", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "400", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"607197558695107b09ef6712"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-10T17:45:55.479+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "new check", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "23:0", 
+        "closetime" : "23:30", 
+        "interval" : "6"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6071c1c718831b4981447401"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-10T20:16:10.701+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "TEST SINGLE ANK", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:30", 
+        "closetime" : "21:40"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6071c23718831b4981447402"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-10T20:16:10.701+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "TEST JODI", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:30", 
+        "closetime" : "21:40"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6071c24918831b4981447403"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-10T20:16:10.701+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "TEST SINGLE PATTI", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:30", 
+        "closetime" : "21:40"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6071c25b18831b4981447404"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-10T20:16:10.701+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "TEST DOUBLE PATTI", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:30", 
+        "closetime" : "21:40"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }, 
+    "blocktime" : 0, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "resultmode" : false, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"6071c26918831b4981447405"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-10T20:16:10.701+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "TEST TRIPPLE PATTI", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:35", 
+        "closetime" : "21:45"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }, 
+    "blocktime" : 0, 
+    "hightlight" : false, 
+    "notification" : false, 
+    "resultmode" : false, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"6071c27718831b4981447406"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-10T20:16:10.701+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "TEST HALF SANGAM", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:40", 
+        "closetime" : "21:45"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1500", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "3000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6071d01e18831b49814474e1"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-10T20:16:10.701+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "starline all", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "11:0", 
+        "closetime" : "23:0", 
+        "interval" : "12"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }
+    }, 
+    "blocktime" : 5, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "resultmode" : true, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"6071d1cb1b8de9750f162586"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-10T21:52:48.627+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "NEW MUMBAI", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "22:15", 
+        "closetime" : "23:0", 
+        "interval" : "12"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }, 
+    "blocktime" : 0, 
+    "hightlight" : false, 
+    "notification" : false, 
+    "resultmode" : false, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"6071d8520691af787f05bd9d"}, 
+    "status" : false, 
+    "updated_at" : {"$date":"2021-04-10T21:59:50.692+0000"}, 
+    "isdelete" : true, 
+    "bazaarname" : "KAMDHENU", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "22:35"
+    }, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }, 
+    "blocktime" : 0, 
+    "hightlight" : false, 
+    "notification" : false, 
+    "resultmode" : false, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"607338b558ab6a2b68ccf443"}, 
+    "status" : false, 
+    "isdelete" : true, 
+    "bazaarname" : "NEW1", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "23:30", 
+        "closetime" : "11:30", 
+        "interval" : "12"
+    }, 
+    "updated_at" : {"$date":"2021-04-11T23:28:13.438+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6073391a58ab6a2b68ccf444"}, 
+    "status" : false, 
+    "isdelete" : true, 
+    "bazaarname" : "NEW2", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "23:30", 
+        "closetime" : "0:30", 
+        "interval" : "6"
+    }, 
+    "updated_at" : {"$date":"2021-04-11T23:29:54.449+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }
+    }, 
+    "blocktime" : 0, 
+    "hightlight" : false, 
+    "notification" : false, 
+    "resultmode" : false, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"60733e0b58ab6a2b68ccf446"}, 
+    "status" : false, 
+    "isdelete" : true, 
+    "bazaarname" : "KAMDHENU STARLINE", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "23:0", 
+        "closetime" : "0:0", 
+        "interval" : "6"
+    }, 
+    "updated_at" : {"$date":"2021-04-11T23:50:59.188+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6073e5b158ab6a2b68ccf44d"}, 
+    "status" : false, 
+    "isdelete" : true, 
+    "bazaarname" : "day", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "12:0", 
+        "closetime" : "12:0", 
+        "interval" : "12"
+    }, 
+    "updated_at" : {"$date":"2021-04-12T11:46:17.118+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6073e6b758ab6a2b68ccf454"}, 
+    "status" : false, 
+    "isdelete" : true, 
+    "bazaarname" : "KALYANSTARLINE", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "11:0", 
+        "closetime" : "22:0", 
+        "interval" : "12"
+    }, 
+    "updated_at" : {"$date":"2021-04-12T11:50:39.239+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"607ae32cbccdc85e24009941"}, 
+    "status" : false, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : true, 
+    "bazaarname" : "Test - for Mobile", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "23:0", 
+        "closetime" : "23:55"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-17T19:01:24.521+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088382195ab1c5757ea55b8"}, 
+    "status" : false, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : false, 
+    "notification" : false, 
+    "isdelete" : true, 
+    "bazaarname" : "igamez", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "11:0", 
+        "closetime" : "22:0"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-27T21:43:21.096+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6088608895ab1c5757ea55c3"}, 
+    "status" : false, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : false, 
+    "notification" : false, 
+    "isdelete" : true, 
+    "bazaarname" : "MAIN SRIDEVI", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "11:40", 
+        "closetime" : "12:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T00:35:44.885+0000"}, 
+    "__v" : 0
+}
+{ 
+    "_id" : {"$oid":"6088623a95ab1c5757ea55c4"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : false, 
+    "bazaarname" : "BHOOTNATH MORNING", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "10:30", 
+        "closetime" : "12:30"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-08-01T04:06:44.324+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "9", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100000", 
+            "status" : false
+        }, 
+        "609945b14abd6e25d23b922f" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "609945c84abd6e25d23b9230" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1be4fb746f26369073e74" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1bea7b746f26369073e75" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1bec5b746f26369073e77" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088639c95ab1c5757ea55c6"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : false, 
+    "bazaarname" : "MADHURI", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "11:0", 
+        "closetime" : "12:0"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T00:48:52.188+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088646495ab1c5757ea55c7"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : false, 
+    "bazaarname" : "TIME KALYAN", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "12:20", 
+        "closetime" : "14:20"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T00:52:12.176+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"608864d395ab1c5757ea55c8"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "DHANLAXMI DAY", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "12:30", 
+        "closetime" : "14:30"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T00:54:03.433+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088652495ab1c5757ea55c9"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "TIME SYNDICATE", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "12:45", 
+        "closetime" : "13:45"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-05-18T13:18:02.269+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"608865e495ab1c5757ea55ca"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : false, 
+    "bazaarname" : "BALAJI DAY", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "13:0", 
+        "closetime" : "14:0"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T00:58:36.118+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088661595ab1c5757ea55cb"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : false, 
+    "bazaarname" : "MADHURI DAY", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "13:40", 
+        "closetime" : "14:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T00:59:25.425+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088664495ab1c5757ea55cc"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : false, 
+    "bazaarname" : "MORNING SYNDICATE", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "14:35", 
+        "closetime" : "15:35"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T01:00:12.730+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088667495ab1c5757ea55cd"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : false, 
+    "bazaarname" : "MILAN DAY", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "15:5", 
+        "closetime" : "17:5"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-07-30T14:42:32.596+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }, 
+        "609945b14abd6e25d23b922f" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "609945c84abd6e25d23b9230" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "0300", 
+            "status" : true
+        }, 
+        "60c1be4fb746f26369073e74" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1bea7b746f26369073e75" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "60c1bec5b746f26369073e77" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088670295ab1c5757ea55ce"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : false, 
+    "bazaarname" : "KALYAN", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "16:15", 
+        "closetime" : "18:15"
+    }, 
+    "week" : {
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T01:03:22.327+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088676595ab1c5757ea55d0"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "MAIN RATAN DAY", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "16:55", 
+        "closetime" : "18:55"
+    }, 
+    "updated_at" : {"$date":"2021-05-26T16:51:57.534+0000"}, 
+    "__v" : 0, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"608867af95ab1c5757ea55d1"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "JANTA DAY ", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "17:0", 
+        "closetime" : "19:0"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T01:06:15.816+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"608867eb95ab1c5757ea55d2"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "MAIN SRIDEVI NIGHT", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "19:10", 
+        "closetime" : "20:10"
+    }, 
+    "week" : {
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-07-28T19:18:35.685+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }, 
+        "609945b14abd6e25d23b922f" : {
+            "minbetprice" : "20", 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "609945c84abd6e25d23b9230" : {
+            "minbetprice" : "15", 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "60c1be4fb746f26369073e74" : {
+            "minbetprice" : "25", 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "60c1bea7b746f26369073e75" : {
+            "minbetprice" : "13", 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1bec5b746f26369073e77" : {
+            "minbetprice" : "14", 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088681495ab1c5757ea55d3"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "SYNDICATE NIGHT", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "20:10", 
+        "closetime" : "21:10"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T01:07:56.036+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088683795ab1c5757ea55d4"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "BALAJI NIGHT ", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "20:25", 
+        "closetime" : "22:25"
+    }, 
+    "week" : {
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-07-28T19:18:13.873+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }, 
+        "609945b14abd6e25d23b922f" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "609945c84abd6e25d23b9230" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1be4fb746f26369073e74" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1bea7b746f26369073e75" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1bec5b746f26369073e77" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088687295ab1c5757ea55d5"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "MADHURI NIGHT", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "20:30", 
+        "closetime" : "22:30"
+    }, 
+    "week" : {
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T01:09:30.166+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"608868fb95ab1c5757ea55d6"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "BHOOTNATH NIGHT", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:25", 
+        "closetime" : "23:30"
+    }, 
+    "week" : {
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T01:11:47.872+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088691a95ab1c5757ea55d7"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "MILAN NIGHT", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "20:50", 
+        "closetime" : "22:50"
+    }, 
+    "week" : {
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T01:12:18.072+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088694495ab1c5757ea55d8"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "RAJDHANI NIGHT", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:25", 
+        "closetime" : "23:40"
+    }, 
+    "week" : {
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T01:13:00.463+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088696d95ab1c5757ea55d9"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "MAIN  MUMBAI", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "21:40", 
+        "closetime" : "23:59"
+    }, 
+    "week" : {
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true
+    }, 
+    "updated_at" : {"$date":"2021-05-08T21:44:02.775+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6088699995ab1c5757ea55da"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "MORNING SYNDICATE NIGHT", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "22:0", 
+        "closetime" : "23:20"
+    }, 
+    "week" : {
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T01:14:25.500+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"608869bd95ab1c5757ea55db"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "DHANLAXMI NIGHT", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "22:15", 
+        "closetime" : "23:30"
+    }, 
+    "week" : {
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T01:15:01.689+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890a2895ab1c5757ea55e5"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "DISAWAR", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "4:0", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:39:28.769+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "85", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "8.5", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "8.5", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890a9d95ab1c5757ea55e6"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "JANTA", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "11:0", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:41:25.789+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890ac595ab1c5757ea55e7"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "METRO", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "12:30", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:42:05.928+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890adf95ab1c5757ea55e8"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "GALI GOLD", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "14:30", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:42:31.424+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890af995ab1c5757ea55e9"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "KALYAN GOLD", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "16:0", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:42:57.949+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890b7e95ab1c5757ea55ea"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "FARIDABAD", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "18:0", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:45:10.144+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "90", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "9", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "9", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890cb095ab1c5757ea55eb"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "DISAWAR GOLD", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "19:0", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:50:16.438+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890cd195ab1c5757ea55ec"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "GHAZIABAD", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "20:0", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:50:49.194+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "90", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "9", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "9", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890cee95ab1c5757ea55ed"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "RAJDHANI GOLD", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "20:30", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:51:18.394+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890d9f95ab1c5757ea55f0"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "KUBER", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "22:30"
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:54:15.030+0000"}, 
+    "__v" : 0, 
+    "week" : {
+
+    }, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890ecd95ab1c5757ea55f1"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "GALI", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "23:0"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T12:59:17.715+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890f0395ab1c5757ea55f2"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "DHANLAXMI", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "23:30"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T13:00:11.841+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60890f1795ab1c5757ea55f3"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "MUMBAI", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "23:55"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T13:00:31.965+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"608914c695ab1c5757ea55f7"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "KALYAN STARLINE", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "11:0", 
+        "closetime" : "22:0", 
+        "interval" : "1"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T13:24:46.468+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6089152195ab1c5757ea55f8"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "MILAN STARLINE", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "9:30", 
+        "closetime" : "20:30", 
+        "interval" : "1"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T13:26:17.093+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6089158f95ab1c5757ea55f9"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : false, 
+    "bazaarname" : "DUBAI STARLINE", 
+    "bazaartype" : "3", 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "timers" : {
+        "opentime" : "22:0", 
+        "closetime" : "3:30", 
+        "interval" : ".5"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-05-29T14:12:53.458+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"6089207aa5754d76f38c60d8"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : false, 
+    "bazaarname" : "KAMDHENU", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "15:40", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-07-28T19:17:13.256+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }, 
+        "609945b14abd6e25d23b922f" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "609945c84abd6e25d23b9230" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1be4fb746f26369073e74" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1bea7b746f26369073e75" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1bec5b746f26369073e77" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60892109a5754d76f38c60d9"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : false, 
+    "bazaarname" : "BALAJI", 
+    "bazaartype" : "2", 
+    "ownership" : "1", 
+    "postCalled" : "1", 
+    "timers" : {
+        "opentime" : "5:15", 
+        "closetime" : "17:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-05-06T20:41:35.347+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "601549609d942a28fa179e95" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "6015496b9d942a28fa179e96" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"60892a6124214a0808a841a2"}, 
+    "status" : false, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : true, 
+    "isdelete" : true, 
+    "bazaarname" : "kamdhwnhefef", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "10:15", 
+        "closetime" : "11:45"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-04-28T14:56:57.198+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"608bcd518903d116fda6ca8b"}, 
+    "status" : false, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : true, 
+    "bazaarname" : "MAIN SRIDEVI", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "11:40", 
+        "closetime" : "12:40"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-05-29T18:09:03.056+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }, 
+        "609945b14abd6e25d23b922f" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "609945c84abd6e25d23b9230" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"609fa4b770f5c432c121b931"}, 
+    "status" : true, 
+    "resultmode" : false, 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "notification" : false, 
+    "isdelete" : true, 
+    "bazaarname" : "DISAWAR NIGHT", 
+    "bazaartype" : "1", 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "timers" : {
+        "opentime" : "19:30", 
+        "closetime" : "22:30"
+    }, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "updated_at" : {"$date":"2021-05-29T14:23:32.518+0000"}, 
+    "__v" : 0, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : false
+        }, 
+        "609945b14abd6e25d23b922f" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "609945c84abd6e25d23b9230" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }
+    }
+}
+{ 
+    "_id" : {"$oid":"609f8b0df685d332f4403850"}, 
+    "__v" : 0, 
+    "bazaarname" : "dubai dddd", 
+    "bazaartype" : "3", 
+    "blocktime" : 3, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }
+    }, 
+    "hightlight" : true, 
+    "isdelete" : true, 
+    "notification" : true, 
+    "ownership" : "1", 
+    "postCalled" : "4", 
+    "resultmode" : false, 
+    "status" : false, 
+    "timers" : {
+        "opentime" : "22:0", 
+        "closetime" : "15:0", 
+        "interval" : "12"
+    }, 
+    "updated_at" : {"$date":"2021-06-01T09:08:00.051+0000"}, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"609f9374f685d332f4403865"}, 
+    "__v" : 0, 
+    "bazaarname" : "MAIN  SRIDEVI", 
+    "bazaartype" : "1", 
+    "blocktime" : 2, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : true
+        }, 
+        "609945b14abd6e25d23b922f" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "609945c84abd6e25d23b9230" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1be4fb746f26369073e74" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1bea7b746f26369073e75" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }, 
+        "60c1bec5b746f26369073e77" : {
+            "minbetprice" : 0, 
+            "oddsprice" : 0, 
+            "status" : false
+        }
+    }, 
+    "hightlight" : true, 
+    "isdelete" : false, 
+    "notification" : false, 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "resultmode" : false, 
+    "status" : true, 
+    "timers" : {
+        "opentime" : "11:40", 
+        "closetime" : "12:40"
+    }, 
+    "updated_at" : {"$date":"2021-07-28T19:17:45.407+0000"}, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }
+}
+{ 
+    "_id" : {"$oid":"60a4b17ea0eec632574da41d"}, 
+    "__v" : 0, 
+    "bazaarname" : "DISAWAR NIGHT", 
+    "bazaartype" : "1", 
+    "blocktime" : 2, 
+    "hightlight" : true, 
+    "isdelete" : false, 
+    "notification" : false, 
+    "ownership" : "1", 
+    "postCalled" : "3", 
+    "resultmode" : false, 
+    "status" : true, 
+    "timers" : {
+        "opentime" : "19:30", 
+        "closetime" : "22:30"
+    }, 
+    "updated_at" : {"$date":"2021-06-09T21:27:09.700+0000"}, 
+    "week" : {
+        "0" : true, 
+        "1" : true, 
+        "2" : true, 
+        "3" : true, 
+        "4" : true, 
+        "5" : true, 
+        "6" : true
+    }, 
+    "gamelink" : {
+        "5fc930b87dd9d342e2dd42c3" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10", 
+            "status" : true
+        }, 
+        "5fc934917dd9d342e2dd42c5" : {
+            "minbetprice" : "5", 
+            "oddsprice" : "100", 
+            "status" : true
+        }, 
+        "5fc9e0b980a8e211dea0ddaa" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "150", 
+            "status" : true
+        }, 
+        "5fc9e0c480a8e211dea0ddab" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "300", 
+            "status" : true
+        }, 
+        "5fcdb81c65fd7c228d9d2224" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "800", 
+            "status" : true
+        }, 
+        "5fcf027188835f04b5f2f86b" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "1000", 
+            "status" : true
+        }, 
+        "5fcf028888835f04b5f2f86c" : {
+            "minbetprice" : "10", 
+            "oddsprice" : "10000", 
+            "status" : true
+        }
+    }
+}

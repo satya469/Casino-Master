@@ -1,0 +1,373 @@
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f1a"}, 
+    "eventType" : "1", 
+    "__v" : 0, 
+    "marketCount" : 2492, 
+    "name" : "Soccer", 
+    "status" : true, 
+    "icon" : "2f5102b9aeda5afe602dc275375026ea.png", 
+    "image" : "2c8091fefe7f6fd05c7025420c24b533.png", 
+    "order" : 2, 
+    "svgicon" : {
+        "icon" : "M16.887 10l1.082-1.873c.142.602.225 1.227.225 1.873a8.16 8.16 0 01-.225 1.874L16.887 10zm-3.431 5.987h2.12a8.166 8.166 0 01-3.187 1.85l1.067-1.85zm-6.912 0l1.067 1.85a8.17 8.17 0 01-3.187-1.85h2.12zm0-11.974h-2.12a8.186 8.186 0 013.187-1.85l-1.067 1.85zm6.912 0l-1.068-1.85a8.178 8.178 0 013.187 1.85h-2.119zm2.734 5.584h-2.734l-1.379-2.389 1.379-2.389h2.734l1.379 2.39-1.38 2.388zm-7.57 3.599h2.734l1.392 2.41-1.366 2.368H8.62l-1.379-2.39 1.38-2.388zm-4.864-2.793h2.759l1.379 2.39-1.379 2.388H3.756l-1.378-2.388 1.378-2.39zm2.759-5.584l1.379 2.39-1.379 2.388H3.756L2.378 7.208 3.756 4.82h2.759zm4.839 1.986H8.62L7.241 4.416l1.38-2.389h2.759l1.366 2.367-1.392 2.411zM8.62 12.39L7.241 10l1.38-2.389h2.733L12.733 10l-1.379 2.39H8.62zm4.836 2.79l-1.379-2.387 1.379-2.39h2.734l1.379 2.39-1.38 2.388h-2.733zM1.806 10c0-.622.076-1.226.207-1.81L3.058 10l-1.044 1.81A8.167 8.167 0 011.806 10zM10 1c-4.963 0-9 4.037-9 9s4.037 9 9 9 9-4.037 9-9-4.037-9-9-9z", 
+        "color" : "#e81f1f", 
+        "viewBox" : "0 0 20 20"
+    }
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f1d"}, 
+    "eventType" : "2", 
+    "__v" : 0, 
+    "marketCount" : 5578, 
+    "name" : "Tennis", 
+    "status" : true, 
+    "icon" : "23b04ef9f2e0c07d86d58fb1bfe81c26.png", 
+    "image" : "2cb3e4ad70cf07cb9c8e864df90f5ec5.png", 
+    "order" : 3, 
+    "svgicon" : {
+        "icon" : "M4.338 15.91A8.13 8.13 0 0110 13.626a8.11 8.11 0 015.659 2.283A8.159 8.159 0 0110 18.194a8.161 8.161 0 01-5.662-2.285zM3.784 4.673A8.907 8.907 0 0010 7.18a8.933 8.933 0 006.216-2.503 8.151 8.151 0 01-.003 10.65A8.908 8.908 0 0010 12.82c-2.34 0-4.532.892-6.217 2.504a8.154 8.154 0 01.001-10.65zm11.877-.582A8.132 8.132 0 0110 6.373c-2.14 0-4.13-.813-5.661-2.282a8.156 8.156 0 0111.322 0zm.88 12.069A8.95 8.95 0 0019 10c0-4.963-4.037-9-9-9a8.965 8.965 0 00-6.501 2.794c-.006.003-.013.002-.018.005-.006.007-.004.018-.01.024A8.961 8.961 0 001 10c0 4.963 4.036 9 9 9 2.55 0 4.85-1.07 6.49-2.781.008-.008.022-.004.032-.013.013-.012.01-.031.02-.045z", 
+        "color" : "#b3804a", 
+        "viewBox" : "0 0 20 20"
+    }
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f1f"}, 
+    "eventType" : "4", 
+    "__v" : 0, 
+    "marketCount" : 22, 
+    "name" : "Cricket", 
+    "status" : true, 
+    "icon" : "fd926b5326748178540de1a94cf36da7.png", 
+    "image" : "06dbc567249685dd836390a8b18c45bf.png", 
+    "order" : 1, 
+    "svgicon" : {
+        "icon" : "M14.716 5.832a.382.382 0 01.255-.475l.485-.146a.38.38 0 11.22.728l-.485.148a.382.382 0 01-.475-.255zm-.398-.725c.145-.268.385-.464.677-.551a1.12 1.12 0 01.868.087c.17.091.298.23.399.386a.375.375 0 00-.088.363c.04.131.148.208.27.241a1.127 1.127 0 01-1.662 1.022 1.112 1.112 0 01-.397-.388.38.38 0 00.09-.364.38.38 0 00-.276-.253 1.125 1.125 0 01.119-.543zm-.694 1.433l.019-.003a1.896 1.896 0 002.229.933 1.907 1.907 0 001.342-2.011.376.376 0 00.174-.43.374.374 0 00-.38-.264 1.895 1.895 0 00-2.23-.938 1.892 1.892 0 00-1.13.921 1.892 1.892 0 00-.216 1.091.378.378 0 00-.173.431c.051.165.202.27.365.27zm4.314 9.994l-1.403 1.404c-.292.294-.756.363-1.132.212l.466-.467a.385.385 0 000-.54.383.383 0 00-.539 0l-.523.525-9.297-9.3a1.032 1.032 0 010-1.46l1.403-1.405c.2-.202.466-.302.728-.302.265 0 .53.1.73.302l9.567 9.57a1.034 1.034 0 010 1.46zM1.79 2.463l.68-.681.016-.001h.124l3.474 3.474-.823.822L1.79 2.604a.1.1 0 010-.142zm16.687 12.072L8.91 4.965c-.591-.591-1.572-.664-2.262-.222L3.15 1.244a.883.883 0 00-1.218-.001l-.68.68a.86.86 0 00-.252.61c0 .23.09.447.251.61l3.496 3.498c-.194.292-.3.636-.3.996 0 .48.187.931.524 1.269l9.565 9.568a.003.003 0 01.001.003h.002a1.78 1.78 0 001.266.523c.48 0 .93-.187 1.268-.523l1.404-1.405c.336-.337.523-.788.523-1.269 0-.48-.187-.93-.523-1.268z", 
+        "color" : "#e1b319", 
+        "viewBox" : "0 0 20 20"
+    }
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f21"}, 
+    "eventType" : "000", 
+    "__v" : 0, 
+    "marketCount" : 0, 
+    "name" : "Inplay", 
+    "status" : true, 
+    "order" : 0, 
+    "icon" : "750ff29caccf8ffaa1ce5ad711193e07.png"
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f23"}, 
+    "eventType" : "4339", 
+    "__v" : 0, 
+    "marketCount" : 298, 
+    "name" : "Greyhound Racing", 
+    "status" : false, 
+    "order" : 6
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f25"}, 
+    "eventType" : "-1", 
+    "__v" : 0, 
+    "marketCount" : 1, 
+    "name" : "Live Teen Patti", 
+    "status" : false, 
+    "order" : 7
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f27"}, 
+    "eventType" : "-2", 
+    "__v" : 0, 
+    "marketCount" : 1, 
+    "name" : "Live Pocker", 
+    "status" : false, 
+    "order" : 8
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f29"}, 
+    "eventType" : "-3", 
+    "__v" : 0, 
+    "marketCount" : 1, 
+    "name" : "Andar Bahar", 
+    "status" : false, 
+    "order" : 9
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f2b"}, 
+    "eventType" : "-4", 
+    "__v" : 0, 
+    "marketCount" : 1, 
+    "name" : "Pro Kabbadi", 
+    "status" : false, 
+    "order" : 10
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f2d"}, 
+    "eventType" : "-5", 
+    "__v" : 0, 
+    "marketCount" : 1, 
+    "name" : "Election", 
+    "status" : false, 
+    "order" : 11
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f2f"}, 
+    "eventType" : "-6", 
+    "__v" : 0, 
+    "marketCount" : 1, 
+    "name" : "Ludo", 
+    "status" : false, 
+    "order" : 12
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f31"}, 
+    "eventType" : "-7", 
+    "__v" : 0, 
+    "marketCount" : 0, 
+    "name" : "Lucky 7", 
+    "status" : false, 
+    "order" : 13
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f33"}, 
+    "eventType" : "-9", 
+    "__v" : 0, 
+    "marketCount" : 0, 
+    "name" : "Virtual Game", 
+    "status" : false, 
+    "order" : 14
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f35"}, 
+    "eventType" : "-8", 
+    "__v" : 0, 
+    "marketCount" : 0, 
+    "name" : "Live Games", 
+    "status" : false, 
+    "order" : 15
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f37"}, 
+    "eventType" : "-10", 
+    "__v" : 0, 
+    "marketCount" : 0, 
+    "name" : "Worli", 
+    "status" : false, 
+    "order" : 16
+}
+{ 
+    "_id" : {"$oid":"60ca49d160820396943f1f39"}, 
+    "eventType" : "-11", 
+    "__v" : 0, 
+    "marketCount" : 0, 
+    "name" : "Virtual Games", 
+    "status" : false, 
+    "order" : 17
+}
+{ 
+    "_id" : {"$oid":"60ccb02e60820396948f9e6b"}, 
+    "eventType" : "3", 
+    "__v" : 0, 
+    "marketCount" : 113, 
+    "name" : "Golf", 
+    "order" : 18, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb02f60820396948f9e9c"}, 
+    "eventType" : "5", 
+    "__v" : 0, 
+    "marketCount" : 61, 
+    "name" : "Rugby Union", 
+    "order" : 19, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb02f60820396948f9e9e"}, 
+    "eventType" : "1477", 
+    "__v" : 0, 
+    "marketCount" : 73, 
+    "name" : "Rugby League", 
+    "order" : 20, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb02f60820396948f9ea3"}, 
+    "eventType" : "6", 
+    "__v" : 0, 
+    "marketCount" : 69, 
+    "name" : "Boxing", 
+    "order" : 21, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03060820396948f9ead"}, 
+    "eventType" : "8", 
+    "__v" : 0, 
+    "marketCount" : 19, 
+    "name" : "Motor Sport", 
+    "order" : 22, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03160820396948f9eb1"}, 
+    "eventType" : "27454571", 
+    "__v" : 0, 
+    "marketCount" : 76, 
+    "name" : "Esports", 
+    "order" : 23, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03160820396948f9eb7"}, 
+    "eventType" : "10", 
+    "__v" : 0, 
+    "marketCount" : 3, 
+    "name" : "Special Bets", 
+    "order" : 24, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03160820396948f9ebb"}, 
+    "eventType" : "998917", 
+    "__v" : 0, 
+    "marketCount" : 5, 
+    "name" : "Volleyball", 
+    "order" : 25, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03260820396948f9ecf"}, 
+    "eventType" : "11", 
+    "__v" : 0, 
+    "marketCount" : 1, 
+    "name" : "Cycling", 
+    "order" : 26, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03360820396948f9f50"}, 
+    "eventType" : "2152880", 
+    "__v" : 0, 
+    "marketCount" : 56, 
+    "name" : "Gaelic Games", 
+    "order" : 27, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03360820396948f9f54"}, 
+    "eventType" : "3988", 
+    "__v" : 0, 
+    "marketCount" : 1, 
+    "name" : "Athletics", 
+    "order" : 28, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03460820396948f9f57"}, 
+    "eventType" : "6422", 
+    "__v" : 0, 
+    "marketCount" : 3, 
+    "name" : "Snooker", 
+    "order" : 29, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03460820396948f9f65"}, 
+    "eventType" : "7511", 
+    "__v" : 0, 
+    "marketCount" : 42, 
+    "name" : "Baseball", 
+    "order" : 30, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03460820396948f9f69"}, 
+    "eventType" : "6423", 
+    "__v" : 0, 
+    "marketCount" : 59, 
+    "name" : "American Football", 
+    "order" : 31, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03560820396948f9f6e"}, 
+    "eventType" : "606611", 
+    "__v" : 0, 
+    "marketCount" : 7, 
+    "name" : "Netball", 
+    "order" : 32, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03560820396948f9f73"}, 
+    "eventType" : "7522", 
+    "__v" : 0, 
+    "marketCount" : 76, 
+    "name" : "Basketball", 
+    "order" : 33, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03560820396948f9f79"}, 
+    "eventType" : "27589895", 
+    "__v" : 0, 
+    "marketCount" : 1, 
+    "name" : "Olympics", 
+    "order" : 34, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03660820396948f9f7d"}, 
+    "eventType" : "7524", 
+    "__v" : 0, 
+    "marketCount" : 37, 
+    "name" : "Ice Hockey", 
+    "order" : 35, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03660820396948f9f81"}, 
+    "eventType" : "61420", 
+    "__v" : 0, 
+    "marketCount" : 82, 
+    "name" : "Australian Rules", 
+    "order" : 36, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03660820396948f9f86"}, 
+    "eventType" : "468328", 
+    "__v" : 0, 
+    "marketCount" : 30, 
+    "name" : "Handball", 
+    "order" : 37, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03760820396948f9f90"}, 
+    "eventType" : "3503", 
+    "__v" : 0, 
+    "marketCount" : 1, 
+    "name" : "Darts", 
+    "order" : 38, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03760820396948f9fca"}, 
+    "eventType" : "26420387", 
+    "__v" : 0, 
+    "marketCount" : 49, 
+    "name" : "Mixed Martial Arts", 
+    "order" : 39, 
+    "status" : false
+}
+{ 
+    "_id" : {"$oid":"60ccb03860820396948fa013"}, 
+    "eventType" : "2378961", 
+    "__v" : 0, 
+    "marketCount" : 48, 
+    "name" : "Politics", 
+    "order" : 40, 
+    "status" : false
+}

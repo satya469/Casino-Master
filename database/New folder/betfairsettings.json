@@ -1,0 +1,37 @@
+{ 
+    "_id" : {"$oid":"60db5b0c60820396945a36fe"}, 
+    "key" : "setfancy", 
+    "__v" : 0, 
+    "value" : {
+        "MinimumBet" : "123", 
+        "MaximumBet" : "789"
+    }
+}
+{ 
+    "_id" : {"$oid":"60db618160820396945b866c"}, 
+    "key" : "setBookmarker", 
+    "__v" : 0, 
+    "value" : {
+        "MinimumBet" : "100", 
+        "MaximumBet" : "10000"
+    }
+}
+{ 
+    "_id" : {"$oid":"610414abc6f0604aa520a2dd"}, 
+    "key" : "setbetaccepingtime", 
+    "__v" : 0, 
+    "value" : {
+        "matchodd" : {
+            "isChecked" : false, 
+            "matchtime" : "30"
+        }, 
+        "fancy" : {
+            "isChecked" : true, 
+            "matchtime" : ""
+        }, 
+        "bookmaker" : {
+            "isChecked" : false, 
+            "matchtime" : "60"
+        }
+    }
+}

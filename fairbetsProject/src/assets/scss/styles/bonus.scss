@@ -1,0 +1,67 @@
+.casino-bonus-page{
+    .header{
+        background-color: $bounusBorderColor;
+        padding: 5px 10px;
+        border-radius: 5px;
+        display: flex;
+        font-size: 0.9rem;
+        span {
+            width: calc((100% - 30px)/3);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #fff;
+        }
+    }
+    .body{
+        .item,*{
+            text-align: center;
+        }
+        p{
+            font-size: 12px;
+        }
+        .item{
+            .item-header{
+                padding: 5px 10px;
+                margin: 10px 0;
+                background-color: $bounusBackgroundColor;
+                border: 1px soild $bounusBorderColor;
+                border-radius: 5px;
+                color: #fff;
+
+                display: flex;
+                span{
+                    width: calc((100% - 30px)/3);
+                    display: flex;
+                    justify-content: center;
+                    font-size: 0.9rem;
+                    align-items: center;
+                    color: #fff;
+                }
+                span:last-child{
+                    width: 30px;
+                }
+                
+            }
+            .item-body{
+                 th,  td{
+                    font-size: 0.8rem;
+                    padding: 0.5rem !important;
+                    color: #fff;
+                }
+               
+            }
+        }
+    }
+}
+
+.dz-thumb{
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    img{
+        width: 100%;
+        height: 35vh;
+        border-radius: 3px;
+    }
+}
